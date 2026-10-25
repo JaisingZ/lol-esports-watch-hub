@@ -1,0 +1,15 @@
+霓虹竞技场 V4 / 召唤师峡谷主题
+生成方式：内置 imagegen，编辑现有 V3 背景；未使用 CLI fallback。
+日期：2026-10-25（Asia/Shanghai）
+输入：../neon-arena-background-v1.png
+输出：summoners-rift-background-v4.png（1672 × 941；保留生成的原始 PNG）
+
+完整实际提示词：
+Use case: precise-object-edit
+Asset type: landscape website background, Neon Arena V4, artistic interpretation of League of Legends Summoner's Rift.
+Input image: supplied existing V3 background is the edit target. Preserve its wide landscape aspect ratio, black-purple palette with electric blue and restrained magenta light, quiet dark left half for HTML headings, visual focus in the right half, atmospheric depth and dark fade along bottom.
+Change scene architecture and terrain: replace the science-fiction arena, floating ring, levitating debris, stadium seating and skyscraper spires with a grounded Summoner's Rift inspired stone base nestled in a forested canyon.
+Right focal group: ONE large recognizable blue crystal Nexus on a broad ancient carved stone circular foundation, guarded by EXACTLY TWO distinct smaller defensive turrets, one to each side in front. Turrets must look like heavy weathered stone sentinel towers with compact luminous crystal weapon crowns, visibly different from the large central Nexus. Keep the whole Nexus-and-two-turrets silhouette within the central-right area, with clear separation, suitable for mobile cropping.
+Midground: worn stone lane paving leading from the base, a distant lane turret and jungle entrances. Surrounding terrain: a winding blue river, tall brush patches, dark conifer woodland and layered canyon rock walls. Blue crystal illumination; magenta restricted to atmospheric rim light and subtle distant haze. Keep vegetation visible but subdued. League of Legends fantasy-game environmental concept art, elegant painterly 3D depth, not a futuristic stadium.
+Critical composition: keep the main three structures fully inside roughly x=60%-93%, y=25%-70% of frame so they survive a shallow website banner crop. Left 45% remains uncluttered and dark for text. Balanced highlights, readable stone/crystal/magic material separation.
+No heroes, no characters, no crowds, no logos, no text, no watermarks, no UI. Opaque background. This is fan concept art, not an official screenshot.

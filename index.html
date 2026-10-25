@@ -1,35 +1,57 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="A multilingual League of Legends esports video navigation project. Site preparation is in progress." />
-    <meta name="theme-color" content="#f5f6f8" />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23273647'/%3E%3Cpath d='M13 18l8 28 11-19 11 19 8-28' fill='none' stroke='white' stroke-width='5' stroke-linejoin='round'/%3E%3C/svg%3E" />
-    <title>LoL Esports Watch Hub — Site preparation</title>
-    <script type="module" src="/src/main.js"></script>
-  </head>
-  <body>
-    <main class="shell">
-      <header>
-        <p class="brand">LoL Esports Watch Hub</p>
-        <div class="language-control">
-          <label for="language" data-i18n="languageLabel">Interface language</label>
-          <select id="language" name="language"></select>
-        </div>
-      </header>
-      <section class="notice" aria-labelledby="page-heading">
-        <p class="event-label" lang="en">WORLDS 2026 · S16</p>
-        <p class="eyebrow" data-i18n="status">SITE PREPARATION</p>
-        <h1 id="page-heading" data-i18n="heading">A new way to find your match.</h1>
-        <p class="description" data-i18n="description">We are preparing a multilingual League of Legends esports video guide, starting with Worlds 2026.</p>
-        <p class="detail" data-i18n="detail">Page design and match links are being prepared. This preview is not the finished video guide.</p>
-        <a class="schedule-link" href="https://lolesports.com/en-US/" target="_blank" rel="noopener noreferrer">
-          <span data-i18n="schedule">Visit the official schedule</span><span aria-hidden="true"> ↗</span>
-        </a>
-      </section>
-      <footer><p data-i18n="footer">An independent fan project. Videos will open on their original platforms.</p></footer>
-      <noscript><p>This preview needs JavaScript to switch languages. The official schedule link remains available.</p></noscript>
-    </main>
-  </body>
-</html>
+<html lang="en" data-theme="neon">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><meta name="theme-color" content="#0d0919"><meta name="description" content="Find League of Legends Worlds 2026 replays by commentary language. Verified sources, direct links, eight interface languages."><title>LoL Esports Watch Hub — Worlds 2026</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 46'%3E%3Cpath fill='%230d0919' stroke='%23a5c7ff' stroke-width='2' d='M20 2 37 11v23L20 44 3 34V11Z'/%3E%3Cpath d='m10 15 5 17 5-10 5 10 5-17' fill='none' stroke='%23a5c7ff' stroke-width='2.3'/%3E%3C/svg%3E">
+<script type="module" src="/src/main.js"></script></head><body>
+<svg class="svg-defs" aria-hidden="true"><defs>
+<symbol id="icon-search" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m15 15 6 6" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+<symbol id="icon-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 6v6l4 2" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+<symbol id="icon-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M3 12h18" fill="none" stroke="currentColor" stroke-width="1.4"/></symbol>
+<symbol id="icon-reset" viewBox="0 0 24 24"><path d="M4 11a8 8 0 1 1 2 6M4 4v7h7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+</defs></svg>
+
+<div class="shell">
+<header class="header">
+  <a class="brand" href="#main" aria-label="LoL Esports Watch Hub">
+    <svg class="brand-icon" viewBox="0 0 40 46" aria-hidden="true"><path d="M20 2 37 11v23L20 44 3 34V11Z" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="m10 15 5 17 5-10 5 10 5-17" fill="none" stroke="currentColor" stroke-width="2.3"/></svg>
+    <div class="brand-name">LoL ESPORTS<span>WATCH HUB</span></div>
+  </a>
+  <div class="header-right">
+    <a class="official-link" href="https://lolesports.com/en-US/" target="_blank" rel="noopener noreferrer"><span data-i18n="schedule"></span><span class="external" aria-hidden="true">↗</span></a>
+    <div class="ui-control"><svg aria-hidden="true"><use href="#icon-globe"/></svg><label class="sr-only" for="ui-language" data-i18n="interfaceLanguage"></label><select id="ui-language"></select></div>
+  </div>
+</header>
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy"><div class="eyebrow">WORLDS 2026 · S16</div><h1 id="hero-title" data-i18n="heroTitle"></h1><p data-i18n="heroDescription"></p></div>
+  <svg class="hero-art" viewBox="0 0 260 260" fill="none" aria-hidden="true"><g stroke="currentColor"><path class="outer" d="M130 5 238 67v126L130 255 22 193V67Z"/><path class="outer" d="M130 22 223 76v108l-93 54-93-54V76Z"/><path class="mid" d="m130 45 73 42v86l-73 42-73-42V87Z"/><path class="mid" d="M130 65 186 97v66l-56 32-56-32V97Z"/><path class="core" d="m130 85 39 22v46l-39 22-39-22v-46Z"/><path class="rune" d="M130 5v35m0 180v35M22 67l32 19m152 88 32 19M22 193l32-19m152-88 32-19"/><path class="outer" d="M7 130h46m154 0h46M65 18l23 39m84 146 23 39M65 242l23-39m84-146 23-39"/></g></svg>
+  <span class="hero-year" aria-hidden="true">2026</span><span class="hero-mark" aria-hidden="true">YOUR GAME. YOUR WAY.</span>
+</section>
+<section class="channel-strip" id="channel-strip" aria-labelledby="channels-title"><div class="section-heading"><h2 id="channels-title" data-i18n="channelsTitle"></h2><span class="microcopy" data-i18n="channelNote"></span></div><div class="channel-grid" id="channel-grid"></div></section>
+<main id="main" class="content-layout">
+  <section aria-labelledby="replays-title">
+    <div class="match-heading"><h2 id="replays-title" data-i18n="replaysTitle"></h2></div>
+    <div class="catalog-filters">
+<div class="field"><label for="tournament" data-i18n="tournament"></label><select id="tournament"></select></div>
+<div class="field"><label for="season" data-i18n="season"></label><select id="season"></select></div>
+<div class="field"><label for="video-type" data-i18n="videoType"></label><select id="video-type"></select></div>
+</div><form class="filters" id="filters" role="search">
+      <div class="field search-field"><label for="search" data-i18n="searchLabel"></label><div class="search-wrap"><svg class="search-icon" aria-hidden="true"><use href="#icon-search"/></svg><input id="search" type="search" autocomplete="off" spellcheck="false"></div></div>
+      <div class="field"><label for="commentary" data-i18n="commentary"></label><select id="commentary"></select></div>
+      <div class="field"><label for="stage" data-i18n="stage"></label><select id="stage"></select></div>
+      <button class="reset-button" type="button" id="reset"><svg aria-hidden="true"><use href="#icon-reset"/></svg></button>
+    </form>
+    <div class="results-meta"><span id="result-count" aria-live="polite" aria-atomic="true"></span><span class="timezone" id="timezone"></span></div>
+    <div class="match-list" id="match-list"></div>
+    <div class="empty" id="empty" hidden><svg aria-hidden="true"><use href="#icon-search"/></svg><h3 id="empty-title"></h3><p id="empty-description"></p><a href="https://lolesports.com/en-US/" target="_blank" rel="noopener noreferrer" data-i18n="schedule"></a><button type="button" class="primary-button" id="reset-empty" data-i18n="clear"></button><button type="button" class="primary-button" id="retry" data-i18n="retry" hidden></button></div>
+  </section>
+  <aside class="sidebar">
+    <section class="side-panel"><div class="side-eyebrow">THE WATCH ROUTE</div><h3 data-i18n="routeTitle"></h3><ol class="steps"><li><span class="step-number">01</span><span data-i18n="step1"></span></li><li><span class="step-number">02</span><span data-i18n="step2"></span></li><li><span class="step-number">03</span><span data-i18n="step3"></span></li></ol></section>
+    <section class="side-panel"><div class="side-eyebrow">GLOBAL BY DESIGN</div><h3 data-i18n="coverageTitle"></h3><div class="coverage-langs" aria-hidden="true"><span>中文</span><span>EN</span><span>한국어</span><span>日本語</span><span>VI</span><span>ไทย</span><span>PT-BR</span></div><p data-i18n="coverageDescription"></p></section>
+    <section class="side-panel"><div class="side-eyebrow">SOURCE FIRST</div><h3 data-i18n="sourceTitle"></h3><p data-i18n="sourceDescription"></p><a class="source-link" href="https://lolesports.com/es-MX/news/worlds-2026-primer" target="_blank" rel="noopener noreferrer"><span data-i18n="sourceLink"></span><span class="external" aria-hidden="true">↗</span></a></section>
+  </aside>
+</main>
+<footer class="footer"><span data-i18n="footer"></span><span class="source-updated" id="updated"></span></footer>
+</div>
+
+<noscript><p>Please enable JavaScript to browse matches. <a href="https://lolesports.com/en-US/">Official schedule</a></p></noscript>
+</body></html>

@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Multilingual League of Legends esports video navigation — infrastructure preview.",
+  "description": "Multilingual League of Legends Worlds 2026 video navigation.",
   "engines": { "node": ">=24" },
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "check": "node scripts/check-content.mjs",
+    "check": "node scripts/check-content.mjs && node --test scripts/model.test.mjs",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1"
   },

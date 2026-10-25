@@ -1,59 +1,53 @@
 # LoL Esports Watch Hub
 
-面向不同语言观众的英雄联盟赛事视频导航，首期聚焦 Worlds 2026 / S16，后续可扩展其他赛区与国际赛事。
+英雄联盟 Worlds 2026 / S16 多语言赛事视频导航，使用已确认的霓虹竞技场 V4 与召唤师峡谷主题背景。
 
-**当前仅为基础设施准备页，正式产品界面需在原型确认后接入。** 不包含演示比赛或虚构视频地址。准备页只提供已核实的 [LoL Esports 官方赛程](https://lolesports.com/en-US/) 入口。
+[在线站点](https://jaisingz.github.io/lol-esports-watch-hub/) · [官方赛程](https://lolesports.com/en-US/)
 
-## 本地运行
+## 当前内容
 
-推荐 Node.js 24 LTS 与 npm。CI 固定使用 Node.js 24。
+首批收录 8 场已结束的瑞士轮第二轮比赛、8 条 LoL Esports 官方英文单局录像和 5 个官方频道入口。没有演示比赛、虚构视频或猜测时间。比赛精确开赛时间未取得可靠依据，显示“时间待确认”；不会把视频上传时间当作比赛时间。
 
-```sh
+视频身份、标题、时长和页面元数据已核验，实际播放尚未验证。页面分别展示核验状态；平台、地区与登录条件可能影响播放。其他解说语言显示“待收录”，频道入口不冒充比赛录像。未展示比分，减少剧透。
+
+完整来源证据、排除的整日直播录像及核验边界见 [来源核验记录](docs/source-verification-2026-10-25.txt)。
+
+## 使用与开发
+
+支持简体中文、繁体中文、英语、韩语、日语、越南语、泰语和巴西葡萄牙语。首次匹配浏览器语言，默认英语；保存手动选择。界面语言和解说语言分别设置，切换界面保留所有筛选。翻译尚未经过母语审校。
+
+搜索战队并选择赛事、年份、阶段、解说语言及视频类型。未收录的解说语言保留比赛卡片并显示待收录；选择具体视频类型时仅展示同时匹配语言和类型的比赛。年份和赛事选项只来自已收录数据。加载失败可重试，空目录仍提供官方赛程入口。
+
+技术为原生 JavaScript + Vite；推荐 Node.js 24 LTS。所有视频仅以 HTTPS 原始来源链接打开新标签页，不使用 iframe、后端、字幕、转存或自动匹配。
+
+~~~sh
 npm ci
 npm run check
 npm run dev
-```
-
-生产构建与本地预览：
-
-```sh
 npm run build
 npm run preview
-```
+~~~
 
-访问命令输出的 `/lol-esports-watch-hub/` 地址。`preview` 仅供检查构建产物，线上由 GitHub Pages 托管。
+开发及预览路径为 /lol-esports-watch-hub/。构建输出 dist；不提交 dist 或 node_modules。
 
-## 发布约定
+## 手工维护内容
 
-- 技术：原生 JavaScript + Vite，输出 `dist`，站点基础路径 `/lol-esports-watch-hub/`。
-- 在仓库 Settings → Pages 中将 Source 设为 **GitHub Actions**，对应 API `build_type: workflow`。
-- PR 只执行安装、内容检查与构建；`main` 的推送或在 `main` 手动运行工作流才发布。
-- 工作流依赖锁文件使用 `npm ci`，官方 Actions 均固定到已核实的提交 SHA。
-- 发布依赖构建成功，使用 `github-pages` 环境和 GitHub 内置短期令牌，不需要额外部署密钥。
-- 同一分支只运行最新流水线；旧流水线取消后，最新构建接续发布。
-- 预计地址为 `https://jaisingz.github.io/lol-esports-watch-hub/`，需以实际 Pages 配置和成功部署结果为准。
-- `dist` 与 `node_modules` 不提交；回退通过撤销有问题的提交后重新发布，不覆盖 Git 历史。
+public/data/sources.json 与 matches.json 都是数组，允许为空，但文件必须存在。数据更新后执行 npm run check 与 npm run build。
 
-## 设计接入契约
+频道记录：id、name、language（BCP 47）、platform、url、evidenceUrl、verifiedAt、pageStatus、playbackStatus。
 
-准备页使用中性布局，未采用任何待审阅的 MOBA 候选风格。设计产物独立存放，用户选择原型后才接正式页面。
+比赛记录：id、tournamentId（worlds）、tournamentName、season（2026）、teams（两个名称）、stage（swiss / playin / knockout）、format（BO1 / BO3 / BO5 / null）、startAt（含时区 ISO 时间或 null）、status（completed）、scheduleSource、verifiedAt、videos。未来同阶段重复对阵时补充 round 区分。
 
-界面语言支持 `zh-Hans`、`zh-Hant`、`en`、`ko`、`ja`、`vi`、`th`、`pt-BR`。首次根据浏览器语言选择，无法匹配时使用英文；用户手动选择保存在本机。浏览器禁止存储时，切换仍然可用。多语言文案已提供基础译文，未宣称完成母语人工审校。
+视频记录：language、platform、type（fullMatch / singleGame / highlights）、url、sourceId、evidenceUrl、verifiedAt、pageStatus、playbackStatus。singleGame 必填 gameNumber。整日录像不能作为单场或单局录像，未核实具体时间戳时不收录。
 
-正式产品的**界面语言**与**视频解说语言**必须分别控制，切换界面不清空解说筛选。视频语言不受这 8 种界面语言清单限制。
+所有 verifiedAt 使用含时区的 ISO 时间。pageStatus 为 verified / unverified；playbackStatus 为 verified / unverified / unavailable。实际播放确认后才能使用 verified，并填写 playbackEvidence 记录验证环境与结果。不可播放视频不显示观看链接。HTTP 200 或播放器 metadata OK 不代表实际播放已通过。
 
-后续内容文件为 `public/data/sources.json` 和 `public/data/matches.json`，顶层均为数组。尚无真实内容时可不创建，检查会明确跳过；存在内容时才检查。
+检查包括八语文案与占位符、数据字段、来源引用、唯一比赛/视频、HTTPS、频道/视频边界及播放证据。单元测试覆盖组合筛选、语言匹配和关键拒绝规则；这些检查不代替来源人工核验。
 
-- 频道记录包含唯一 `id`、名称、语言、平台、HTTPS `url`、官方来源依据及核验日期。
-- 比赛记录包含唯一 `id`、`tournamentId`、`season`、对阵与阶段、赛程来源及 `videos`。首期只收录 S16。
-- 视频记录包含 `language`、平台、视频类型、HTTPS `url`、对应来源及核验日期。具体比赛回放不能用频道首页冒充。
-- 演示比赛标记 `isDemo`，不得包含可用视频链接。没有核实的视频保持待收录。
-- 现有 `npm run check` 校验 8 种语言必要文案；数据存在时校验 JSON、唯一 ID、赛事归属、HTTPS 链接和演示边界。真实来源合法性及实际播放须单独人工核验。
+## 图片与发布
 
-后续仍采用静态链接跳转；不加入 iframe、后端、视频转存、字幕或自动匹配。
+页面使用桌面 146 KB、手机 58 KB 的本地 WebP。原始背景及 imagegen 编辑提示词保存在 design；这是召唤师峡谷主题艺术演绎，不是官方截图或精确地图复刻。
 
-## 验收边界
+PR 自动执行内容检查、测试及构建；main 推送或手动触发后发布 GitHub Pages。沿用 Node 24、固定 SHA 的官方 Actions、内置短期令牌及现有串行发布配置，无长期部署密钥。生产 base 固定 /lol-esports-watch-hub/。
 
-本地 `check` 和 `build` 成功只证明内容格式与本地构建通过。远端交付需同时提供仓库地址、提交 SHA、成功的 Actions 运行、实际 Pages 地址，以及页面和静态资源在项目子路径下可访问的证据。
-
-正式 UI 的桌面/手机交互、多语言布局和真实视频链接在设计批准并集成后单独验收。
+发布验收需要成功工作流、提交 SHA、公网页面与静态资源、数据文件及真实外链证据。回退使用撤销提交后重新发布，不覆盖 Git 历史。
