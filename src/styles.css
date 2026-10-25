@@ -16,6 +16,7 @@ header { display: flex; align-items: center; justify-content: space-between; gap
 .language-control { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; font-size: 14px; }
 select { min-height: 44px; max-width: 100%; padding: 8px 36px 8px 12px; border: 1px solid #aab3c0; border-radius: 6px; color: #202936; background: white; font: inherit; }
 .notice { margin-top: 36px; padding: clamp(28px, 6vw, 68px); background: white; border: 1px solid #d9dee5; border-radius: 12px; }
+.event-label { margin: 0 0 12px; font-size: 13px; font-weight: 700; letter-spacing: 0.06em; color: #465668; }
 .eyebrow { margin: 0 0 24px; font-size: 13px; font-weight: 700; letter-spacing: 0.06em; color: #465668; overflow-wrap: anywhere; }
 h1 { max-width: 850px; margin: 0; font-size: clamp(30px, 4.5vw, 48px); line-height: 1.35; letter-spacing: -0.025em; overflow-wrap: anywhere; }
 .description { max-width: 720px; margin: 24px 0 0; font-size: 18px; line-height: 1.85; }
