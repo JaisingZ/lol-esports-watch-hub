@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-25T22:55:22.546Z",
+  "tournamentId": "worlds",
+  "season": 2026,
+  "officialTournamentId": "115660540725177488",
+  "officialPublishedMatchCount": 46,
+  "officialCompetitionDayCount": 19,
+  "scheduleSources": [
+    "https://lolesports.com/en-US/",
+    "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706"
+  ],
+  "venueTimezoneSource": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+  "sourceHealth": [
+    {
+      "id": "official-home",
+      "url": "https://lolesports.com/en-US/",
+      "status": "ok"
+    },
+    {
+      "id": "official-bracket",
+      "url": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+      "status": "ok"
+    }
+  ],
+  "evidencePolicy": "Official schedule and VOD associations are parsed from published data. Page reachability and actual playback are separate checks. updatedAt is the last content change, not the last attempted sync."
+}

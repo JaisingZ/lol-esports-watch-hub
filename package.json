@@ -7,7 +7,9 @@
   "engines": { "node": ">=24" },
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "check": "node scripts/check-content.mjs && node --test scripts/model.test.mjs",
+    "check": "node scripts/check-content.mjs && node --test scripts/*.test.mjs",
+    "test:data": "node --test scripts/model.test.mjs",
+    "sync:official": "node scripts/sync-official.mjs",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1"
   },

@@ -1,32 +1,28 @@
 [
   {
-    "id": "lolesports-youtube-en",
-    "name": "LoL Esports",
-    "language": "en",
-    "platform": "YouTube",
-    "url": "https://www.youtube.com/@lolesports",
-    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "pageStatus": "verified",
-    "playbackStatus": "unverified"
+    "id": "bilibili-zh-CN",
+    "name": "哔哩哔哩英雄联盟赛事",
+    "language": "zh-CN",
+    "platform": "Bilibili",
+    "url": "https://space.bilibili.com/50329118",
+    "liveUrl": "https://live.bilibili.com/6",
+    "evidenceUrl": "https://search.bilibili.com/all?keyword=2026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "restricted",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://search.bilibili.com/all?keyword=2026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B"
+    }
   },
   {
-    "id": "riotgames-twitch-en",
-    "name": "Riot Games",
-    "language": "en",
+    "id": "cblol-twitch-pt-br",
+    "name": "CBLOL",
+    "language": "pt-BR",
     "platform": "Twitch",
-    "url": "https://www.twitch.tv/riotgames",
-    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "pageStatus": "verified",
-    "playbackStatus": "unverified"
-  },
-  {
-    "id": "lolesportstw-twitch-zh-hant",
-    "name": "LoL Esports TW",
-    "language": "zh-Hant",
-    "platform": "Twitch",
-    "url": "https://www.twitch.tv/lolesportstw",
+    "url": "https://www.twitch.tv/cblol",
     "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
     "verifiedAt": "2026-10-25T14:07:41+00:00",
     "pageStatus": "verified",
@@ -44,14 +40,165 @@
     "playbackStatus": "unverified"
   },
   {
-    "id": "cblol-twitch-pt-br",
-    "name": "CBLOL",
-    "language": "pt-BR",
+    "id": "lolesportstw-twitch-zh-hant",
+    "name": "LoL Esports TW",
+    "language": "zh-TW",
     "platform": "Twitch",
-    "url": "https://www.twitch.tv/cblol",
+    "url": "https://www.twitch.tv/lolesportstw",
     "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
     "verifiedAt": "2026-10-25T14:07:41+00:00",
     "pageStatus": "verified",
     "playbackStatus": "unverified"
+  },
+  {
+    "id": "riotgames-twitch-en",
+    "name": "Riot Games",
+    "language": "en",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/riotgames",
+    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+    "verifiedAt": "2026-10-25T14:07:41+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified"
+  },
+  {
+    "id": "youtube-en",
+    "name": "LoL Esports",
+    "language": "en",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@lolesports",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/104946685894036941",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/104946685894036941",
+    "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw",
+    "officialVodLanguage": "en-US",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/104946685894036941"
+    }
+  },
+  {
+    "id": "youtube-ja",
+    "name": "LoL Esports JP",
+    "language": "ja",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@LoLeSportsJP",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/111215067738057254",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/111215067738057254",
+    "channelId": "UCiN3B0QRdL4wn1TMJ_cJyMQ",
+    "officialVodLanguage": "ja-JP",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/111215067738057254"
+    }
+  },
+  {
+    "id": "youtube-ko",
+    "name": "LCK",
+    "language": "ko",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@LCK",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/103557046770742374",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/103557046770742374",
+    "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+    "officialVodLanguage": "ko-KR",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/103557046770742374"
+    }
+  },
+  {
+    "id": "youtube-pt-BR",
+    "name": "CBLOL",
+    "language": "pt-BR",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@CBLOL",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/103494524176755263",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/103494524176755263",
+    "channelId": "UC48rkTlXjRd6pnqqBkdV0Mw",
+    "officialVodLanguage": "pt-BR",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/103494524176755263"
+    }
+  },
+  {
+    "id": "youtube-th",
+    "name": "League of Legends Thailand",
+    "language": "th",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@leagueoflegendstha",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/114941398601221171",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/114941398601221171",
+    "channelId": "UC6qsOHntcH1P_pXGq0T5xrQ",
+    "officialVodLanguage": "th-TH",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/114941398601221171"
+    }
+  },
+  {
+    "id": "youtube-vi",
+    "name": "LoL Esports VN",
+    "language": "vi",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@lolesports_vn",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/109665004358652141",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/109665004358652141",
+    "channelId": "UChG2EWuXoW7Tgof35WjbsnQ",
+    "officialVodLanguage": "vi-VN",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/109665004358652141"
+    }
+  },
+  {
+    "id": "youtube-zh-TW",
+    "name": "LoLEsportsTW",
+    "language": "zh-TW",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@lolesportstw",
+    "liveUrl": "https://lolesports.com/en-US/live/worlds/106589081663708493",
+    "evidenceUrl": "https://lolesports.com/en-US/live/worlds/106589081663708493",
+    "channelId": "UCYfC038eP_cm9WNo5Cv-tBg",
+    "officialVodLanguage": "zh-TW",
+    "verifiedAt": "2026-10-25T22:41:57+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified",
+    "livePageStatus": "verified",
+    "coverage": {
+      "tournamentId": "worlds",
+      "season": 2026,
+      "evidenceUrl": "https://lolesports.com/en-US/live/worlds/106589081663708493"
+    }
   }
 ]
