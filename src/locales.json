@@ -1,0 +1,82 @@
+{
+  "zh-Hans": {
+    "nativeName": "简体中文",
+    "languageLabel": "界面语言",
+    "status": "站点准备中",
+    "heading": "找到比赛，选择你的解说语言。",
+    "description": "我们正在准备英雄联盟多语言赛事视频导航，首期聚焦 2026 全球总决赛。",
+    "detail": "页面设计和比赛链接正在整理。这是准备页，正式视频导航尚未上线。",
+    "schedule": "查看官方赛程",
+    "footer": "独立粉丝项目。视频将在其原平台打开。"
+  },
+  "zh-Hant": {
+    "nativeName": "繁體中文",
+    "languageLabel": "介面語言",
+    "status": "網站準備中",
+    "heading": "找到賽事，選擇你的解說語言。",
+    "description": "我們正在準備英雄聯盟多語言賽事影片導覽，首期聚焦 2026 世界大賽。",
+    "detail": "頁面設計和賽事連結正在整理。這是準備頁，正式影片導覽尚未上線。",
+    "schedule": "查看官方賽程",
+    "footer": "獨立粉絲專案。影片將在其原始平台開啟。"
+  },
+  "en": {
+    "nativeName": "English",
+    "languageLabel": "Interface language",
+    "status": "SITE PREPARATION",
+    "heading": "A new way to find your match.",
+    "description": "We are preparing a multilingual League of Legends esports video guide, starting with Worlds 2026.",
+    "detail": "Page design and match links are being prepared. This preview is not the finished video guide.",
+    "schedule": "Visit the official schedule",
+    "footer": "An independent fan project. Videos will open on their original platforms."
+  },
+  "ko": {
+    "nativeName": "한국어",
+    "languageLabel": "화면 언어",
+    "status": "사이트 준비 중",
+    "heading": "경기를 찾고 원하는 해설 언어를 선택하세요.",
+    "description": "2026 월드 챔피언십을 시작으로 리그 오브 레전드 e스포츠의 다국어 영상 안내 서비스를 준비하고 있습니다.",
+    "detail": "페이지 디자인과 경기 영상 링크를 준비하고 있습니다. 현재는 준비 페이지이며 정식 서비스는 아직 공개되지 않았습니다.",
+    "schedule": "공식 경기 일정 보기",
+    "footer": "독립적인 팬 프로젝트입니다. 영상은 원본 플랫폼에서 열립니다."
+  },
+  "ja": {
+    "nativeName": "日本語",
+    "languageLabel": "表示言語",
+    "status": "サイト準備中",
+    "heading": "試合を見つけて、実況言語を選ぼう。",
+    "description": "Worlds 2026 を皮切りに、リーグ・オブ・レジェンドの多言語eスポーツ動画ガイドを準備しています。",
+    "detail": "ページのデザインと試合動画へのリンクを準備中です。このページは準備用で、正式な動画ガイドはまだ公開されていません。",
+    "schedule": "公式スケジュールを見る",
+    "footer": "独立したファンプロジェクトです。動画は配信元のプラットフォームで開きます。"
+  },
+  "vi": {
+    "nativeName": "Tiếng Việt",
+    "languageLabel": "Ngôn ngữ giao diện",
+    "status": "TRANG WEB ĐANG ĐƯỢC CHUẨN BỊ",
+    "heading": "Tìm trận đấu, chọn ngôn ngữ bình luận.",
+    "description": "Chúng tôi đang chuẩn bị trang tổng hợp video thể thao điện tử Liên Minh Huyền Thoại đa ngôn ngữ, bắt đầu với CKTG 2026.",
+    "detail": "Thiết kế trang và các liên kết trận đấu đang được chuẩn bị. Đây là trang giới thiệu tạm thời, chưa phải trang tổng hợp video chính thức.",
+    "schedule": "Xem lịch thi đấu chính thức",
+    "footer": "Dự án độc lập của người hâm mộ. Video sẽ mở trên nền tảng gốc."
+  },
+  "th": {
+    "nativeName": "ไทย",
+    "languageLabel": "ภาษาที่แสดง",
+    "status": "เว็บไซต์อยู่ระหว่างการเตรียมการ",
+    "heading": "ค้นหาแมตช์และเลือกภาษาพากย์ที่คุณต้องการ",
+    "description": "เรากำลังเตรียมเว็บไซต์รวบรวมลิงก์วิดีโออีสปอร์ต League of Legends หลายภาษา โดยเริ่มจาก Worlds 2026",
+    "detail": "การออกแบบหน้าเว็บและลิงก์การแข่งขันอยู่ระหว่างการเตรียมการ หน้านี้เป็นหน้าเตรียมความพร้อม และยังไม่ใช่เว็บไซต์รวบรวมวิดีโอฉบับสมบูรณ์",
+    "schedule": "ดูตารางการแข่งขันอย่างเป็นทางการ",
+    "footer": "โครงการอิสระของแฟนเกม วิดีโอจะเปิดบนแพลตฟอร์มต้นทาง"
+  },
+  "pt-BR": {
+    "nativeName": "Português (Brasil)",
+    "languageLabel": "Idioma da interface",
+    "status": "SITE EM PREPARAÇÃO",
+    "heading": "Encontre a partida. Escolha o idioma da transmissão.",
+    "description": "Estamos preparando um guia multilíngue de vídeos de esports de League of Legends, começando pelo Worlds 2026.",
+    "detail": "O design da página e os links das partidas estão sendo preparados. Esta é uma página provisória; o guia completo ainda não está disponível.",
+    "schedule": "Ver calendário oficial",
+    "footer": "Um projeto independente de fãs. Os vídeos serão abertos nas plataformas originais."
+  }
+}
