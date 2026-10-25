@@ -1,0 +1,87 @@
+Worlds 2026 source verification
+Verified: 2026-10-25T14:07:41+00:00
+
+Scope: source research only. No repository files or publication were changed.
+Data output: 5 official channel sources, 8 completed Swiss Round 2 matches,
+8 English single-game video links. All playbackStatus values remain unverified.
+
+Official match evidence:
+https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706
+The official Swiss bracket lists all eight Round 2 results as completed 1-0 matches.
+https://lolesports.com/en-US/ separately labels seven of these matches Worlds / Swiss / Bo1.
+The fetched official schedule text did not include TLAW-BLG in its completed-match section;
+its completed result is confirmed by the official bracket, but format is deliberately null.
+No scores are saved in the site data, to avoid spoilers.
+
+Dates and times:
+No exact match start time is available from the retrieved primary-source text.
+All startAt values are null; date is omitted. Video upload timestamps below are not match
+start times and must not be converted into match start times.
+The official primer calls this Swiss Stage Day 2 / October 24 in the event schedule;
+YouTube uploads were published on October 25 at +08:00. No date-only time-zone conversion
+is asserted in the data.
+
+Channel authority:
+https://lolesports.com/en-GB/news/worlds-2026-primer
+The official primer directly links riotgames, lolesportstw, leagueoflegendsjp and cblol
+on Twitch. Each URL was re-requested this turn and returned HTTP 200 with the expected
+channel title. This establishes page reachability and official source attribution only,
+not a currently live broadcast or playable VOD.
+
+The same official primer embeds https://www.youtube.com/embed/H_B91cxvCRQ .
+YouTube's own public player metadata identifies that video as 'Format Explainer | Worlds 2026',
+author LoL Esports, channelId UCvqRdlKsE5Q8mf8YXbdIJLw. The verified match videos identify the
+same LoL Esports author/channel. YouTube oEmbed for sample match videos returns author_url
+https://www.youtube.com/@lolesports . A fresh request to that channel returned HTTP 200.
+The channel page's raw title was generic YouTube; identity therefore rests on the official
+primer embed plus primary YouTube player/oEmbed metadata, not the raw channel page title.
+English classification uses the official main English broadcast channel; no listening test
+was performed.
+
+Video discovery and primary verification:
+Candidate video IDs were discovered from the public index https://lolworlds2026.com/videos .
+That index is used for discovery only, not as the authoritative source of the records.
+Every included URL was then requested directly from www.youtube.com/watch?v=ID.
+Public ytInitialPlayerResponse metadata was parsed for title, author, channelId where
+available, duration, isLiveContent, publishDate and playabilityStatus.
+All included videos returned playabilityStatus.status=OK and isLiveContent=false.
+Titles identify the teams, WORLDS 2026, Swiss Stage and Day 06. Durations are 36-48 minutes;
+records are classified as singleGame with gameNumber=1, not a whole-day broadcast.
+No media stream was downloaded or played, no authentication restrictions were bypassed,
+and browser playback has not been accepted. status=OK in page metadata is not proof of
+successful playback for every user or region.
+
+Included video metadata (upload time, not match start time):
+TLAW vs BLG | https://www.youtube.com/watch?v=o5dfRPbQWio | 2293s | upload=2026-10-25T09:12:58+08:00
+T1 vs DK | https://www.youtube.com/watch?v=5wzTe_UxiU8 | 2894s | upload=2026-10-25T08:10:34+08:00
+GEN vs HLE | https://www.youtube.com/watch?v=n68tMlqymqI | 2671s | upload=2026-10-25T07:00:17+08:00
+TSW vs IG | https://www.youtube.com/watch?v=HgZFZSg3ydE | 2319s | upload=2026-10-25T05:55:22+08:00
+LYON vs KC | https://www.youtube.com/watch?v=jToExBjYenQ | 2681s | upload=2026-10-25T04:56:16+08:00
+G2 vs LOS | https://www.youtube.com/watch?v=fMzwAhCt-aY | 2727s | upload=2026-10-25T03:54:19+08:00
+MKOI vs CFO | https://www.youtube.com/watch?v=sLoG6iB0L2Q | 2425s | upload=2026-10-25T02:48:17+08:00
+TES vs AL | https://www.youtube.com/watch?v=gLw65-r-MSI | 2186s | upload=2026-10-25T01:51:39+08:00
+
+Excluded from single-match links:
+https://www.youtube.com/watch?v=xa70p5u-mmw
+Title: TLAW vs BLG | WORLDS 2026 | Swiss Stage Day 2
+Length: 34106 seconds; isLiveContent=true; ended broadcast spanning about 9.5 hours.
+It is a whole-day broadcast whose title names the last match, not a single TLAW-BLG video.
+
+https://www.youtube.com/watch?v=Ioaxv9V3CQY
+Title: [Chinese] Swiss Stage Day 2 | WORLDS 2026
+Author: LoLEsportsTW; length 33356 seconds; ended whole-day broadcast.
+
+https://www.youtube.com/watch?v=h91KAt-Qzs4
+Title: Korean Swiss Stage Day 2 | 2026 World Championship
+Author: LCK; length 32065 seconds; ended whole-day broadcast.
+
+The two whole-day regional recordings are not inserted as single-game links and no guessed
+match timestamps are appended. Their metadata was available, but the current video type
+contract has no whole-day broadcast category.
+
+Other languages: no individually verified match links were obtained for them during this
+pass. Show them as not collected; do not substitute a generic channel or another match.
+
+Web text extraction returned cache-miss errors for some YouTube watch URLs. Direct requests
+to the same public URLs and official oEmbed returned primary metadata successfully. The
+reachability claim is based on those fresh direct requests, not search snippets.

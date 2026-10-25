@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lolesports-youtube-en",
+    "name": "LoL Esports",
+    "language": "en",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@lolesports",
+    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+    "verifiedAt": "2026-10-25T14:07:41+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified"
+  },
+  {
+    "id": "riotgames-twitch-en",
+    "name": "Riot Games",
+    "language": "en",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/riotgames",
+    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+    "verifiedAt": "2026-10-25T14:07:41+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified"
+  },
+  {
+    "id": "lolesportstw-twitch-zh-hant",
+    "name": "LoL Esports TW",
+    "language": "zh-Hant",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/lolesportstw",
+    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+    "verifiedAt": "2026-10-25T14:07:41+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified"
+  },
+  {
+    "id": "leagueoflegendsjp-twitch-ja",
+    "name": "League of Legends Japan",
+    "language": "ja",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/leagueoflegendsjp",
+    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+    "verifiedAt": "2026-10-25T14:07:41+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified"
+  },
+  {
+    "id": "cblol-twitch-pt-br",
+    "name": "CBLOL",
+    "language": "pt-BR",
+    "platform": "Twitch",
+    "url": "https://www.twitch.tv/cblol",
+    "evidenceUrl": "https://lolesports.com/en-GB/news/worlds-2026-primer",
+    "verifiedAt": "2026-10-25T14:07:41+00:00",
+    "pageStatus": "verified",
+    "playbackStatus": "unverified"
+  }
+]
