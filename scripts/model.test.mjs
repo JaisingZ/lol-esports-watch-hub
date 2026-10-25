@@ -4,7 +4,14 @@ import {readFileSync} from 'node:fs';
 import {filterMatches, matchLocale} from '../src/model.js';
 import {validateContent} from './content-validation.mjs';
 const read = name => JSON.parse(readFileSync(new URL(name,import.meta.url),'utf8'));
-const valid = {locales:read('../src/locales.json'),sources:read('../public/data/sources.json'),matches:read('../public/data/matches.json')};
+// Synthetic test-only records keep rejection tests independent of the current catalogue.
+const stamp='2026-10-25T00:00:00Z';
+const evidence={evidenceUrl:'https://example.org/evidence',verifiedAt:stamp,pageStatus:'verified',playbackStatus:'unverified'};
+const valid = {
+  locales:read('../src/locales.json'),
+  sources:[{...evidence,id:'fixture',name:'Test source',language:'en',platform:'Test',url:'https://example.org/channel'}],
+  matches:[{id:'fixture-match',tournamentId:'worlds',tournamentName:'Worlds',season:2026,teams:['Alpha','Beta'],stage:'swiss',format:'BO1',startAt:null,status:'completed',scheduleSource:'https://example.org/schedule',verifiedAt:stamp,videos:[{...evidence,language:'en',platform:'Test',type:'singleGame',gameNumber:1,url:'https://example.org/video/1',sourceId:'fixture'}]}],
+};
 const all = {search:'',commentary:'all',stage:'all',tournament:'all',season:'all',type:'all'};
 test('browser language matching and unsupported fallback',()=>{
   assert.equal(matchLocale('zh-TW'),'zh-Hant');assert.equal(matchLocale('zh-CN'),'zh-Hans');assert.equal(matchLocale('pt-PT'),'pt-BR');assert.equal(matchLocale('fr-FR'),null);
@@ -19,6 +26,7 @@ test('search, season and video type compose; missing commentary remains discover
 });
 test('reject fabricated boundaries, invalid source references and playback claims',()=>{
   assert.deepEqual(validateContent(valid),[]);
+  assert.deepEqual(validateContent({...valid,sources:[],matches:[]}),[]);
   for(const mutate of [
     data=>{data.matches[0].isDemo=true;},
     data=>{data.matches[0].videos[0].sourceId='missing';},
