@@ -1,53 +1,60 @@
 # LoL Esports Watch Hub
 
-英雄联盟 Worlds 2026 / S16 多语言赛事视频导航，使用已确认的霓虹竞技场 V4 与召唤师峡谷主题背景。
+Worlds 2026 / S16 多语言赛程、官方直播入口与录像导航。原生 JavaScript + Vite + GitHub Pages，所有观看操作直接跳转原平台。
 
-[在线站点](https://jaisingz.github.io/lol-esports-watch-hub/) · [官方赛程](https://lolesports.com/en-US/)
+[正式站点](https://jaisingz.github.io/lol-esports-watch-hub/) · [官方赛程](https://lolesports.com/en-US/)
 
-## 当前内容
+新版桌面与手机布局已获确认。顶部直播语言使用下拉框，默认跟随界面语言；手动选择后保持独立，不改变下方录像筛选。未创建 worktree。
 
-首批收录 8 场已结束的瑞士轮第二轮比赛、8 条 LoL Esports 官方英文单局录像和 5 个官方频道入口。没有演示比赛、虚构视频或猜测时间。比赛精确开赛时间未取得可靠依据，显示“时间待确认”；不会把视频上传时间当作比赛时间。
+## 页面与内容
 
-视频身份、标题、时长和页面元数据已核验，实际播放尚未验证。页面分别展示核验状态；平台、地区与登录条件可能影响播放。其他解说语言显示“待收录”，频道入口不冒充比赛录像。未展示比分，减少剧透。
+- 八种界面语言：简体中文、繁体中文、英语、韩语、日语、越南语、泰语、巴西葡萄牙语。界面与解说独立，保存语言偏好；翻译尚未经过母语审校。
+- 按阶段、当地比赛日、战队、解说、资源状态和视频类型筛选；默认隐藏比分。真实队标随站点发布，来源保存在 teams.json。
+- 有可靠时间戳时按浏览器时区展示；仅日期记录保留赛区日期，不补造开赛时刻。未来未抽签场次保持待定队伍。
+- 录像分为单局、整场、集锦和跨场整日录像。官方标明的片段以“定位本局”跳转，不冒充独立视频。整日录像单独显示。
+- 大陆中文已核验直播入口，录像候选因页面访问限制及分 P 类型未核定而隔离；不会将语言选项数量冒充已补齐录像。
 
-完整来源证据、排除的整日直播录像及核验边界见 [来源核验记录](docs/source-verification-2026-10-25.txt)。
+当前覆盖及边界见 [覆盖清单](docs/worlds-coverage-2026-10-26.md)。HTTP 200、官方元数据关联与实际播放是不同证据；尚未实际播放的链接明确标记未验证。
 
-## 使用与开发
+## 开发
 
-支持简体中文、繁体中文、英语、韩语、日语、越南语、泰语和巴西葡萄牙语。首次匹配浏览器语言，默认英语；保存手动选择。界面语言和解说语言分别设置，切换界面保留所有筛选。翻译尚未经过母语审校。
+推荐 Node.js 24 LTS。
 
-搜索战队并选择赛事、年份、阶段、解说语言及视频类型。未收录的解说语言保留比赛卡片并显示待收录；选择具体视频类型时仅展示同时匹配语言和类型的比赛。年份和赛事选项只来自已收录数据。加载失败可重试，空目录仍提供官方赛程入口。
-
-技术为原生 JavaScript + Vite；推荐 Node.js 24 LTS。所有视频仅以 HTTPS 原始来源链接打开新标签页，不使用 iframe、后端、字幕、转存或自动匹配。
-
-~~~sh
+```sh
 npm ci
 npm run check
 npm run dev
 npm run build
 npm run preview
-~~~
+```
 
-开发及预览路径为 /lol-esports-watch-hub/。构建输出 dist；不提交 dist 或 node_modules。
+站点路径为 `/lol-esports-watch-hub/`，构建输出 `dist`。不提交依赖、构建目录或私密令牌。
 
-## 手工维护内容
+## 数据与同步
 
-public/data/sources.json 与 matches.json 都是数组，允许为空，但文件必须存在。数据更新后执行 npm run check 与 npm run build。
+`public/data/` 分开维护 sources、teams、matches、videos、broadcasts、meta。候选不作为已收录录像显示。来源身份先人工确认，再加入固定清单；自动录像关联使用官方 `games[].vods`，不按标题模糊匹配。
 
-频道记录：id、name、language（BCP 47）、platform、url、evidenceUrl、verifiedAt、pageStatus、playbackStatus。
+```sh
+node scripts/sync-official.mjs --dry-run
+node scripts/sync-official.mjs
+npm run check
+npm run build
+```
 
-比赛记录：id、tournamentId（worlds）、tournamentName、season（2026）、teams（两个名称）、stage（swiss / playin / knockout）、format（BO1 / BO3 / BO5 / null）、startAt（含时区 ISO 时间或 null）、status（completed）、scheduleSource、verifiedAt、videos。未来同阶段重复对阵时补充 round 区分。
+采集读取官方公开赛程与对阵页，必要时下载官方队标；缺失、空结果、未知结构及校验失败都保留上次成功数据。所有下载和校验结束后才替换数据，写入异常恢复原内容。没有实质内容变化时不更新核验时间、不提交、不部署。
 
-视频记录：language、platform、type（fullMatch / singleGame / highlights）、url、sourceId、evidenceUrl、verifiedAt、pageStatus、playbackStatus。singleGame 必填 gameNumber。整日录像不能作为单场或单局录像，未核实具体时间戳时不收录。
+计划工作流在每小时第 17 分钟同步，也支持手动触发。GitHub 调度可能延迟，页面状态只代表最近同步的官方状态，并非实时信号。工作流摘要记录失败。同步成功、有变化且检查通过时，在同一工作流提交数据、构建并发布；不依赖内置令牌产生的 push 再触发其他工作流。
 
-所有 verifiedAt 使用含时区的 ISO 时间。pageStatus 为 verified / unverified；playbackStatus 为 verified / unverified / unavailable。实际播放确认后才能使用 verified，并填写 playbackEvidence 记录验证环境与结果。不可播放视频不显示观看链接。HTTP 200 或播放器 metadata OK 不代表实际播放已通过。
+采集固定来源异常时，维护者应对照官方页面检查解析器和测试，再恢复同步。不得删除既有赛程来隐藏抓取失败，也不得用频道主页补充单场录像。
 
-检查包括八语文案与占位符、数据字段、来源引用、唯一比赛/视频、HTTPS、频道/视频边界及播放证据。单元测试覆盖组合筛选、语言匹配和关键拒绝规则；这些检查不代替来源人工核验。
+## 来源维护与验收
 
-## 图片与发布
+`sources.json` 保存账号、语种、官方身份依据与页面/直播入口/播放核验状态。新增账号必须人工核验，不能仅按搜索排名或频道名称认定官方身份。`playbackStatus: verified` 必须附实际播放环境和结果；播放器元数据不算播放验收。
 
-页面使用桌面 146 KB、手机 58 KB 的本地 WebP。原始背景及 imagegen 编辑提示词保存在 design；这是召唤师峡谷主题艺术演绎，不是官方截图或精确地图复刻。
+视频保留比赛或比赛日引用、类型、语种、来源、核验日期；官方片段保存起止秒数，URL 定位到对应起点。大陆中文候选需进一步确认视频页、分 P/类型与完整性后才能提升为正式记录。
 
-PR 自动执行内容检查、测试及构建；main 推送或手动触发后发布 GitHub Pages。沿用 Node 24、固定 SHA 的官方 Actions、内置短期令牌及现有串行发布配置，无长期部署密钥。生产 base 固定 /lol-esports-watch-hub/。
+检查覆盖内容引用、重复项、HTTPS、翻译占位符、时区、仅日期、待定对阵、来源失败、无变化及事务恢复。PR 执行检查与构建；发布必须在布局确认后进行，并核验部署记录、提交版本和公网资源。当前分支的检查成功不代表新版已部署。
 
-发布验收需要成功工作流、提交 SHA、公网页面与静态资源、数据文件及真实外链证据。回退使用撤销提交后重新发布，不覆盖 Git 历史。
+## 图像
+
+继续使用已确认的峡谷霓虹 V4 WebP 背景，原图与提示词保存在 `design`。这是主题艺术演绎，不是官方场景截图。队标仅用于赛事识别，保留官方来源。

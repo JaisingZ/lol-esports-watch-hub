@@ -1,242 +1,1026 @@
 [
   {
-    "id": "worlds-2026-swiss-r2-tlaw-blg",
+    "id": "official:115660588583171786",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "TLAW",
-      "BLG"
+    "stage": "playin",
+    "round": "Play-Ins",
+    "bestOf": 5,
+    "teamIds": [
+      "111692118851466302",
+      "98767991877340524"
     ],
-    "stage": "swiss",
-    "format": null,
-    "startAt": null,
+    "startAt": "2026-10-15T18:00:00Z",
+    "scheduledDate": "2026-10-15",
+    "dateTimezone": "America/Los_Angeles",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=o5dfRPbQWio",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=o5dfRPbQWio",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      3,
+      2
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-t1-dk",
+    "id": "official:115660588583040710",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "T1",
-      "DK"
+    "stage": "playin",
+    "round": "Play-Ins",
+    "bestOf": 5,
+    "teamIds": [
+      "107251245690956393",
+      "100205576309502431"
     ],
-    "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "startAt": "2026-10-15T23:00:00Z",
+    "scheduledDate": "2026-10-15",
+    "dateTimezone": "America/Los_Angeles",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=5wzTe_UxiU8",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=5wzTe_UxiU8",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      3,
+      0
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-gen-hle",
+    "id": "official:115660588583171790",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "GEN",
-      "HLE"
+    "stage": "playin",
+    "round": "Play-Ins",
+    "bestOf": 5,
+    "teamIds": [
+      "111692118851466302",
+      "107251245690956393"
     ],
-    "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "startAt": "2026-10-16T18:00:00Z",
+    "scheduledDate": "2026-10-16",
+    "dateTimezone": "America/Los_Angeles",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=n68tMlqymqI",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=n68tMlqymqI",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      3,
+      0
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-tsw-ig",
+    "id": "official:115660588583171794",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "TSW",
-      "IG"
+    "stage": "playin",
+    "round": "Play-Ins",
+    "bestOf": 5,
+    "teamIds": [
+      "100205576309502431",
+      "98767991877340524"
     ],
-    "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "startAt": "2026-10-16T23:00:00Z",
+    "scheduledDate": "2026-10-16",
+    "dateTimezone": "America/Los_Angeles",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=HgZFZSg3ydE",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=HgZFZSg3ydE",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      3,
+      1
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-lyon-kc",
+    "id": "official:115660588583171798",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "LYON",
-      "KC"
+    "stage": "playin",
+    "round": "Play-Ins",
+    "bestOf": 5,
+    "teamIds": [
+      "107251245690956393",
+      "100205576309502431"
     ],
-    "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "startAt": "2026-10-17T18:00:00Z",
+    "scheduledDate": "2026-10-17",
+    "dateTimezone": "America/Los_Angeles",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=jToExBjYenQ",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=jToExBjYenQ",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      3,
+      1
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-g2-los",
+    "id": "official:116299649498303884",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "G2",
-      "LOS"
+    "stage": "playin",
+    "round": "Play-Ins",
+    "bestOf": 5,
+    "teamIds": [
+      "111692118851466302",
+      "107251245690956393"
     ],
-    "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "startAt": "2026-10-18T18:00:00Z",
+    "scheduledDate": "2026-10-18",
+    "dateTimezone": "America/Los_Angeles",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=fMzwAhCt-aY",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=fMzwAhCt-aY",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      3,
+      0
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-mkoi-cfo",
+    "id": "official:115660540726095005",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "MKOI",
-      "CFO"
-    ],
     "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "99566404848691211",
+      "100205573495116443"
+    ],
+    "startAt": "2026-10-23T17:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=sLoG6iB0L2Q",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=sLoG6iB0L2Q",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
     ]
   },
   {
-    "id": "worlds-2026-swiss-r2-tes-al",
+    "id": "official:115660540726095013",
     "tournamentId": "worlds",
     "tournamentName": "Worlds",
     "season": 2026,
-    "teams": [
-      "TES",
-      "AL"
-    ],
     "stage": "swiss",
-    "format": "BO1",
-    "startAt": null,
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "99566404854685458",
+      "100205573496804586"
+    ],
+    "startAt": "2026-10-23T18:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
     "status": "completed",
-    "scheduleSource": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T14:07:41+00:00",
-    "videos": [
-      {
-        "language": "en",
-        "platform": "YouTube",
-        "type": "singleGame",
-        "url": "https://www.youtube.com/watch?v=gLw65-r-MSI",
-        "sourceId": "lolesports-youtube-en",
-        "evidenceUrl": "https://www.youtube.com/watch?v=gLw65-r-MSI",
-        "verifiedAt": "2026-10-25T14:07:41+00:00",
-        "pageStatus": "verified",
-        "playbackStatus": "unverified",
-        "gameNumber": 1
-      }
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
     ]
+  },
+  {
+    "id": "official:115660540726095019",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "103461966965149786",
+      "99566404853854212"
+    ],
+    "startAt": "2026-10-23T19:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095009",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "111692118851466302",
+      "99566404856367466"
+    ],
+    "startAt": "2026-10-23T20:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095011",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "100725845018863243",
+      "98767991926151025"
+    ],
+    "startAt": "2026-10-23T21:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095007",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "98926509885559666",
+      "107700199633958891"
+    ],
+    "startAt": "2026-10-23T22:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095015",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "109480204628225868",
+      "98767991853197861"
+    ],
+    "startAt": "2026-10-23T23:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095017",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 1",
+    "bestOf": 1,
+    "teamIds": [
+      "99566405941863385",
+      "113661839307879869"
+    ],
+    "startAt": "2026-10-24T00:00:00Z",
+    "scheduledDate": "2026-10-23",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095029",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "99566404854685458",
+      "99566404856367466"
+    ],
+    "startAt": "2026-10-24T17:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095021",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "103461966965149786",
+      "107700199633958891"
+    ],
+    "startAt": "2026-10-24T18:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095031",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "109480204628225868",
+      "98767991926151025"
+    ],
+    "startAt": "2026-10-24T19:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095023",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "111692118851466302",
+      "99566405941863385"
+    ],
+    "startAt": "2026-10-24T20:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095033",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "113661839307879869",
+      "99566404848691211"
+    ],
+    "startAt": "2026-10-24T21:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095025",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "100205573496804586",
+      "100205573495116443"
+    ],
+    "startAt": "2026-10-24T22:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095027",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "100725845018863243",
+      "98767991853197861"
+    ],
+    "startAt": "2026-10-24T23:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095035",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 2",
+    "bestOf": 1,
+    "teamIds": [
+      "98926509885559666",
+      "99566404853854212"
+    ],
+    "startAt": "2026-10-25T00:00:00Z",
+    "scheduledDate": "2026-10-24",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095045",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 1,
+    "teamIds": [
+      "99566404848691211",
+      "100205573496804586"
+    ],
+    "startAt": "2026-10-25T17:00:00Z",
+    "scheduledDate": "2026-10-25",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095047",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 1,
+    "teamIds": [
+      "99566404854685458",
+      "98767991926151025"
+    ],
+    "startAt": "2026-10-25T18:00:00Z",
+    "scheduledDate": "2026-10-25",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "official:115660540726095037",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 3,
+    "teamIds": [
+      "103461966965149786",
+      "100725845018863243"
+    ],
+    "startAt": "2026-10-25T19:00:00Z",
+    "scheduledDate": "2026-10-25",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "completed",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "official:115660540726095041",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": null,
+    "teamIds": [
+      "99566405941863385",
+      "100205573495116443"
+    ],
+    "startAt": "2026-10-25T22:00:00Z",
+    "scheduledDate": "2026-10-25",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "live",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z",
+    "scores": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": "official:115660540726095049",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 1,
+    "teamIds": [
+      "107700199633958891",
+      "98767991853197861"
+    ],
+    "startAt": "2026-10-26T17:00:00Z",
+    "scheduledDate": "2026-10-26",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095051",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 1,
+    "teamIds": [
+      "99566404853854212",
+      "111692118851466302"
+    ],
+    "startAt": "2026-10-26T18:00:00Z",
+    "scheduledDate": "2026-10-26",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095053",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 3,
+    "teamIds": [
+      "109480204628225868",
+      "113661839307879869"
+    ],
+    "startAt": "2026-10-26T19:00:00Z",
+    "scheduledDate": "2026-10-26",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095057",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 3",
+    "bestOf": 3,
+    "teamIds": [
+      "98926509885559666",
+      "99566404856367466"
+    ],
+    "startAt": "2026-10-26T22:00:00Z",
+    "scheduledDate": "2026-10-26",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095061",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-28T20:00:00Z",
+    "scheduledDate": "2026-10-28",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095065",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-28T23:00:00Z",
+    "scheduledDate": "2026-10-28",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095069",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-29T20:00:00Z",
+    "scheduledDate": "2026-10-29",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095073",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-29T23:00:00Z",
+    "scheduledDate": "2026-10-29",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095077",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-30T20:00:00Z",
+    "scheduledDate": "2026-10-30",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095081",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-30T23:00:00Z",
+    "scheduledDate": "2026-10-30",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095085",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 5",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-31T17:00:00Z",
+    "scheduledDate": "2026-10-31",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095089",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 5",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-31T20:00:00Z",
+    "scheduledDate": "2026-10-31",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095093",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 5",
+    "bestOf": 3,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-10-31T23:00:00Z",
+    "scheduledDate": "2026-10-31",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095097",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Quarterfinals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-03T22:00:00Z",
+    "scheduledDate": "2026-11-03",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095103",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Quarterfinals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-04T22:00:00Z",
+    "scheduledDate": "2026-11-04",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095109",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Quarterfinals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-05T22:00:00Z",
+    "scheduledDate": "2026-11-05",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095115",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Quarterfinals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-06T22:00:00Z",
+    "scheduledDate": "2026-11-06",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095121",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Semifinals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-07T22:00:00Z",
+    "scheduledDate": "2026-11-07",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095127",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Semifinals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-08T22:00:00Z",
+    "scheduledDate": "2026-11-08",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
+  },
+  {
+    "id": "official:115660540726095133",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "knockout",
+    "round": "Finals",
+    "bestOf": 5,
+    "teamIds": [
+      null,
+      null
+    ],
+    "startAt": "2026-11-14T19:00:00Z",
+    "scheduledDate": "2026-11-14",
+    "dateTimezone": "America/New_York",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-25T22:49:50.527Z"
   }
 ]

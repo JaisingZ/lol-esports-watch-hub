@@ -1,0 +1,154 @@
+[
+  {
+    "id": "99566404856367466",
+    "code": "AL",
+    "name": "Anyone's Legend",
+    "logo": "team-logos/99566404856367466-9939f7efb139cd25.png",
+    "logoSource": "https://static.lolesports.com/teams/1641199582691_.png",
+    "region": "cn"
+  },
+  {
+    "id": "99566404853854212",
+    "code": "BLG",
+    "name": "BILIBILI GAMING",
+    "logo": "team-logos/99566404853854212-2f9010020127cdfb.png",
+    "logoSource": "https://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png",
+    "region": "cn"
+  },
+  {
+    "id": "98767991877340524",
+    "code": "C9",
+    "name": "Cloud9 Kia",
+    "logo": "team-logos/98767991877340524-819b1df8c7e238a8.png",
+    "logoSource": "https://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png",
+    "region": "na"
+  },
+  {
+    "id": "107700199633958891",
+    "code": "CFO",
+    "name": "CTBC Flying Oyster",
+    "logo": "team-logos/107700199633958891-affa88b9fb3c3155.png",
+    "logoSource": "https://static.lolesports.com/teams/1656307849320_CFO_Logo.png",
+    "region": "pac"
+  },
+  {
+    "id": "100725845018863243",
+    "code": "DK",
+    "name": "Dplus KIA",
+    "logo": "team-logos/100725845018863243-0e2e1d09ec0bb7b7.png",
+    "logoSource": "https://static.lolesports.com/teams/1673260049704_DPlusKIALOGO11.png",
+    "region": "kr"
+  },
+  {
+    "id": "100205576309502431",
+    "code": "FUR",
+    "name": "FURIA",
+    "logo": "team-logos/100205576309502431-e0512d96416053d8.png",
+    "logoSource": "https://static.lolesports.com/teams/FURIA---black.png",
+    "region": "br"
+  },
+  {
+    "id": "98767991926151025",
+    "code": "G2",
+    "name": "G2 Esports",
+    "logo": "team-logos/98767991926151025-b1905d3a64db9745.png",
+    "logoSource": "https://static.lolesports.com/teams/G2-SingleonDark.png",
+    "region": "emea"
+  },
+  {
+    "id": "100205573495116443",
+    "code": "GEN",
+    "name": "Gen.G Esports",
+    "logo": "team-logos/100205573495116443-e7a176f29fd1f339.png",
+    "logoSource": "https://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+    "region": "kr"
+  },
+  {
+    "id": "100205573496804586",
+    "code": "HLE",
+    "name": "Hanwha Life Esports",
+    "logo": "team-logos/100205573496804586-441a7b8833e9f672.png",
+    "logoSource": "https://static.lolesports.com/teams/hle-2021-white.png",
+    "region": "kr"
+  },
+  {
+    "id": "99566404848691211",
+    "code": "IG",
+    "name": "Invictus Gaming",
+    "logo": "team-logos/99566404848691211-d79b854ad6ee3e38.png",
+    "logoSource": "https://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png",
+    "region": "cn"
+  },
+  {
+    "id": "111692118851466302",
+    "code": "KC",
+    "name": "Karmine Corp",
+    "logo": "team-logos/111692118851466302-d9b9d68a937f224b.png",
+    "logoSource": "https://static.lolesports.com/teams/1704714951336_KC.png",
+    "region": "emea"
+  },
+  {
+    "id": "109480204628225868",
+    "code": "LOS",
+    "name": "LOS",
+    "logo": "team-logos/109480204628225868-9c3c554397ab0d44.png",
+    "logoSource": "https://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png",
+    "region": "br"
+  },
+  {
+    "id": "99566405941863385",
+    "code": "LYON",
+    "name": "LYON",
+    "logo": "team-logos/99566405941863385-f2543c24aa8af43f.png",
+    "logoSource": "https://static.lolesports.com/teams/1743717443673_isotypelyon-03.png",
+    "region": "na"
+  },
+  {
+    "id": "103461966965149786",
+    "code": "MKOI",
+    "name": "Movistar KOI",
+    "logo": "team-logos/103461966965149786-444ad4a15f98a789.png",
+    "logoSource": "https://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png",
+    "region": "emea"
+  },
+  {
+    "id": "107251245690956393",
+    "code": "MVK",
+    "name": "MVK Esports",
+    "logo": "team-logos/107251245690956393-4301d057b92b3f45.png",
+    "logoSource": "https://static.lolesports.com/teams/1767089709161_White_Logo.png",
+    "region": "pac"
+  },
+  {
+    "id": "98767991853197861",
+    "code": "T1",
+    "name": "T1",
+    "logo": "team-logos/98767991853197861-577eff06031b8a2b.png",
+    "logoSource": "https://static.lolesports.com/teams/1592589079406_T1T1-02-SingleonDark.png",
+    "region": "kr"
+  },
+  {
+    "id": "99566404854685458",
+    "code": "TES",
+    "name": "TOP ESPORTS",
+    "logo": "team-logos/99566404854685458-ca32ea376389de9f.png",
+    "logoSource": "https://static.lolesports.com/teams/1592592064575_TopEsportsTES-02-SingleonDark.png",
+    "region": "cn"
+  },
+  {
+    "id": "98926509885559666",
+    "code": "TLAW",
+    "name": "Team Liquid Alienware",
+    "logo": "team-logos/98926509885559666-f4d40b42090d858a.png",
+    "logoSource": "https://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png",
+    "region": "na"
+  },
+  {
+    "id": "113661839307879869",
+    "code": "TSW",
+    "name": "Team Secret Whales",
+    "logo": "team-logos/113661839307879869-c34270308c506789.png",
+    "logoSource": "https://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png",
+    "region": "pac"
+  }
+]

@@ -1,8 +1,10 @@
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
 import { validateContent } from './content-validation.mjs';
 const read = path => JSON.parse(readFileSync(path, 'utf8'));
 const html = readFileSync('index.html','utf8');
 const code = readFileSync('src/main.js','utf8');
-const requiredKeys = [...html.matchAll(/data-i18n="([^"]+)"/g),...code.matchAll(/translate\('([^']+)'/g)].map(match=>match[1]);
-const errors = validateContent({locales:read('src/locales.json'),sources:read('public/data/sources.json'),matches:read('public/data/matches.json'),requiredKeys});
-if(errors.length){console.error(errors.join('\n'));process.exitCode=1;}else console.log('Content checks passed: languages, sources, fixtures and video evidence.');
+const requiredKeys = [...html.matchAll(/data-i18n="([^"]+)"/g),...code.matchAll(/\b(?:t|translate)\('([^']+)'/g)].map(match=>match[1]);
+const dataset = Object.fromEntries(['sources','teams','matches','videos','broadcasts','candidates','meta'].map(name=>[name,read('public/data/' + name + '.json')]));
+const errors = validateContent({locales:read('src/locales.json'),...dataset,requiredKeys});
+for (const team of dataset.teams) if (!existsSync('public/' + team.logo)) errors.push('Missing local logo: ' + team.logo);
+if(errors.length){console.error(errors.join('\n'));process.exitCode=1;}else console.log('Content checks passed: 8 languages, schedule, teams, sources, video associations and evidence.');
