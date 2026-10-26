@@ -25,6 +25,11 @@ const videos=[
 ];
 const context={teams,sources,sourceMap,matches,videos,broadcasts,timeZone:'Asia/Shanghai',tbdLabels:['待定','待定','미정','未定','Chưa xác định','รอประกาศ','A definir']};
 
+const now=Date.parse('2026-10-26T00:00:00Z');
+for(const v of videos){v.platform='Test';v.originalVideoId=v.id;}
+const checks=[...videos.map(v=>({target:'Test:'+v.id,kind:'vod',region:'test',regionConfirmed:true,status:'passed',checkedAt:new Date(now).toISOString(),environment:{browser:'Test',network:'Test'},evidence:'Test fixture',samples:['start','middle','end'].map(position=>({position,advancedSeconds:20}))})),...['cn','tw'].map(id=>({target:id,kind:'live',region:'test',regionConfirmed:true,status:'passed',checkedAt:new Date(now).toISOString(),environment:{browser:'Test',network:'Test'},evidence:'Test fixture',samples:[{position:'live',advancedSeconds:20}]}))];
+Object.assign(baseFilters,{checks,region:'test',now});Object.assign(context,{checks,region:'test',now});
+
 test('a real timestamp is grouped by the viewer timezone, including cross-day changes',()=>{
   assert.equal(displayDate(matches[0],'Asia/Shanghai'),'2026-10-26');
   assert.equal(displayDate(matches[0],'America/Los_Angeles'),'2026-10-25');
@@ -51,18 +56,19 @@ test('commentary and video-type filters select resources independently of interf
   const filters={...baseFilters,commentary:'zh-CN',type:'singleGame'};
   assert.deepEqual(matchingVideos(videos,{...filters,lang:'en'},sourceMap).map(video=>video.id),['v-cn']);
   assert.deepEqual(matchingVideos(videos,{...filters,lang:'zh-Hant'},sourceMap).map(video=>video.id),['v-cn']);
-  assert.equal(matchingVideos(videos,{...filters,commentary:'zh-TW'},sourceMap).length,0);
+  assert.equal(matchingVideos(videos,{...filters,commentary:'zh-TW'},sourceMap,'all',context).length,0);
 });
-test('official linked metadata remains discoverable without claiming the video page was checked',()=>{
-  const found=matchingVideos(videos,baseFilters,sourceMap);
+test('only regional playback evidence enables legacy metadata links',()=>{
+  assert.deepEqual(matchingVideos(videos,{...baseFilters,checks:[]},sourceMap),[]);
+ const found=matchingVideos(videos,baseFilters,sourceMap);
   assert.deepEqual(found.map(video=>video.id),['v-cn','v-tw']);
   assert.equal(found[0].pageStatus,'unverified');
   assert.ok(!found.some(video=>video.playbackStatus==='unavailable'));
 });
 test('verified live pages survive restricted profiles, explicit unverified live pages override profiles',()=>{
-  assert.deepEqual(liveEntriesForMatch(matches[0],broadcasts,sourceMap).map(source=>source.id),['cn','tw']);
-  assert.deepEqual(liveEntriesForMatch(matches[0],broadcasts,sourceMap,'zh-CN').map(source=>source.id),['cn']);
-  assert.equal(liveEntriesForMatch(matches[1],broadcasts,sourceMap).length,0);
+  assert.deepEqual(liveEntriesForMatch(matches[0],broadcasts,sourceMap,'all',context).map(source=>source.id),['cn','tw']);
+  assert.deepEqual(liveEntriesForMatch(matches[0],broadcasts,sourceMap,'zh-CN',context).map(source=>source.id),['cn']);
+  assert.equal(liveEntriesForMatch(matches[1],broadcasts,sourceMap,'all',context).length,0);
 });
 test('resource classifications use actual matching links and do not hide published fixtures',()=>{
   assert.equal(matchResources(matches[0],baseFilters,context).kind,'replay');
