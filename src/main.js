@@ -5,7 +5,7 @@ import './styles.css';
 const $=selector=>document.querySelector(selector);
 const preferenceKey='lol-esports-watch-hub.ui-language';
 let preference;try{preference=localStorage.getItem(preferenceKey)}catch{}
-const state={lang:Object.hasOwn(messages,preference)?preference:(navigator.languages||[navigator.language]).map(matchLocale).find(Boolean)||'en',stage:'all',date:null,search:'',commentary:'all',type:'all',availability:'all',showScores:false,heroExpanded:false,expanded:new Set()};
+const state={lang:Object.hasOwn(messages,preference)?preference:(navigator.languages||[navigator.language]).map(matchLocale).find(Boolean)||'en',stage:'all',date:null,search:'',commentary:'all',type:'all',availability:'all',showScores:false,liveLanguage:null,expanded:new Set()};
 const timeZone=Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC';
 let content={teams:[],sources:[],matches:[],videos:[],broadcasts:[],meta:{}},status='loading',loading=false;
 let teamMap=new Map(),sourceMap=new Map();
@@ -62,16 +62,17 @@ function scrollSelectedDate(){requestAnimationFrame(()=>{const track=$('#date-tr
 function featuredMatch(){const items=stageMatches().filter(match=>state.date==='all'||displayDate(match,timeZone)===state.date);return items.find(match=>match.status==='live')||items.find(match=>match.status==='scheduled')||items.at(-1)||null}
 function renderFeatured(){
   const match=featuredMatch(),container=$('#featured-match'),channels=$('#hero-channels');container.replaceChildren();channels.replaceChildren();
+  const preferred=state.liveLanguage||({'zh-Hans':'zh-CN','zh-Hant':'zh-TW'}[state.lang]||state.lang);
+  const entries=match?matchResources(match,{...state,commentary:'all'},context()).liveEntries:[];
+  const languages=[...new Set([preferred,...entries.map(source=>commentaryKey(source.language,source))])];
+  fillSelect('#live-language',languages.map(key=>[key,audioName(key)]),preferred);
   $('#featured-label').textContent=match?t(match.status==='live'?'liveMatch':match.status==='scheduled'?'nextMatch':'recentMatch'):'';
   if(!match){container.append(node('p','hero-empty',t(status==='loading'?'loading':'featuredEmpty')));channels.append(node('span','hero-empty',t('noLiveEntry')));return}
   const duel=node('div','featured-duel');const center=node('div','featured-center',scoreText(match));if(match.bestOf)center.append(node('span','match-format',t('bestOf',{count:match.bestOf})));duel.append(teamBlock(match.teamIds[0],true),center,teamBlock(match.teamIds[1],true));container.append(duel);
   const meta=node('div','featured-meta');meta.append(statusBadge(match.status),node('span','',t(match.stage)),node('span','',match.startAt?formatTimestamp(match.startAt):formatDate(match.scheduledDate)+' · '+t('dateOnly',{zone:match.dateTimezone})));const round=roundLabel(match);if(round)meta.append(node('span','',round));container.append(meta);
-  const entries=matchResources(match,state,context()).liveEntries;
-  const ordered=[...new Map(entries.map(source=>[commentaryKey(source.language,source),source])).values()];
-  const rest=entries.filter(source=>!ordered.includes(source));const all=[...ordered,...rest];
-  for(const source of (state.heroExpanded?all:all.slice(0,4)))channels.append(liveLink(source));
-  if(!all.length)channels.append(node('span','hero-empty',t('noLiveEntry')));
-  if(all.length>4){const more=node('button','live-link',t(state.heroExpanded?'hideChannels':'showChannels'));more.type='button';more.setAttribute('aria-expanded',String(state.heroExpanded));more.addEventListener('click',()=>{state.heroExpanded=!state.heroExpanded;renderFeatured()});channels.append(more)}
+  const selected=entries.filter(source=>commentaryKey(source.language,source)===preferred);
+  for(const source of selected)channels.append(liveLink(source));
+  if(!selected.length)channels.append(node('span','hero-empty',t('noLiveEntry')));
 }
 function baseMatches(){return filterMatches(content.matches,{...state,availability:'all'},context())}
 function renderResourceTabs(){
@@ -131,6 +132,7 @@ function renderAll(){document.documentElement.lang=state.lang;$('#ui-language').
 function resetFilters(){Object.assign(state,{stage:'all',date:'all',search:'',commentary:'all',type:'all',availability:'all'});$('#search').value='';renderAll();$('#search').focus()}
 async function loadContent(){if(loading)return;loading=true;status='loading';renderAll();try{const names=['teams','sources','matches','videos','broadcasts','meta'];const records=await Promise.all(names.map(async name=>{const response=await fetch(import.meta.env.BASE_URL+'data/'+name+'.json',{signal:AbortSignal.timeout(15000)});if(!response.ok)throw new Error(name);const result=await response.json();if(name==='meta'?result?.schemaVersion!==2:!Array.isArray(result))throw new Error('Schema');return result}));content=Object.fromEntries(names.map((name,index)=>[name,records[index]]));teamMap=new Map(content.teams.map(team=>[team.id,team]));sourceMap=new Map(content.sources.map(source=>[source.id,source]));if(state.date===null||state.date!=='all'&&!availableDates().includes(state.date))state.date=nearestDate(availableDates());status='ready'}catch{content={teams:[],sources:[],matches:[],videos:[],broadcasts:[],meta:{}};teamMap=new Map();sourceMap=new Map();status='error'}finally{loading=false;renderAll();scrollSelectedDate()}}
 $('#ui-language').replaceChildren(...languageMeta.map(([code,name])=>option(code,name)));$('#ui-language').addEventListener('change',event=>{state.lang=event.target.value;try{localStorage.setItem(preferenceKey,state.lang)}catch{}renderAll();scrollSelectedDate()});
+$('#live-language').addEventListener('change',event=>{state.liveLanguage=event.target.value;renderFeatured()});
 $('#search').addEventListener('input',event=>{state.search=event.target.value;populateFilters();renderResourceTabs();renderMatches()});
 for(const [id,key]of [['commentary','commentary'],['video-type','type']])$('#'+id).addEventListener('change',event=>{state[key]=event.target.value;state.availability='all';renderAll()});
 $('#filters').addEventListener('submit',event=>event.preventDefault());$('#reset').addEventListener('click',resetFilters);$('#reset-empty').addEventListener('click',resetFilters);$('#retry').addEventListener('click',loadContent);

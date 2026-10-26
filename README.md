@@ -4,7 +4,7 @@ Worlds 2026 / S16 多语言赛程、官方直播入口与录像导航。原生 J
 
 [正式站点](https://jaisingz.github.io/lol-esports-watch-hub/) · [官方赛程](https://lolesports.com/en-US/)
 
-本分支为新版布局审阅稿。正式站点仍使用上一版；新版只有在用户确认桌面与手机布局后才能合并发布。未创建 worktree。
+新版桌面与手机布局已获确认。顶部直播语言使用下拉框，默认跟随界面语言；手动选择后保持独立，不改变下方录像筛选。未创建 worktree。
 
 ## 页面与内容
 

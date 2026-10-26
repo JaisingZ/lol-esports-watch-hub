@@ -19,3 +19,5 @@
  .filters{margin-bottom:9px}.field>label:not(.sr-only){position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
  .list-meta{margin-top:3px}.date-hint{margin-top:0;margin-bottom:9px}.date-group-heading{margin-bottom:8px}
 }
+
+#live-language{width:100%;max-width:360px;min-height:44px;margin:0 0 10px} .hero-channels{flex-wrap:wrap;overflow:visible}
