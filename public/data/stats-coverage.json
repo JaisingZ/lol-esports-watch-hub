@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-10-26T04:21:12.505Z",
+  "season": 2026,
+  "completedSeries": 26,
+  "coveredSeries": 26,
+  "games": 45,
+  "players": 96,
+  "playerGameRows": 450,
+  "historicalPlayerGameRows": 2883,
+  "historyYears": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "historicalComplete": false,
+  "source": "https://gol.gg/",
+  "missingFields": [
+    "Historical stage not inferred; pre-2014 games not covered; source damage rounding can differ by 1–2 units"
+  ]
+}

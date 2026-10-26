@@ -71,7 +71,8 @@
     "successRate": "七日试播成功率",
     "quality": "实测画质",
     "startup": "起播耗时",
-    "unknown": "未验证"
+    "unknown": "未验证",
+    "coverageCounts": "已收录：{matches} 场系列赛 · {games} 个单局 · {players} 名选手 · 年份：{years}。历届记录仍可能不完整。"
   },
   "zh-Hant": {
     "watch": "賽事觀戰",
@@ -145,7 +146,8 @@
     "successRate": "七日試播成功率",
     "quality": "實測畫質",
     "startup": "起播耗時",
-    "unknown": "未驗證"
+    "unknown": "未驗證",
+    "coverageCounts": "已收錄：{matches} 場系列賽 · {games} 個單局 · {players} 名選手 · 年份：{years}。歷屆記錄仍可能不完整。"
   },
   "en": {
     "watch": "Watch",
@@ -219,7 +221,8 @@
     "successRate": "7-day playback success",
     "quality": "Measured quality",
     "startup": "Startup time",
-    "unknown": "Unverified"
+    "unknown": "Unverified",
+    "coverageCounts": "Recorded: {matches} series · {games} games · {players} players · Years: {years}. Historical coverage may be incomplete."
   },
   "ko": {
     "watch": "경기 관전",
@@ -293,7 +296,8 @@
     "successRate": "7일 재생 성공률",
     "quality": "측정 화질",
     "startup": "재생 시작 시간",
-    "unknown": "미검증"
+    "unknown": "미검증",
+    "coverageCounts": "수록: 시리즈 {matches}개 · 경기 {games}개 · 선수 {players}명 · 연도: {years}. 과거 기록은 불완전할 수 있습니다."
   },
   "ja": {
     "watch": "試合観戦",
@@ -367,7 +371,8 @@
     "successRate": "7日間の再生成功率",
     "quality": "実測画質",
     "startup": "再生開始時間",
-    "unknown": "未検証"
+    "unknown": "未検証",
+    "coverageCounts": "収録：{matches}シリーズ・{games}試合・{players}選手・対象年：{years}。過去の記録は未収録の場合があります。"
   },
   "vi": {
     "watch": "Xem giải",
@@ -441,7 +446,8 @@
     "successRate": "Tỷ lệ thử phát 7 ngày",
     "quality": "Chất lượng đã đo",
     "startup": "Thời gian bắt đầu",
-    "unknown": "Chưa xác minh"
+    "unknown": "Chưa xác minh",
+    "coverageCounts": "Đã thu thập: {matches} loạt trận · {games} ván · {players} tuyển thủ · Năm: {years}. Lịch sử có thể chưa đầy đủ."
   },
   "th": {
     "watch": "ชมการแข่งขัน",
@@ -515,7 +521,8 @@
     "successRate": "อัตราเล่นสำเร็จ 7 วัน",
     "quality": "คุณภาพที่วัดได้",
     "startup": "เวลาเริ่มเล่น",
-    "unknown": "ยังไม่ตรวจสอบ"
+    "unknown": "ยังไม่ตรวจสอบ",
+    "coverageCounts": "บันทึกแล้ว: {matches} ซีรีส์ · {games} เกม · {players} ผู้เล่น · ปี: {years} ประวัติอาจยังไม่ครบถ้วน"
   },
   "pt-BR": {
     "watch": "Assistir",
@@ -589,6 +596,7 @@
     "successRate": "Sucesso de reprodução em 7 dias",
     "quality": "Qualidade medida",
     "startup": "Tempo de início",
-    "unknown": "Não verificado"
+    "unknown": "Não verificado",
+    "coverageCounts": "Registrados: {matches} séries · {games} jogos · {players} jogadores · Anos: {years}. O histórico pode estar incompleto."
   }
 }

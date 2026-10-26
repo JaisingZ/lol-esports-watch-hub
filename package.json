@@ -14,9 +14,12 @@
     "sync:official": "node scripts/sync-official.mjs",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "build:review": "vite build --config vite.review.config.js"
+    "build:review": "vite build --config vite.review.config.js",
+    "sync:stats": "node scripts/sync-stats.mjs",
+    "import:stats": "node scripts/import-gol.mjs"
   },
   "devDependencies": {
+    "playwright": "1.64.1",
     "vite": "8.3.5"
   }
 }

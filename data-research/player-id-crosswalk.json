@@ -1,0 +1,1316 @@
+{
+  "gol:1922": {
+    "oeId": "oe:player:0c74b7f78409a4022a2c4c5a5ca3ee1",
+    "name": "369",
+    "evidenceGames": [
+      "LOLTMNT02_482539",
+      "LOLTMNT02_482761",
+      "LOLTMNT02_483314"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1922/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1269": {
+    "oeId": "oe:player:0da0eeb199e8fa3ab773cf84f9de9ab",
+    "name": "Tian",
+    "evidenceGames": [
+      "LOLTMNT02_482539",
+      "LOLTMNT02_482761",
+      "LOLTMNT02_483314"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1269/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3906": {
+    "oeId": "oe:player:6e7908512cb309a43388bb464a312a2",
+    "name": "Creme",
+    "evidenceGames": [
+      "LOLTMNT02_482539",
+      "LOLTMNT02_482761",
+      "LOLTMNT02_483314"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1267": {
+    "oeId": "oe:player:c54e1090ef1faa736b12493051c4855",
+    "name": "JackeyLove",
+    "evidenceGames": [
+      "LOLTMNT02_482539",
+      "LOLTMNT02_482761",
+      "LOLTMNT02_483314"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1267/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3352": {
+    "oeId": "oe:player:e78da55d6db43d982f841204a8e51ac",
+    "name": "Zhuo",
+    "evidenceGames": [
+      "LOLTMNT02_482539",
+      "LOLTMNT02_482761",
+      "LOLTMNT02_483314"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3352/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1310": {
+    "oeId": "oe:player:84bff3a326833c7c9181c698f676878",
+    "name": "BrokenBlade",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482570",
+      "LOLTMNT02_482761"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4946": {
+    "oeId": "oe:player:ab15060e5225b51592cd04b3aed1e09",
+    "name": "SkewMond",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482570",
+      "LOLTMNT02_482761"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4946/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:802": {
+    "oeId": "oe:player:55dd587cdc4a278be6a5c37f9e539de",
+    "name": "Caps",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482570",
+      "LOLTMNT02_482761"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/802/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:732": {
+    "oeId": "oe:player:c62a5235ad6bc113a1e64eb0e9aa8c8",
+    "name": "Hans Sama",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482570",
+      "LOLTMNT02_482761"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/732/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2887": {
+    "oeId": "oe:player:bb6ac5763c6576e104a7a2f59eb4ddf",
+    "name": "Labrov",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482570",
+      "LOLTMNT02_482761"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2887/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1075": {
+    "oeId": "oe:player:37f20525a39d17ec49fd10294f9c994",
+    "name": "TheShy",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482587",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:388": {
+    "oeId": "oe:player:b61e517b1a6027160aafaf56e9867c0",
+    "name": "Wei",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482587",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:109": {
+    "oeId": "oe:player:1213778b5c6d69dcb26aa89f7d0aaa9",
+    "name": "RooKie",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482587",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5939": {
+    "oeId": "oe:player:d971df9441d60af93a87545e6a8f884",
+    "name": "JiaQi",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482587",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:386": {
+    "oeId": "oe:player:bda7cc061d7a1576f1dcad33dd505cd",
+    "name": "meiko",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482587",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3658": {
+    "oeId": "oe:player:98dd15c330fb5abb4508347265a7f76",
+    "name": "Zeus",
+    "evidenceGames": [
+      "LOLTMNT02_482599",
+      "LOLTMNT02_483314",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3658/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2360": {
+    "oeId": "oe:player:41deab55354f57a94135989133f9968",
+    "name": "Kanavi",
+    "evidenceGames": [
+      "LOLTMNT02_482599",
+      "LOLTMNT02_483314",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2360/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2906": {
+    "oeId": "oe:player:f9cd2ef9afea5cda0eb3263a025cec1",
+    "name": "Zeka",
+    "evidenceGames": [
+      "LOLTMNT02_482599",
+      "LOLTMNT02_483314",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3247": {
+    "oeId": "oe:player:c7319736816efe935787b4381c6f321",
+    "name": "Gumayusi",
+    "evidenceGames": [
+      "LOLTMNT02_482599",
+      "LOLTMNT02_483314",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3411": {
+    "oeId": "oe:player:051ca2e31ba25123961b3df95fdef4c",
+    "name": "Delight",
+    "evidenceGames": [
+      "LOLTMNT02_482599",
+      "LOLTMNT02_483314",
+      "LOLTMNT02_483687"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3411/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2545": {
+    "oeId": "oe:player:f73dde2d8c7879ae8d1fcdc03c4ffeb",
+    "name": "Morgan",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482620"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2545/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1364": {
+    "oeId": "oe:player:52b4f060a577ff87c99118d97fa75f4",
+    "name": "Josedeodo",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482620"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1364/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4246": {
+    "oeId": "oe:player:8f8eaac8e99c203ee76e57c5c81c91f",
+    "name": "Quid",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482620"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4246/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3537": {
+    "oeId": "oe:player:f6b8af05a5af22004a67a78f3046b92",
+    "name": "Yeon",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482620"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3537/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:257": {
+    "oeId": "oe:player:05fafeaf23dc3285558a4e968970b9f",
+    "name": "CoreJJ",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482620"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/257/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2606": {
+    "oeId": "oe:player:fb66ef5885b4be9323905b821dc3a42",
+    "name": "Bin",
+    "evidenceGames": [
+      "LOLTMNT02_482620",
+      "LOLTMNT02_483342"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3330": {
+    "oeId": "oe:player:fbdc4428b2d095c83aebeed5da4e4b2",
+    "name": "XUN",
+    "evidenceGames": [
+      "LOLTMNT02_482620",
+      "LOLTMNT02_483342"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1270": {
+    "oeId": "oe:player:ed29043422e3c515e1cb292464b990b",
+    "name": "Knight",
+    "evidenceGames": [
+      "LOLTMNT02_482620",
+      "LOLTMNT02_483342"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1228": {
+    "oeId": "oe:player:9573154ad8bc9459b4c0d940315054f",
+    "name": "Viper",
+    "evidenceGames": [
+      "LOLTMNT02_482620",
+      "LOLTMNT02_483342"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3353": {
+    "oeId": "oe:player:90651ebea9a35ec4e018c8157492e17",
+    "name": "ON",
+    "evidenceGames": [
+      "LOLTMNT02_482620",
+      "LOLTMNT02_483342"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5392": {
+    "oeId": "oe:player:da9f969a7ab3819b9e528072aa4d5e6",
+    "name": "Siwoo",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482606",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5392/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3895": {
+    "oeId": "oe:player:10b86429ce8048aba673d802632e358",
+    "name": "Lucid",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482606",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3895/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1250": {
+    "oeId": "oe:player:5f8ff49cd56eae61d635966b183a451",
+    "name": "ShowMaker",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482606",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1250/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4940": {
+    "oeId": "oe:player:eaebb7118d7bd83eabac513053e1f6c",
+    "name": "Smash",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482606",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4940/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5204": {
+    "oeId": "oe:player:99e732def3601275db892c84fb85a0c",
+    "name": "Career",
+    "evidenceGames": [
+      "LOLTMNT02_482304",
+      "LOLTMNT02_482606",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5204/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1242": {
+    "oeId": "oe:player:57acacc1f182893280e7400073a3dd1",
+    "name": "Doran",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482606"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3741": {
+    "oeId": "oe:player:f8b68f268106124fc4bc1c946adc9b0",
+    "name": "Oner",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482606"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:48": {
+    "oeId": "oe:player:e1edfc5cea461399a63cb813cf795cc",
+    "name": "Faker",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482606"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4247": {
+    "oeId": "oe:player:5bbc2b92348d930ebd500cb9ce71bb7",
+    "name": "Peyz",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482606"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1258": {
+    "oeId": "oe:player:db79ce6ad35451c938fbe2995dabd37",
+    "name": "Keria",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482606"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1115": {
+    "oeId": "oe:player:03daae1844b9ad257324c3eedf41e28",
+    "name": "Kiin",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482599",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1909": {
+    "oeId": "oe:player:92544d7a994bd6841cccd9f6e42e3de",
+    "name": "Canyon",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482599",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1629": {
+    "oeId": "oe:player:fb6e61b8acb05df17b7e5ad4ae7c800",
+    "name": "Chovy",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482599",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:685": {
+    "oeId": "oe:player:eada4723af6f51cf2391d85b5fde49b",
+    "name": "Ruler",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482599",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4259": {
+    "oeId": "oe:player:605821ebcf6a2e53f03ec6e8e463d1b",
+    "name": "Duro",
+    "evidenceGames": [
+      "LOLTMNT02_482269",
+      "LOLTMNT02_482599",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2799": {
+    "oeId": "oe:player:6644a7352d32c9c4443017798130b61",
+    "name": "Pun",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482587"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2799/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5960": {
+    "oeId": "oe:player:043e89cd3b06bc1a0555024d475c9d2",
+    "name": "Hizto",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482587"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5960/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5961": {
+    "oeId": "oe:player:b7a3b6176406a92dd089fe2f82a1d3f",
+    "name": "Dire",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482587"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5961/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3245": {
+    "oeId": "oe:player:e5f6c83e6e97c74fc9e9760fc8972ae",
+    "name": "Eddie",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482587"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3245/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1461": {
+    "oeId": "oe:player:1f7d70f56b608b3137df2493949fdd0",
+    "name": "Bie",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482587"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1461/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2671": {
+    "oeId": "oe:player:7577c239c73fa5f3011cd7b5503e75e",
+    "name": "Canna",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_482292",
+      "LOLTMNT02_483571"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2671/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3406": {
+    "oeId": "oe:player:4203fc46c4c6333e9bfa9d0a8618677",
+    "name": "Yike",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_482292",
+      "LOLTMNT02_483571"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3406/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5264": {
+    "oeId": "oe:player:308e48bf56284c09a1a9aadf55bc80c",
+    "name": "Kyeahoo",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_482292",
+      "LOLTMNT02_483571"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5264/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4900": {
+    "oeId": "oe:player:e2af2b779499aa25ab9a9c10c9a5ffd",
+    "name": "Caliste",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_482292",
+      "LOLTMNT02_483571"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4900/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4500": {
+    "oeId": "oe:player:3e722c8ede909c83af9342c41805a16",
+    "name": "Busio",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_482292",
+      "LOLTMNT02_483571"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4500/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1135": {
+    "oeId": "oe:player:5385f74da3e5deb5b66d9a1ee56cf97",
+    "name": "Dhokla",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483571",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1135/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1501": {
+    "oeId": "oe:player:a8307167f3a1c933295bb9e3d43700e",
+    "name": "Inspired",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483571",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1501/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5123": {
+    "oeId": "oe:player:f45792335d83b10581da2f0cbdd6e8e",
+    "name": "Saint",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483571",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5123/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3322": {
+    "oeId": "oe:player:460ae5a7af8d68f7831b70307210ab3",
+    "name": "Berserker",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483571",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3322/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2358": {
+    "oeId": "oe:player:40704dfd2d966862568d29770de57bd",
+    "name": "Isles",
+    "evidenceGames": [
+      "LOLTMNT02_482335",
+      "LOLTMNT02_482793",
+      "LOLTMNT02_482805",
+      "LOLTMNT02_483571",
+      "LOLTMNT02_483730"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2358/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4244": {
+    "oeId": "oe:player:786b5bbf7bbfb7b79379e8589a865c1",
+    "name": "Zest",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482570"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4244/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5274": {
+    "oeId": "oe:player:9c51ed760409db6fa2a02fe8046f110",
+    "name": "Curse",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482570"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5274/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4234": {
+    "oeId": "oe:player:d1ae0e2f9f3ac1e0e0cdcb86504ca77",
+    "name": "Feisty",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482570"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4234/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5786": {
+    "oeId": "oe:player:b4179fdeda1242fcd94b82a5710dd3e",
+    "name": "Duduhh",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482570"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5786/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3640": {
+    "oeId": "oe:player:145201414ecb853de684fbe7d6bb5b6",
+    "name": "Ackerman",
+    "evidenceGames": [
+      "LOLTMNT02_482325",
+      "LOLTMNT02_482570"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3640/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4310": {
+    "oeId": "oe:player:ede24d5e0911d7a4f6ec514a67802ff",
+    "name": "Myrwn",
+    "evidenceGames": [
+      "LOLTMNT02_482559",
+      "LOLTMNT02_483342",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2719": {
+    "oeId": "oe:player:8a8f18e4b7d0f30c19c5fb99a526951",
+    "name": "Elyoya",
+    "evidenceGames": [
+      "LOLTMNT02_482559",
+      "LOLTMNT02_483342",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2719/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3544": {
+    "oeId": "oe:player:83eb62484689106807fcf5ad55b5479",
+    "name": "jojopyun",
+    "evidenceGames": [
+      "LOLTMNT02_482559",
+      "LOLTMNT02_483342",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3544/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2717": {
+    "oeId": "oe:player:1223a0ed2bfab9b714c72d965df8133",
+    "name": "Supa",
+    "evidenceGames": [
+      "LOLTMNT02_482559",
+      "LOLTMNT02_483342",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2717/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4634": {
+    "oeId": "oe:player:f5bf9bd732b85e4dcab5121e4769ae4",
+    "name": "Alvaro",
+    "evidenceGames": [
+      "LOLTMNT02_482559",
+      "LOLTMNT02_483342",
+      "LOLTMNT02_483708",
+      "LOLTMNT02_483716"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4634/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1172": {
+    "oeId": "oe:player:55276c10d84e1df7713b441e76e141f",
+    "name": "Rest",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482559"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1172/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2588": {
+    "oeId": "oe:player:c332dc879e14f1feb266190c7f396fd",
+    "name": "Shad0w",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482559"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2588/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4251": {
+    "oeId": "oe:player:ca187ee49dd3e9ed20eaacbbf484fdf",
+    "name": "Pout",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482559"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4251/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3737": {
+    "oeId": "oe:player:95082306f78780da5686f118c993366",
+    "name": "Doggo",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482559"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3737/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:7011": {
+    "oeId": "oe:player:acb3a05894b7c57412b2d7e911e17dd",
+    "name": "Kino",
+    "evidenceGames": [
+      "LOLTMNT02_482313",
+      "LOLTMNT02_482559"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/7011/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2348": {
+    "oeId": "oe:player:0d9b0a3b3a93a8f759c9d8ac8eef97c",
+    "name": "Breathe",
+    "evidenceGames": [
+      "LOLTMNT02_482292",
+      "LOLTMNT02_482539"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2348/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1226": {
+    "oeId": "oe:player:62922f2b370657a966de4d84f5586bf",
+    "name": "Tarzan",
+    "evidenceGames": [
+      "LOLTMNT02_482292",
+      "LOLTMNT02_482539"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1226/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3344": {
+    "oeId": "oe:player:0e2f0d3ded24c190dd6a4b3d6f89f04",
+    "name": "Shanks",
+    "evidenceGames": [
+      "LOLTMNT02_482292",
+      "LOLTMNT02_482539"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3344/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1561": {
+    "oeId": "oe:player:7cf68f44e5dc31827b1d3f0a3b4a28e",
+    "name": "Hope",
+    "evidenceGames": [
+      "LOLTMNT02_482292",
+      "LOLTMNT02_482539"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1561/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3323": {
+    "oeId": "oe:player:d24f38ec30ce6f7577066f80e43e4bf",
+    "name": "Kael",
+    "evidenceGames": [
+      "LOLTMNT02_482292",
+      "LOLTMNT02_482539"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3323/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5169": {
+    "oeId": "oe:player:75019a36fdf85666fbd9396ae4fc7ec",
+    "name": "Kratos",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5169/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5156": {
+    "oeId": "oe:player:0101bf828e44b2630d500590c4ad461",
+    "name": "Gury",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5156/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:6420": {
+    "oeId": "oe:player:c4d64ae9f01ee43ec2367d28eeadbea",
+    "name": "Chika",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/6420/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5166": {
+    "oeId": "oe:player:28a1925f6c4df972a5ae722c07bb4c4",
+    "name": "Harky",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5166/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:5913": {
+    "oeId": "oe:player:397fee5de074b10600707b618fb1f29",
+    "name": "Siuloong",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_479982",
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033",
+      "LOLTMNT02_480507",
+      "LOLTMNT02_480508",
+      "LOLTMNT02_480511",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/5913/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3116": {
+    "oeId": "oe:player:d61d8a0b25028f787123bfff542d305",
+    "name": "Guigo",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3116/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4776": {
+    "oeId": "oe:player:6625d682ed10ef5e0e7c6c9e4dd2fc1",
+    "name": "Tatu",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4776/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2709": {
+    "oeId": "oe:player:886e8205ac1b091dbf67dbae83b1544",
+    "name": "Tutsz",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2709/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4976": {
+    "oeId": "oe:player:d7a904873d10637ef44afa9c1de83b3",
+    "name": "Ayu",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4976/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:2329": {
+    "oeId": "oe:player:cb4cd2fd258d5961d2f1c4815b04123",
+    "name": "JoJo",
+    "evidenceGames": [
+      "LOLTMNT02_478715",
+      "LOLTMNT02_478718",
+      "LOLTMNT02_478726",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123",
+      "LOLTMNT02_481268",
+      "LOLTMNT02_481282",
+      "LOLTMNT02_481295",
+      "LOLTMNT02_481308"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/2329/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:6419": {
+    "oeId": "oe:player:413e2abb884854a2fe8bdfa3fac0b7e",
+    "name": "SanSan",
+    "evidenceGames": [
+      "LOLTMNT02_480014",
+      "LOLTMNT02_480033"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/6419/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:3434": {
+    "oeId": "oe:player:1efc4e5732e91520d03385900b903f9",
+    "name": "Thanatos",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/3434/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1634": {
+    "oeId": "oe:player:ed455f823b6586e9e3621dfb5aeb42e",
+    "name": "Blaber",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1634/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:4861": {
+    "oeId": "oe:player:0a53c1102dafce61e89decc517b3175",
+    "name": "Loki",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/4861/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1979": {
+    "oeId": "oe:player:4e0619e57cb50c4ab1230c2dd72df1b",
+    "name": "Tactical",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1979/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  },
+  "gol:1301": {
+    "oeId": "oe:player:81acc6bcde5c927c78e0990e9887f84",
+    "name": "Vulcan",
+    "evidenceGames": [
+      "LOLTMNT02_479621",
+      "LOLTMNT02_479631",
+      "LOLTMNT02_479637",
+      "LOLTMNT02_479642",
+      "LOLTMNT02_479649",
+      "LOLTMNT02_480078",
+      "LOLTMNT02_480094",
+      "LOLTMNT02_480113",
+      "LOLTMNT02_480123"
+    ],
+    "golSource": "https://gol.gg/players/player-stats/1301/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "oeSource": "https://drive.google.com/uc?export=download&id=1hnpbrUpBMS1TZI7IovfpKeZfWJH1Aptm",
+    "method": "Matching 2026 Worlds name and exact per-game kills, deaths, assists and gold; unique OE ID only"
+  }
+}

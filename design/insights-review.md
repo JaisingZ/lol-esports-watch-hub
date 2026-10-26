@@ -1,3 +1,5 @@
+> Superseded for statistics coverage by [data-backfill.md](data-backfill.md). The original review findings below describe the pre-backfill state.
+
 # Insights review — implementation and coverage
 
 The user approved continuation after reviewing the prototype on 2026-10-26. This branch prepares the approved layout for release; production data gaps below remain explicit. Open `review.html` in Vite, or run `npm run build:review`. The review fixture is imported only by the review entry point; production imports no demo records.

@@ -31,11 +31,11 @@ export function aggregatePlayers(rows,players,{season=null,stage='all',role='all
  for(const row of rows){
   if(!ids.has(row.playerId)||(season!==null&&row.season!==season)||(stage!=='all'&&row.stage!==stage)||(role!=='all'&&row.role!==role)||(team!=='all'&&row.teamId!==team))continue;
   const key=row.gameId+':'+row.playerId;if(seen.has(key))continue;seen.add(key);
-  if(!map.has(row.playerId))map.set(row.playerId,{playerId:row.playerId,games:0,wins:0,kills:0,deaths:0,assists:0,years:new Set(),complete:true});
-  const s=map.get(row.playerId);s.games++;s.wins+=row.win===true?1:0;s.years.add(row.season);
+  if(!map.has(row.playerId))map.set(row.playerId,{playerId:row.playerId,games:0,wins:0,kills:0,deaths:0,assists:0,damage:0,damageComplete:true,years:new Set(),complete:true});
+  const s=map.get(row.playerId);if(Number.isFinite(row.damage)&&row.damage>=0)s.damage+=row.damage;else s.damageComplete=false;s.games++;s.wins+=row.win===true?1:0;s.years.add(row.season);
   for(const k of ['kills','deaths','assists'])if(Number.isFinite(row[k])&&row[k]>=0)s[k]+=row[k];else s.complete=false;
  }
- return [...map.values()].map(s=>({...s,years:[...s.years].sort(),kda:s.complete?(s.deaths===0?Infinity:(s.kills+s.assists)/s.deaths):null,winRate:s.wins/s.games}));
+ return [...map.values()].map(s=>({...s,years:[...s.years].sort(),damage:s.damageComplete?s.damage:null,kda:s.complete?(s.deaths===0?Infinity:(s.kills+s.assists)/s.deaths):null,winRate:s.wins/s.games}));
 }
 export function percentile(value,population){
  if(population.length<2)return 50;

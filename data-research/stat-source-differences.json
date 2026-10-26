@@ -1,0 +1,1778 @@
+[
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:1922",
+    "golDamage": 8637,
+    "oeDamage": 8638
+  },
+  {
+    "gameId": "gol:83655",
+    "playerId": "gol:1269",
+    "golDamage": 14588,
+    "oeDamage": 14589
+  },
+  {
+    "gameId": "gol:83646",
+    "playerId": "gol:1269",
+    "golDamage": 10568,
+    "oeDamage": 10569
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:1269",
+    "golDamage": 10554,
+    "oeDamage": 10555
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:3906",
+    "golDamage": 22127,
+    "oeDamage": 22128
+  },
+  {
+    "gameId": "gol:83655",
+    "playerId": "gol:1267",
+    "golDamage": 38529,
+    "oeDamage": 38530
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:1267",
+    "golDamage": 13009,
+    "oeDamage": 13010
+  },
+  {
+    "gameId": "gol:83646",
+    "playerId": "gol:3352",
+    "golDamage": 4842,
+    "oeDamage": 4844
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:3352",
+    "golDamage": 4158,
+    "oeDamage": 4159
+  },
+  {
+    "gameId": "gol:83655",
+    "playerId": "gol:1310",
+    "golDamage": 11226,
+    "oeDamage": 11227
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:1310",
+    "golDamage": 12993,
+    "oeDamage": 12994
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:4946",
+    "golDamage": 29229,
+    "oeDamage": 29231
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:4946",
+    "golDamage": 10225,
+    "oeDamage": 10226
+  },
+  {
+    "gameId": "gol:83655",
+    "playerId": "gol:802",
+    "golDamage": 17885,
+    "oeDamage": 17886
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:802",
+    "golDamage": 25241,
+    "oeDamage": 25242
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:802",
+    "golDamage": 15448,
+    "oeDamage": 15449
+  },
+  {
+    "gameId": "gol:83655",
+    "playerId": "gol:732",
+    "golDamage": 29900,
+    "oeDamage": 29902
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:732",
+    "golDamage": 31541,
+    "oeDamage": 31542
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:732",
+    "golDamage": 23664,
+    "oeDamage": 23665
+  },
+  {
+    "gameId": "gol:83655",
+    "playerId": "gol:2887",
+    "golDamage": 5783,
+    "oeDamage": 5784
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:2887",
+    "golDamage": 7351,
+    "oeDamage": 7353
+  },
+  {
+    "gameId": "gol:83654",
+    "playerId": "gol:1075",
+    "golDamage": 13054,
+    "oeDamage": 13055
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:1075",
+    "golDamage": 25994,
+    "oeDamage": 25996
+  },
+  {
+    "gameId": "gol:83638",
+    "playerId": "gol:1075",
+    "golDamage": 20965,
+    "oeDamage": 20966
+  },
+  {
+    "gameId": "gol:83654",
+    "playerId": "gol:388",
+    "golDamage": 14709,
+    "oeDamage": 14711
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:388",
+    "golDamage": 18935,
+    "oeDamage": 18936
+  },
+  {
+    "gameId": "gol:83638",
+    "playerId": "gol:388",
+    "golDamage": 6103,
+    "oeDamage": 6104
+  },
+  {
+    "gameId": "gol:83654",
+    "playerId": "gol:109",
+    "golDamage": 20543,
+    "oeDamage": 20544
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:109",
+    "golDamage": 22619,
+    "oeDamage": 22620
+  },
+  {
+    "gameId": "gol:83638",
+    "playerId": "gol:109",
+    "golDamage": 18113,
+    "oeDamage": 18115
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:5939",
+    "golDamage": 19550,
+    "oeDamage": 19551
+  },
+  {
+    "gameId": "gol:83654",
+    "playerId": "gol:386",
+    "golDamage": 6614,
+    "oeDamage": 6615
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:386",
+    "golDamage": 8827,
+    "oeDamage": 8828
+  },
+  {
+    "gameId": "gol:83638",
+    "playerId": "gol:386",
+    "golDamage": 2807,
+    "oeDamage": 2808
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:3658",
+    "golDamage": 9853,
+    "oeDamage": 9854
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:3658",
+    "golDamage": 19844,
+    "oeDamage": 19845
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:2360",
+    "golDamage": 5612,
+    "oeDamage": 5613
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:2360",
+    "golDamage": 9563,
+    "oeDamage": 9564
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:2906",
+    "golDamage": 10183,
+    "oeDamage": 10184
+  },
+  {
+    "gameId": "gol:83654",
+    "playerId": "gol:3247",
+    "golDamage": 13094,
+    "oeDamage": 13096
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:3247",
+    "golDamage": 13124,
+    "oeDamage": 13125
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:3247",
+    "golDamage": 19885,
+    "oeDamage": 19886
+  },
+  {
+    "gameId": "gol:83654",
+    "playerId": "gol:3411",
+    "golDamage": 6014,
+    "oeDamage": 6015
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:3411",
+    "golDamage": 1925,
+    "oeDamage": 1926
+  },
+  {
+    "gameId": "gol:83642",
+    "playerId": "gol:3411",
+    "golDamage": 5529,
+    "oeDamage": 5530
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:2545",
+    "golDamage": 8013,
+    "oeDamage": 8014
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:1364",
+    "golDamage": 5755,
+    "oeDamage": 5756
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:1364",
+    "golDamage": 12456,
+    "oeDamage": 12457
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:4246",
+    "golDamage": 7955,
+    "oeDamage": 7957
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:4246",
+    "golDamage": 22518,
+    "oeDamage": 22520
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:3537",
+    "golDamage": 19206,
+    "oeDamage": 19207
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:3537",
+    "golDamage": 23823,
+    "oeDamage": 23824
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:257",
+    "golDamage": 5247,
+    "oeDamage": 5248
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:2606",
+    "golDamage": 16942,
+    "oeDamage": 16943
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:2606",
+    "golDamage": 22405,
+    "oeDamage": 22406
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:3330",
+    "golDamage": 11503,
+    "oeDamage": 11504
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:3330",
+    "golDamage": 14749,
+    "oeDamage": 14750
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:1270",
+    "golDamage": 29336,
+    "oeDamage": 29337
+  },
+  {
+    "gameId": "gol:83653",
+    "playerId": "gol:1228",
+    "golDamage": 15450,
+    "oeDamage": 15451
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:3353",
+    "golDamage": 6953,
+    "oeDamage": 6954
+  },
+  {
+    "gameId": "gol:83652",
+    "playerId": "gol:3895",
+    "golDamage": 8635,
+    "oeDamage": 8636
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:3895",
+    "golDamage": 8960,
+    "oeDamage": 8961
+  },
+  {
+    "gameId": "gol:83656",
+    "playerId": "gol:3895",
+    "golDamage": 20924,
+    "oeDamage": 20925
+  },
+  {
+    "gameId": "gol:83657",
+    "playerId": "gol:3895",
+    "golDamage": 9080,
+    "oeDamage": 9081
+  },
+  {
+    "gameId": "gol:83657",
+    "playerId": "gol:1250",
+    "golDamage": 21650,
+    "oeDamage": 21651
+  },
+  {
+    "gameId": "gol:83652",
+    "playerId": "gol:4940",
+    "golDamage": 20269,
+    "oeDamage": 20271
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:4940",
+    "golDamage": 26844,
+    "oeDamage": 26845
+  },
+  {
+    "gameId": "gol:83656",
+    "playerId": "gol:4940",
+    "golDamage": 36506,
+    "oeDamage": 36507
+  },
+  {
+    "gameId": "gol:83652",
+    "playerId": "gol:5204",
+    "golDamage": 5780,
+    "oeDamage": 5781
+  },
+  {
+    "gameId": "gol:83641",
+    "playerId": "gol:5204",
+    "golDamage": 3580,
+    "oeDamage": 3582
+  },
+  {
+    "gameId": "gol:83657",
+    "playerId": "gol:5204",
+    "golDamage": 6785,
+    "oeDamage": 6786
+  },
+  {
+    "gameId": "gol:83652",
+    "playerId": "gol:1242",
+    "golDamage": 24301,
+    "oeDamage": 24302
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:1242",
+    "golDamage": 27397,
+    "oeDamage": 27398
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:3741",
+    "golDamage": 12340,
+    "oeDamage": 12341
+  },
+  {
+    "gameId": "gol:83652",
+    "playerId": "gol:48",
+    "golDamage": 17800,
+    "oeDamage": 17801
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:48",
+    "golDamage": 21172,
+    "oeDamage": 21173
+  },
+  {
+    "gameId": "gol:83652",
+    "playerId": "gol:4247",
+    "golDamage": 29899,
+    "oeDamage": 29900
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:4247",
+    "golDamage": 11753,
+    "oeDamage": 11754
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:1258",
+    "golDamage": 4777,
+    "oeDamage": 4778
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:1115",
+    "golDamage": 24015,
+    "oeDamage": 24016
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:1115",
+    "golDamage": 13370,
+    "oeDamage": 13371
+  },
+  {
+    "gameId": "gol:83638",
+    "playerId": "gol:1909",
+    "golDamage": 19277,
+    "oeDamage": 19278
+  },
+  {
+    "gameId": "gol:83659",
+    "playerId": "gol:1909",
+    "golDamage": 16668,
+    "oeDamage": 16669
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:1909",
+    "golDamage": 9907,
+    "oeDamage": 9908
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:1909",
+    "golDamage": 25641,
+    "oeDamage": 25642
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:1629",
+    "golDamage": 14516,
+    "oeDamage": 14517
+  },
+  {
+    "gameId": "gol:83638",
+    "playerId": "gol:1629",
+    "golDamage": 20876,
+    "oeDamage": 20877
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:1629",
+    "golDamage": 12082,
+    "oeDamage": 12083
+  },
+  {
+    "gameId": "gol:83659",
+    "playerId": "gol:685",
+    "golDamage": 15933,
+    "oeDamage": 15934
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:685",
+    "golDamage": 17646,
+    "oeDamage": 17647
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:685",
+    "golDamage": 27503,
+    "oeDamage": 27505
+  },
+  {
+    "gameId": "gol:83651",
+    "playerId": "gol:4259",
+    "golDamage": 4459,
+    "oeDamage": 4461
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:4259",
+    "golDamage": 8614,
+    "oeDamage": 8615
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:5960",
+    "golDamage": 14071,
+    "oeDamage": 14072
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:5960",
+    "golDamage": 7563,
+    "oeDamage": 7564
+  },
+  {
+    "gameId": "gol:83650",
+    "playerId": "gol:5961",
+    "golDamage": 20876,
+    "oeDamage": 20877
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:5961",
+    "golDamage": 13518,
+    "oeDamage": 13519
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:3245",
+    "golDamage": 13455,
+    "oeDamage": 13456
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:1461",
+    "golDamage": 3028,
+    "oeDamage": 3029
+  },
+  {
+    "gameId": "gol:83649",
+    "playerId": "gol:2671",
+    "golDamage": 22512,
+    "oeDamage": 22513
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:2671",
+    "golDamage": 13605,
+    "oeDamage": 13606
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:2671",
+    "golDamage": 14575,
+    "oeDamage": 14576
+  },
+  {
+    "gameId": "gol:83637",
+    "playerId": "gol:2671",
+    "golDamage": 18735,
+    "oeDamage": 18737
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:2671",
+    "golDamage": 23012,
+    "oeDamage": 23014
+  },
+  {
+    "gameId": "gol:83598",
+    "playerId": "gol:2671",
+    "golDamage": 15932,
+    "oeDamage": 15933
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:2671",
+    "golDamage": 23330,
+    "oeDamage": 23331
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:2671",
+    "golDamage": 13309,
+    "oeDamage": 13310
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:3406",
+    "golDamage": 10918,
+    "oeDamage": 10920
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:3406",
+    "golDamage": 16475,
+    "oeDamage": 16476
+  },
+  {
+    "gameId": "gol:83637",
+    "playerId": "gol:3406",
+    "golDamage": 21819,
+    "oeDamage": 21820
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:3406",
+    "golDamage": 4364,
+    "oeDamage": 4365
+  },
+  {
+    "gameId": "gol:83630",
+    "playerId": "gol:3406",
+    "golDamage": 13499,
+    "oeDamage": 13501
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:3406",
+    "golDamage": 7254,
+    "oeDamage": 7255
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:3406",
+    "golDamage": 18603,
+    "oeDamage": 18604
+  },
+  {
+    "gameId": "gol:83601",
+    "playerId": "gol:3406",
+    "golDamage": 26729,
+    "oeDamage": 26730
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:5264",
+    "golDamage": 13589,
+    "oeDamage": 13590
+  },
+  {
+    "gameId": "gol:83635",
+    "playerId": "gol:5264",
+    "golDamage": 17033,
+    "oeDamage": 17034
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:5264",
+    "golDamage": 13422,
+    "oeDamage": 13423
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:5264",
+    "golDamage": 24454,
+    "oeDamage": 24455
+  },
+  {
+    "gameId": "gol:83601",
+    "playerId": "gol:5264",
+    "golDamage": 25276,
+    "oeDamage": 25277
+  },
+  {
+    "gameId": "gol:83649",
+    "playerId": "gol:4900",
+    "golDamage": 24925,
+    "oeDamage": 24926
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:4900",
+    "golDamage": 13360,
+    "oeDamage": 13361
+  },
+  {
+    "gameId": "gol:83635",
+    "playerId": "gol:4900",
+    "golDamage": 14206,
+    "oeDamage": 14207
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:4900",
+    "golDamage": 15003,
+    "oeDamage": 15005
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:4900",
+    "golDamage": 13415,
+    "oeDamage": 13416
+  },
+  {
+    "gameId": "gol:83630",
+    "playerId": "gol:4900",
+    "golDamage": 10547,
+    "oeDamage": 10548
+  },
+  {
+    "gameId": "gol:83598",
+    "playerId": "gol:4900",
+    "golDamage": 14784,
+    "oeDamage": 14785
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:4900",
+    "golDamage": 35314,
+    "oeDamage": 35315
+  },
+  {
+    "gameId": "gol:83601",
+    "playerId": "gol:4900",
+    "golDamage": 47572,
+    "oeDamage": 47573
+  },
+  {
+    "gameId": "gol:83649",
+    "playerId": "gol:4500",
+    "golDamage": 6769,
+    "oeDamage": 6771
+  },
+  {
+    "gameId": "gol:83629",
+    "playerId": "gol:4500",
+    "golDamage": 6503,
+    "oeDamage": 6504
+  },
+  {
+    "gameId": "gol:83630",
+    "playerId": "gol:4500",
+    "golDamage": 7339,
+    "oeDamage": 7340
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:4500",
+    "golDamage": 13136,
+    "oeDamage": 13137
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:4500",
+    "golDamage": 9947,
+    "oeDamage": 9949
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:1135",
+    "golDamage": 11148,
+    "oeDamage": 11149
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:1135",
+    "golDamage": 9524,
+    "oeDamage": 9525
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:1135",
+    "golDamage": 6120,
+    "oeDamage": 6121
+  },
+  {
+    "gameId": "gol:83649",
+    "playerId": "gol:1501",
+    "golDamage": 11712,
+    "oeDamage": 11713
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:1501",
+    "golDamage": 15479,
+    "oeDamage": 15480
+  },
+  {
+    "gameId": "gol:83659",
+    "playerId": "gol:1501",
+    "golDamage": 12774,
+    "oeDamage": 12775
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:1501",
+    "golDamage": 7821,
+    "oeDamage": 7822
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:1501",
+    "golDamage": 14335,
+    "oeDamage": 14337
+  },
+  {
+    "gameId": "gol:83649",
+    "playerId": "gol:5123",
+    "golDamage": 26329,
+    "oeDamage": 26330
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:5123",
+    "golDamage": 17730,
+    "oeDamage": 17731
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:5123",
+    "golDamage": 15314,
+    "oeDamage": 15315
+  },
+  {
+    "gameId": "gol:83644",
+    "playerId": "gol:3322",
+    "golDamage": 26125,
+    "oeDamage": 26126
+  },
+  {
+    "gameId": "gol:83660",
+    "playerId": "gol:3322",
+    "golDamage": 14336,
+    "oeDamage": 14337
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:3322",
+    "golDamage": 19138,
+    "oeDamage": 19139
+  },
+  {
+    "gameId": "gol:83649",
+    "playerId": "gol:2358",
+    "golDamage": 3676,
+    "oeDamage": 3677
+  },
+  {
+    "gameId": "gol:83659",
+    "playerId": "gol:2358",
+    "golDamage": 4798,
+    "oeDamage": 4799
+  },
+  {
+    "gameId": "gol:83661",
+    "playerId": "gol:2358",
+    "golDamage": 3093,
+    "oeDamage": 3094
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:4244",
+    "golDamage": 30183,
+    "oeDamage": 30184
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:4244",
+    "golDamage": 9709,
+    "oeDamage": 9710
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:5274",
+    "golDamage": 16479,
+    "oeDamage": 16480
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:5274",
+    "golDamage": 8117,
+    "oeDamage": 8119
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:4234",
+    "golDamage": 24968,
+    "oeDamage": 24969
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:5786",
+    "golDamage": 22569,
+    "oeDamage": 22570
+  },
+  {
+    "gameId": "gol:83643",
+    "playerId": "gol:5786",
+    "golDamage": 10266,
+    "oeDamage": 10267
+  },
+  {
+    "gameId": "gol:83648",
+    "playerId": "gol:3640",
+    "golDamage": 5734,
+    "oeDamage": 5735
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:4310",
+    "golDamage": 21660,
+    "oeDamage": 21662
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:2719",
+    "golDamage": 26188,
+    "oeDamage": 26189
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:2719",
+    "golDamage": 19113,
+    "oeDamage": 19114
+  },
+  {
+    "gameId": "gol:83656",
+    "playerId": "gol:2719",
+    "golDamage": 15757,
+    "oeDamage": 15758
+  },
+  {
+    "gameId": "gol:83657",
+    "playerId": "gol:2719",
+    "golDamage": 4487,
+    "oeDamage": 4488
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:3544",
+    "golDamage": 20242,
+    "oeDamage": 20244
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:3544",
+    "golDamage": 21384,
+    "oeDamage": 21385
+  },
+  {
+    "gameId": "gol:83656",
+    "playerId": "gol:3544",
+    "golDamage": 21532,
+    "oeDamage": 21533
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:2717",
+    "golDamage": 21600,
+    "oeDamage": 21601
+  },
+  {
+    "gameId": "gol:83656",
+    "playerId": "gol:2717",
+    "golDamage": 45468,
+    "oeDamage": 45470
+  },
+  {
+    "gameId": "gol:83657",
+    "playerId": "gol:2717",
+    "golDamage": 11505,
+    "oeDamage": 11506
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:4634",
+    "golDamage": 5507,
+    "oeDamage": 5509
+  },
+  {
+    "gameId": "gol:83645",
+    "playerId": "gol:4634",
+    "golDamage": 9136,
+    "oeDamage": 9137
+  },
+  {
+    "gameId": "gol:83657",
+    "playerId": "gol:4634",
+    "golDamage": 6136,
+    "oeDamage": 6137
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:1172",
+    "golDamage": 12454,
+    "oeDamage": 12455
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:1172",
+    "golDamage": 15321,
+    "oeDamage": 15323
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:2588",
+    "golDamage": 8613,
+    "oeDamage": 8614
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:2588",
+    "golDamage": 20781,
+    "oeDamage": 20782
+  },
+  {
+    "gameId": "gol:83647",
+    "playerId": "gol:4251",
+    "golDamage": 10534,
+    "oeDamage": 10535
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:3737",
+    "golDamage": 25215,
+    "oeDamage": 25216
+  },
+  {
+    "gameId": "gol:83639",
+    "playerId": "gol:7011",
+    "golDamage": 2760,
+    "oeDamage": 2761
+  },
+  {
+    "gameId": "gol:83646",
+    "playerId": "gol:2348",
+    "golDamage": 20304,
+    "oeDamage": 20305
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:2348",
+    "golDamage": 9861,
+    "oeDamage": 9862
+  },
+  {
+    "gameId": "gol:83646",
+    "playerId": "gol:3344",
+    "golDamage": 17308,
+    "oeDamage": 17309
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:3344",
+    "golDamage": 14612,
+    "oeDamage": 14613
+  },
+  {
+    "gameId": "gol:83646",
+    "playerId": "gol:1561",
+    "golDamage": 19406,
+    "oeDamage": 19407
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:1561",
+    "golDamage": 11539,
+    "oeDamage": 11540
+  },
+  {
+    "gameId": "gol:83646",
+    "playerId": "gol:3323",
+    "golDamage": 3769,
+    "oeDamage": 3770
+  },
+  {
+    "gameId": "gol:83640",
+    "playerId": "gol:3323",
+    "golDamage": 5709,
+    "oeDamage": 5710
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:5169",
+    "golDamage": 13397,
+    "oeDamage": 13398
+  },
+  {
+    "gameId": "gol:83637",
+    "playerId": "gol:5169",
+    "golDamage": 19791,
+    "oeDamage": 19792
+  },
+  {
+    "gameId": "gol:83632",
+    "playerId": "gol:5169",
+    "golDamage": 13928,
+    "oeDamage": 13929
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:5169",
+    "golDamage": 9674,
+    "oeDamage": 9675
+  },
+  {
+    "gameId": "gol:83629",
+    "playerId": "gol:5169",
+    "golDamage": 7986,
+    "oeDamage": 7987
+  },
+  {
+    "gameId": "gol:83630",
+    "playerId": "gol:5169",
+    "golDamage": 17666,
+    "oeDamage": 17667
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:5169",
+    "golDamage": 17797,
+    "oeDamage": 17798
+  },
+  {
+    "gameId": "gol:83635",
+    "playerId": "gol:5156",
+    "golDamage": 3862,
+    "oeDamage": 3863
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:5156",
+    "golDamage": 5167,
+    "oeDamage": 5168
+  },
+  {
+    "gameId": "gol:83631",
+    "playerId": "gol:5156",
+    "golDamage": 13240,
+    "oeDamage": 13241
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:5156",
+    "golDamage": 38964,
+    "oeDamage": 38966
+  },
+  {
+    "gameId": "gol:83634",
+    "playerId": "gol:5156",
+    "golDamage": 12555,
+    "oeDamage": 12556
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:5156",
+    "golDamage": 10916,
+    "oeDamage": 10918
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:5156",
+    "golDamage": 16012,
+    "oeDamage": 16014
+  },
+  {
+    "gameId": "gol:83594",
+    "playerId": "gol:5156",
+    "golDamage": 18627,
+    "oeDamage": 18628
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:5156",
+    "golDamage": 9870,
+    "oeDamage": 9871
+  },
+  {
+    "gameId": "gol:83635",
+    "playerId": "gol:6420",
+    "golDamage": 4899,
+    "oeDamage": 4900
+  },
+  {
+    "gameId": "gol:83637",
+    "playerId": "gol:6420",
+    "golDamage": 12326,
+    "oeDamage": 12327
+  },
+  {
+    "gameId": "gol:83631",
+    "playerId": "gol:6420",
+    "golDamage": 25007,
+    "oeDamage": 25008
+  },
+  {
+    "gameId": "gol:83632",
+    "playerId": "gol:6420",
+    "golDamage": 26982,
+    "oeDamage": 26983
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:6420",
+    "golDamage": 19206,
+    "oeDamage": 19207
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:6420",
+    "golDamage": 3643,
+    "oeDamage": 3644
+  },
+  {
+    "gameId": "gol:83629",
+    "playerId": "gol:6420",
+    "golDamage": 17577,
+    "oeDamage": 17578
+  },
+  {
+    "gameId": "gol:83630",
+    "playerId": "gol:6420",
+    "golDamage": 31710,
+    "oeDamage": 31711
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:6420",
+    "golDamage": 21407,
+    "oeDamage": 21409
+  },
+  {
+    "gameId": "gol:83594",
+    "playerId": "gol:6420",
+    "golDamage": 30664,
+    "oeDamage": 30665
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:6420",
+    "golDamage": 41998,
+    "oeDamage": 41999
+  },
+  {
+    "gameId": "gol:83635",
+    "playerId": "gol:5166",
+    "golDamage": 8289,
+    "oeDamage": 8290
+  },
+  {
+    "gameId": "gol:83636",
+    "playerId": "gol:5166",
+    "golDamage": 12764,
+    "oeDamage": 12765
+  },
+  {
+    "gameId": "gol:83637",
+    "playerId": "gol:5166",
+    "golDamage": 10167,
+    "oeDamage": 10168
+  },
+  {
+    "gameId": "gol:83631",
+    "playerId": "gol:5166",
+    "golDamage": 31678,
+    "oeDamage": 31679
+  },
+  {
+    "gameId": "gol:83632",
+    "playerId": "gol:5166",
+    "golDamage": 22542,
+    "oeDamage": 22543
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:5166",
+    "golDamage": 22146,
+    "oeDamage": 22147
+  },
+  {
+    "gameId": "gol:83634",
+    "playerId": "gol:5166",
+    "golDamage": 20370,
+    "oeDamage": 20371
+  },
+  {
+    "gameId": "gol:83629",
+    "playerId": "gol:5166",
+    "golDamage": 20907,
+    "oeDamage": 20908
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:5166",
+    "golDamage": 21262,
+    "oeDamage": 21263
+  },
+  {
+    "gameId": "gol:83637",
+    "playerId": "gol:5913",
+    "golDamage": 10256,
+    "oeDamage": 10258
+  },
+  {
+    "gameId": "gol:83632",
+    "playerId": "gol:5913",
+    "golDamage": 9947,
+    "oeDamage": 9949
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:5913",
+    "golDamage": 3400,
+    "oeDamage": 3401
+  },
+  {
+    "gameId": "gol:83628",
+    "playerId": "gol:5913",
+    "golDamage": 3396,
+    "oeDamage": 3397
+  },
+  {
+    "gameId": "gol:83629",
+    "playerId": "gol:5913",
+    "golDamage": 5430,
+    "oeDamage": 5431
+  },
+  {
+    "gameId": "gol:83630",
+    "playerId": "gol:5913",
+    "golDamage": 4452,
+    "oeDamage": 4453
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:5913",
+    "golDamage": 7495,
+    "oeDamage": 7496
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:3116",
+    "golDamage": 20949,
+    "oeDamage": 20950
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:3116",
+    "golDamage": 10530,
+    "oeDamage": 10531
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:3116",
+    "golDamage": 27028,
+    "oeDamage": 27029
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:3116",
+    "golDamage": 16153,
+    "oeDamage": 16154
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:3116",
+    "golDamage": 20646,
+    "oeDamage": 20647
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:3116",
+    "golDamage": 11706,
+    "oeDamage": 11708
+  },
+  {
+    "gameId": "gol:83631",
+    "playerId": "gol:4776",
+    "golDamage": 13445,
+    "oeDamage": 13446
+  },
+  {
+    "gameId": "gol:83634",
+    "playerId": "gol:4776",
+    "golDamage": 8761,
+    "oeDamage": 8762
+  },
+  {
+    "gameId": "gol:83625",
+    "playerId": "gol:4776",
+    "golDamage": 13365,
+    "oeDamage": 13366
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:4776",
+    "golDamage": 15791,
+    "oeDamage": 15792
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:4776",
+    "golDamage": 9249,
+    "oeDamage": 9250
+  },
+  {
+    "gameId": "gol:83594",
+    "playerId": "gol:4776",
+    "golDamage": 8682,
+    "oeDamage": 8683
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:4776",
+    "golDamage": 15083,
+    "oeDamage": 15084
+  },
+  {
+    "gameId": "gol:83631",
+    "playerId": "gol:2709",
+    "golDamage": 23616,
+    "oeDamage": 23617
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:2709",
+    "golDamage": 10837,
+    "oeDamage": 10838
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:2709",
+    "golDamage": 22835,
+    "oeDamage": 22836
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:2709",
+    "golDamage": 15759,
+    "oeDamage": 15760
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:2709",
+    "golDamage": 16207,
+    "oeDamage": 16208
+  },
+  {
+    "gameId": "gol:83594",
+    "playerId": "gol:2709",
+    "golDamage": 19263,
+    "oeDamage": 19265
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:4976",
+    "golDamage": 31767,
+    "oeDamage": 31768
+  },
+  {
+    "gameId": "gol:83634",
+    "playerId": "gol:4976",
+    "golDamage": 23397,
+    "oeDamage": 23398
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:4976",
+    "golDamage": 23451,
+    "oeDamage": 23452
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:4976",
+    "golDamage": 31734,
+    "oeDamage": 31736
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:4976",
+    "golDamage": 21592,
+    "oeDamage": 21593
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:4976",
+    "golDamage": 17830,
+    "oeDamage": 17831
+  },
+  {
+    "gameId": "gol:83594",
+    "playerId": "gol:4976",
+    "golDamage": 25928,
+    "oeDamage": 25930
+  },
+  {
+    "gameId": "gol:83595",
+    "playerId": "gol:4976",
+    "golDamage": 11878,
+    "oeDamage": 11880
+  },
+  {
+    "gameId": "gol:83631",
+    "playerId": "gol:2329",
+    "golDamage": 4697,
+    "oeDamage": 4698
+  },
+  {
+    "gameId": "gol:83633",
+    "playerId": "gol:2329",
+    "golDamage": 9780,
+    "oeDamage": 9781
+  },
+  {
+    "gameId": "gol:83634",
+    "playerId": "gol:2329",
+    "golDamage": 2966,
+    "oeDamage": 2967
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:2329",
+    "golDamage": 3416,
+    "oeDamage": 3417
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:2329",
+    "golDamage": 6934,
+    "oeDamage": 6935
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:2329",
+    "golDamage": 3513,
+    "oeDamage": 3514
+  },
+  {
+    "gameId": "gol:83593",
+    "playerId": "gol:2329",
+    "golDamage": 4470,
+    "oeDamage": 4471
+  },
+  {
+    "gameId": "gol:83629",
+    "playerId": "gol:6419",
+    "golDamage": 11734,
+    "oeDamage": 11735
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:3434",
+    "golDamage": 27373,
+    "oeDamage": 27374
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:3434",
+    "golDamage": 14866,
+    "oeDamage": 14867
+  },
+  {
+    "gameId": "gol:83598",
+    "playerId": "gol:3434",
+    "golDamage": 10114,
+    "oeDamage": 10115
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:3434",
+    "golDamage": 14759,
+    "oeDamage": 14760
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:3434",
+    "golDamage": 28628,
+    "oeDamage": 28629
+  },
+  {
+    "gameId": "gol:83602",
+    "playerId": "gol:3434",
+    "golDamage": 14440,
+    "oeDamage": 14441
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:1634",
+    "golDamage": 21898,
+    "oeDamage": 21899
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:1634",
+    "golDamage": 14655,
+    "oeDamage": 14656
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:1634",
+    "golDamage": 8976,
+    "oeDamage": 8977
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:1634",
+    "golDamage": 14767,
+    "oeDamage": 14768
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:1634",
+    "golDamage": 32936,
+    "oeDamage": 32937
+  },
+  {
+    "gameId": "gol:83601",
+    "playerId": "gol:1634",
+    "golDamage": 13554,
+    "oeDamage": 13556
+  },
+  {
+    "gameId": "gol:83602",
+    "playerId": "gol:1634",
+    "golDamage": 13159,
+    "oeDamage": 13161
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:4861",
+    "golDamage": 22813,
+    "oeDamage": 22814
+  },
+  {
+    "gameId": "gol:83626",
+    "playerId": "gol:4861",
+    "golDamage": 7126,
+    "oeDamage": 7128
+  },
+  {
+    "gameId": "gol:83598",
+    "playerId": "gol:4861",
+    "golDamage": 21410,
+    "oeDamage": 21411
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:4861",
+    "golDamage": 14978,
+    "oeDamage": 14979
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:4861",
+    "golDamage": 30775,
+    "oeDamage": 30776
+  },
+  {
+    "gameId": "gol:83602",
+    "playerId": "gol:4861",
+    "golDamage": 15366,
+    "oeDamage": 15367
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:1979",
+    "golDamage": 49786,
+    "oeDamage": 49788
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:1979",
+    "golDamage": 29998,
+    "oeDamage": 29999
+  },
+  {
+    "gameId": "gol:83625",
+    "playerId": "gol:1979",
+    "golDamage": 18490,
+    "oeDamage": 18491
+  },
+  {
+    "gameId": "gol:83598",
+    "playerId": "gol:1979",
+    "golDamage": 33602,
+    "oeDamage": 33603
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:1979",
+    "golDamage": 32197,
+    "oeDamage": 32198
+  },
+  {
+    "gameId": "gol:83601",
+    "playerId": "gol:1979",
+    "golDamage": 31876,
+    "oeDamage": 31878
+  },
+  {
+    "gameId": "gol:83623",
+    "playerId": "gol:1301",
+    "golDamage": 6208,
+    "oeDamage": 6209
+  },
+  {
+    "gameId": "gol:83624",
+    "playerId": "gol:1301",
+    "golDamage": 5456,
+    "oeDamage": 5457
+  },
+  {
+    "gameId": "gol:83598",
+    "playerId": "gol:1301",
+    "golDamage": 3659,
+    "oeDamage": 3660
+  },
+  {
+    "gameId": "gol:83599",
+    "playerId": "gol:1301",
+    "golDamage": 4403,
+    "oeDamage": 4404
+  },
+  {
+    "gameId": "gol:83600",
+    "playerId": "gol:1301",
+    "golDamage": 5710,
+    "oeDamage": 5712
+  }
+]
