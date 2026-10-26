@@ -1,0 +1,47 @@
+[
+  {
+    "target": "YouTube:gLw65-r-MSI",
+    "kind": "vod",
+    "region": null,
+    "regionConfirmed": false,
+    "status": "failed",
+    "checkedAt": "2026-10-26T01:17:51.194Z",
+    "environment": {
+      "browser": "HeadlessChrome 156 / Windows",
+      "network": "Unconfirmed exit region"
+    },
+    "evidence": "design/insights-review.md",
+    "reason": "Login / bot confirmation challenge; video time 0, readyState 0",
+    "samples": []
+  },
+  {
+    "target": "Twitch:2910526344",
+    "kind": "vod",
+    "region": null,
+    "regionConfirmed": false,
+    "status": "pending",
+    "checkedAt": "2026-10-26T01:33:37.831Z",
+    "environment": {
+      "browser": "HeadlessChrome 156 / Windows",
+      "network": "Unconfirmed exit region"
+    },
+    "evidence": "design/insights-review.md",
+    "reason": "Region unconfirmed; last probe at 98 percent; game offsets and audio not certified",
+    "height": 720,
+    "startupMs": null,
+    "samples": [
+      {
+        "position": "start",
+        "advancedSeconds": 12.635659
+      },
+      {
+        "position": "middle",
+        "advancedSeconds": 11.974714
+      },
+      {
+        "position": "near-end-98-percent",
+        "advancedSeconds": 12.328121
+      }
+    ]
+  }
+]

@@ -1,3 +1,4 @@
+import { verifiedVideo, latestCheck, compareSources } from './insights-model.js';
 export const languageMeta = [['zh-Hans','简体中文'],['zh-Hant','繁體中文'],['en','English'],['ko','한국어'],['ja','日本語'],['vi','Tiếng Việt'],['th','ไทย'],['pt-BR','Português (Brasil)']];
 export const videoTypes = ['fullMatch','singleGame','highlights','dayReplay'];
 export const stages = ['playin','swiss','knockout'];
@@ -31,19 +32,19 @@ export function commentaryKey(language,source){
   return language;
 }
 export function matchingVideos(videos,filters,sourceMap){
-  return videos.filter(video=>video.playbackStatus!=='unavailable'&&
+  return videos.filter(video=>verifiedVideo(video,filters)&&
     (filters.commentary==='all'||commentaryKey(video.language,sourceMap.get(video.sourceId))===filters.commentary)&&
     (!filters.type||filters.type==='all'||video.type===filters.type));
 }
-export function liveEntriesForMatch(match,broadcasts,sourceMap,commentary='all'){
+export function liveEntriesForMatch(match,broadcasts,sourceMap,commentary='all',verification={}){
   const ids=new Set(broadcasts.filter(day=>day.stage===match.stage&&day.date===match.scheduledDate).flatMap(day=>day.sourceIds||[]));
-  return [...ids].map(id=>sourceMap.get(id)).filter(source=>source&&(source.livePageStatus||source.pageStatus)==='verified'&&source.playbackStatus!=='unavailable'&&
-    (commentary==='all'||commentaryKey(source.language,source)===commentary));
+  return [...ids].map(id=>sourceMap.get(id)).filter(source=>source&&latestCheck(source.id,'live',verification.region,verification.checks,verification.now)&&source.playbackStatus!=='unavailable'&&
+    (commentary==='all'||commentaryKey(source.language,source)===commentary)).sort((a,b)=>compareSources(a,b,verification));
 }
 export function matchResources(match,filters,context){
   const sourceMap=context.sourceMap||new Map((context.sources||[]).map(source=>[source.id,source]));
-  const videos=matchingVideos((context.videos||[]).filter(video=>video.matchId===match.id),filters,sourceMap);
-  const liveEntries=liveEntriesForMatch(match,context.broadcasts||[],sourceMap,filters.commentary);
+  const videos=matchingVideos((context.videos||[]).filter(video=>video.matchId===match.id),{...filters,checks:context.checks,region:context.region,now:context.now},sourceMap);
+  const liveEntries=liveEntriesForMatch(match,context.broadcasts||[],sourceMap,filters.commentary,context);
   return {videos,liveEntries,kind:videos.length?'replay':liveEntries.length?'live':'pending'};
 }
 export function filterMatches(matches,filters,context={}){
