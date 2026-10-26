@@ -51,7 +51,7 @@ jobs:
     permissions:
       contents: write
     outputs:
-      changed: ${{ steps.collect.outputs.changed }}
+      changed: ${{ steps.detect.outputs.changed }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
@@ -62,31 +62,43 @@ jobs:
       - name: Collect and validate official data
         id: collect
         run: npm run sync:official
+      - name: Install browser for public post-match statistics
+        run: npx playwright install --with-deps chromium
+      - name: Collect new completed game statistics
+        run: npm run sync:stats
+      - name: Detect schedule or statistics changes
+        id: detect
+        run: |
+          if [ -n "$(git status --porcelain -- public/data public/team-logos public/champions data-research)" ]; then
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          fi
       - name: Validate changed candidate and independent parser tests
-        if: steps.collect.outputs.changed == 'true'
+        if: steps.detect.outputs.changed == 'true'
         run: npm run check
       - name: Build changed candidate
-        if: steps.collect.outputs.changed == 'true'
+        if: steps.detect.outputs.changed == 'true'
         run: npm run build
       - name: Commit changed data only
-        if: steps.collect.outputs.changed == 'true'
+        if: steps.detect.outputs.changed == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- public/data public/team-logos
+          git add -- public/data public/team-logos public/champions data-research
           git diff --cached --check
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: 同步世界赛官方赛程与录像关联'
+            git commit -m 'chore: 同步世界赛官方赛程与赛后统计'
             git push origin HEAD:main
           fi
       # GITHUB_TOKEN commits do not trigger pages.yml: publish in this same run.
       - name: Upload the checked build
-        if: steps.collect.outputs.changed == 'true'
+        if: steps.detect.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: dist
       - name: Record unchanged result
-        if: steps.collect.outputs.changed != 'true'
+        if: steps.detect.outputs.changed != 'true'
         run: echo 'Official data unchanged. No commit or deployment.' >> "$GITHUB_STEP_SUMMARY"
       - name: Record failed update
         if: failure()

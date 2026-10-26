@@ -1,1 +1,2747 @@
-[]
+[
+  {
+    "id": "gol:83655",
+    "matchId": "official:115660540726095047",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2144,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83655/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83655/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "TOP ESPORTS",
+      "teamId": "99566404854685458",
+      "picks": [
+        "Ambessa",
+        "Nocturne",
+        "Orianna",
+        "Varus",
+        "Nautilus"
+      ],
+      "bans": [
+        "Olaf",
+        "Galio",
+        "Renata",
+        "JarvanIV",
+        "Renekton"
+      ],
+      "kills": 18,
+      "gold": 72637,
+      "towers": 10,
+      "dragons": 3,
+      "barons": 2,
+      "deaths": 6,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "G2 Esports",
+      "teamId": "98767991926151025",
+      "picks": [
+        "Shen",
+        "MonkeyKing",
+        "Akali",
+        "Ezreal",
+        "Karma"
+      ],
+      "bans": [
+        "Qiyana",
+        "LeeSin",
+        "Vi",
+        "Kaisa",
+        "Jhin"
+      ],
+      "kills": 6,
+      "gold": 61795,
+      "towers": 3,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 18,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83654",
+    "matchId": "official:115660540726095045",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1716,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83654/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83654/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Invictus Gaming",
+      "teamId": "99566404848691211",
+      "picks": [
+        "Kled",
+        "Nocturne",
+        "Annie",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Jayce",
+        "Cassiopeia",
+        "Jhin",
+        "Galio",
+        "Locke"
+      ],
+      "kills": 29,
+      "gold": 60355,
+      "towers": 7,
+      "dragons": 4,
+      "barons": 0,
+      "deaths": 9,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Hanwha Life Esports",
+      "teamId": "100205573496804586",
+      "picks": [
+        "Olaf",
+        "Qiyana",
+        "Lissandra",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Syndra",
+        "Orianna",
+        "Vi",
+        "Rumble",
+        "Aurora"
+      ],
+      "kills": 9,
+      "gold": 51103,
+      "towers": 3,
+      "dragons": 0,
+      "barons": 1,
+      "deaths": 29,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83653",
+    "matchId": "official:115660540726095035",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1895,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83653/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83653/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Team Liquid Alienware",
+      "teamId": "98926509885559666",
+      "picks": [
+        "KSante",
+        "JarvanIV",
+        "Locke",
+        "Ezreal",
+        "Karma"
+      ],
+      "bans": [
+        "Cassiopeia",
+        "Vi",
+        "Nocturne",
+        "Ziggs",
+        "Gnar"
+      ],
+      "kills": 2,
+      "gold": 52670,
+      "towers": 2,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 17,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "BILIBILI GAMING",
+      "teamId": "99566404853854212",
+      "picks": [
+        "Camille",
+        "LeeSin",
+        "Orianna",
+        "Jhin",
+        "Nautilus"
+      ],
+      "bans": [
+        "Renata",
+        "Qiyana",
+        "Galio",
+        "Syndra",
+        "Olaf"
+      ],
+      "kills": 17,
+      "gold": 67397,
+      "towers": 11,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 2,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83652",
+    "matchId": "official:115660540726095027",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2491,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83652/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83652/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Dplus KIA",
+      "teamId": "100725845018863243",
+      "picks": [
+        "KSante",
+        "JarvanIV",
+        "Viktor",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Nocturne",
+        "Locke",
+        "Rumble",
+        "Akali",
+        "Taliyah"
+      ],
+      "kills": 10,
+      "gold": 84273,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "T1",
+      "teamId": "98767991853197861",
+      "picks": [
+        "Jayce",
+        "Vi",
+        "Anivia",
+        "Caitlyn",
+        "Neeko"
+      ],
+      "bans": [
+        "Syndra",
+        "Cassiopeia",
+        "Qiyana",
+        "Orianna",
+        "Olaf"
+      ],
+      "kills": 8,
+      "gold": 79327,
+      "towers": 6,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 10,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83651",
+    "matchId": "official:115660540726095025",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1741,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83651/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83651/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Hanwha Life Esports",
+      "teamId": "100205573496804586",
+      "picks": [
+        "Ambessa",
+        "Pantheon",
+        "Taliyah",
+        "Jhin",
+        "Alistar"
+      ],
+      "bans": [
+        "Vi",
+        "Cassiopeia",
+        "Kalista",
+        "Anivia",
+        "Poppy"
+      ],
+      "kills": 7,
+      "gold": 48582,
+      "towers": 2,
+      "dragons": 0,
+      "barons": 0,
+      "deaths": 23,
+      "deathsWithoutOpponentKill": 1
+    },
+    "red": {
+      "name": "Gen.G Esports",
+      "teamId": "100205573495116443",
+      "picks": [
+        "Rumble",
+        "Qiyana",
+        "Syndra",
+        "Ezreal",
+        "Leona"
+      ],
+      "bans": [
+        "Jayce",
+        "Nocturne",
+        "Galio",
+        "Locke",
+        "Akali"
+      ],
+      "kills": 22,
+      "gold": 65006,
+      "towers": 11,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83650",
+    "matchId": "official:115660540726095033",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1820,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83650/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83650/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Team Secret Whales",
+      "teamId": "113661839307879869",
+      "picks": [
+        "Shen",
+        "Qiyana",
+        "Locke",
+        "Ezreal",
+        "Alistar"
+      ],
+      "bans": [
+        "Syndra",
+        "Rumble",
+        "Jayce",
+        "Lulu",
+        "Renata"
+      ],
+      "kills": 12,
+      "gold": 53437,
+      "towers": 3,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 21,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Invictus Gaming",
+      "teamId": "99566404848691211",
+      "picks": [
+        "KSante",
+        "Nocturne",
+        "Orianna",
+        "Ashe",
+        "Seraphine"
+      ],
+      "bans": [
+        "Olaf",
+        "Galio",
+        "Vi",
+        "Nautilus",
+        "Volibear"
+      ],
+      "kills": 21,
+      "gold": 62749,
+      "towers": 9,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 12,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83649",
+    "matchId": "official:115660540726095023",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2252,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83649/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83649/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Rumble",
+        "LeeSin",
+        "Cassiopeia",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Ezreal",
+        "Nocturne",
+        "KSante",
+        "Seraphine",
+        "Caitlyn"
+      ],
+      "kills": 15,
+      "gold": 69061,
+      "towers": 5,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 15,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "LYON",
+      "teamId": "99566405941863385",
+      "picks": [
+        "Galio",
+        "MonkeyKing",
+        "Syndra",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Jayce",
+        "Vi",
+        "Qiyana",
+        "Jhin",
+        "Olaf"
+      ],
+      "kills": 15,
+      "gold": 71385,
+      "towers": 8,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 15,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83648",
+    "matchId": "official:115660540726095031",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2336,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83648/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83648/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "LOS",
+      "teamId": "109480204628225868",
+      "picks": [
+        "Jayce",
+        "Nocturne",
+        "Orianna",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Olaf",
+        "JarvanIV",
+        "Galio",
+        "Akali",
+        "Leblanc"
+      ],
+      "kills": 9,
+      "gold": 69078,
+      "towers": 5,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 22,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "G2 Esports",
+      "teamId": "98767991926151025",
+      "picks": [
+        "KSante",
+        "LeeSin",
+        "Locke",
+        "Ezreal",
+        "Karma"
+      ],
+      "bans": [
+        "Vi",
+        "Seraphine",
+        "Syndra",
+        "Nautilus",
+        "Sivir"
+      ],
+      "kills": 22,
+      "gold": 76589,
+      "towers": 7,
+      "dragons": 5,
+      "barons": 1,
+      "deaths": 9,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83647",
+    "matchId": "official:115660540726095021",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1988,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83647/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83647/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Movistar KOI",
+      "teamId": "103461966965149786",
+      "picks": [
+        "Trundle",
+        "Qiyana",
+        "Cassiopeia",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Lucian",
+        "Rumble",
+        "Nocturne",
+        "Aphelios",
+        "Caitlyn"
+      ],
+      "kills": 19,
+      "gold": 71695,
+      "towers": 9,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "CTBC Flying Oyster",
+      "teamId": "107700199633958891",
+      "picks": [
+        "Olaf",
+        "LeeSin",
+        "Akali",
+        "Tristana",
+        "Lulu"
+      ],
+      "bans": [
+        "Ezreal",
+        "Vi",
+        "Anivia",
+        "Skarner",
+        "KSante"
+      ],
+      "kills": 7,
+      "gold": 57667,
+      "towers": 2,
+      "dragons": 0,
+      "barons": 1,
+      "deaths": 19,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83646",
+    "matchId": "official:115660540726095029",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1818,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83646/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83646/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "TOP ESPORTS",
+      "teamId": "99566404854685458",
+      "picks": [
+        "Ambessa",
+        "Nocturne",
+        "Locke",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Olaf",
+        "Qiyana",
+        "Cassiopeia",
+        "Jhin",
+        "Ashe"
+      ],
+      "kills": 18,
+      "gold": 62529,
+      "towers": 8,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 9,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Anyone's Legend",
+      "teamId": "99566404856367466",
+      "picks": [
+        "Rumble",
+        "JarvanIV",
+        "Orianna",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Akali",
+        "Ezreal",
+        "Vi",
+        "Ornn",
+        "Yone"
+      ],
+      "kills": 9,
+      "gold": 52997,
+      "towers": 1,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 18,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83645",
+    "matchId": "official:115660540726095019",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2321,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83645/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83645/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Movistar KOI",
+      "teamId": "103461966965149786",
+      "picks": [
+        "Renekton",
+        "JarvanIV",
+        "Sylas",
+        "Ezreal",
+        "Karma"
+      ],
+      "bans": [
+        "Vi",
+        "Rumble",
+        "Cassiopeia",
+        "LeeSin",
+        "Skarner"
+      ],
+      "kills": 18,
+      "gold": 76241,
+      "towers": 11,
+      "dragons": 4,
+      "barons": 2,
+      "deaths": 14,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "BILIBILI GAMING",
+      "teamId": "99566404853854212",
+      "picks": [
+        "Ambessa",
+        "Pantheon",
+        "Akali",
+        "Ashe",
+        "Seraphine"
+      ],
+      "bans": [
+        "Galio",
+        "Nocturne",
+        "Qiyana",
+        "TwistedFate",
+        "Olaf"
+      ],
+      "kills": 14,
+      "gold": 68693,
+      "towers": 3,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 18,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83644",
+    "matchId": "official:115660540726095017",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1609,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83644/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83644/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "LYON",
+      "teamId": "99566405941863385",
+      "picks": [
+        "KSante",
+        "Nocturne",
+        "Anivia",
+        "Ezreal",
+        "Alistar"
+      ],
+      "bans": [
+        "Vi",
+        "Qiyana",
+        "Cassiopeia",
+        "Jhin",
+        "Corki"
+      ],
+      "kills": 22,
+      "gold": 57695,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 6,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Team Secret Whales",
+      "teamId": "113661839307879869",
+      "picks": [
+        "Rumble",
+        "LeeSin",
+        "Ryze",
+        "Kaisa",
+        "Nautilus"
+      ],
+      "bans": [
+        "Syndra",
+        "Renata",
+        "Olaf",
+        "Orianna",
+        "Galio"
+      ],
+      "kills": 6,
+      "gold": 46307,
+      "towers": 1,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 22,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83643",
+    "matchId": "official:115660540726095015",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1466,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83643/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83643/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "LOS",
+      "teamId": "109480204628225868",
+      "picks": [
+        "KSante",
+        "Pantheon",
+        "Syndra",
+        "Tristana",
+        "Rakan"
+      ],
+      "bans": [
+        "Bard",
+        "Vi",
+        "Qiyana",
+        "Locke",
+        "Akali"
+      ],
+      "kills": 3,
+      "gold": 41418,
+      "towers": 0,
+      "dragons": 0,
+      "barons": 0,
+      "deaths": 19,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "T1",
+      "teamId": "98767991853197861",
+      "picks": [
+        "Jayce",
+        "LeeSin",
+        "Leblanc",
+        "Jhin",
+        "Alistar"
+      ],
+      "bans": [
+        "Nocturne",
+        "Cassiopeia",
+        "Poppy",
+        "Kalista",
+        "Nautilus"
+      ],
+      "kills": 19,
+      "gold": 55232,
+      "towers": 10,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 3,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83642",
+    "matchId": "official:115660540726095013",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1431,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83642/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83642/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "TOP ESPORTS",
+      "teamId": "99566404854685458",
+      "picks": [
+        "KSante",
+        "LeeSin",
+        "Orianna",
+        "Ezreal",
+        "Alistar"
+      ],
+      "bans": [
+        "Olaf",
+        "Vi",
+        "Jayce",
+        "Nautilus",
+        "Bard"
+      ],
+      "kills": 7,
+      "gold": 37750,
+      "towers": 0,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 24,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Hanwha Life Esports",
+      "teamId": "100205573496804586",
+      "picks": [
+        "Ambessa",
+        "Nocturne",
+        "Locke",
+        "Jhin",
+        "Shen"
+      ],
+      "bans": [
+        "Cassiopeia",
+        "Qiyana",
+        "Akali",
+        "Corki",
+        "Renekton"
+      ],
+      "kills": 24,
+      "gold": 53452,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83641",
+    "matchId": "official:115660540726095011",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1958,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83641/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83641/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Dplus KIA",
+      "teamId": "100725845018863243",
+      "picks": [
+        "Olaf",
+        "Vi",
+        "Syndra",
+        "Ziggs",
+        "Poppy"
+      ],
+      "bans": [
+        "Locke",
+        "Nocturne",
+        "Draven",
+        "Kled",
+        "Orianna"
+      ],
+      "kills": 8,
+      "gold": 60938,
+      "towers": 8,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "G2 Esports",
+      "teamId": "98767991926151025",
+      "picks": [
+        "KSante",
+        "JarvanIV",
+        "Viktor",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Lucian",
+        "Karma",
+        "Caitlyn",
+        "Lulu",
+        "Seraphine"
+      ],
+      "kills": 8,
+      "gold": 57524,
+      "towers": 3,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83640",
+    "matchId": "official:115660540726095009",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1996,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83640/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83640/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Jax",
+        "JarvanIV",
+        "Orianna",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Vi",
+        "Qiyana",
+        "Cassiopeia",
+        "Seraphine",
+        "Nautilus"
+      ],
+      "kills": 12,
+      "gold": 64797,
+      "towers": 8,
+      "dragons": 3,
+      "barons": 2,
+      "deaths": 4,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Anyone's Legend",
+      "teamId": "99566404856367466",
+      "picks": [
+        "Olaf",
+        "Nocturne",
+        "Akali",
+        "MissFortune",
+        "Neeko"
+      ],
+      "bans": [
+        "Jayce",
+        "Rumble",
+        "Syndra",
+        "Ezreal",
+        "Lulu"
+      ],
+      "kills": 4,
+      "gold": 56720,
+      "towers": 3,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 12,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83639",
+    "matchId": "official:115660540726095007",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2252,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83639/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83639/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Team Liquid Alienware",
+      "teamId": "98926509885559666",
+      "picks": [
+        "Galio",
+        "LeeSin",
+        "Syndra",
+        "Jhin",
+        "Rakan"
+      ],
+      "bans": [
+        "Akali",
+        "Vi",
+        "Cassiopeia",
+        "Ashe",
+        "Draven"
+      ],
+      "kills": 11,
+      "gold": 65389,
+      "towers": 3,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 12,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "CTBC Flying Oyster",
+      "teamId": "107700199633958891",
+      "picks": [
+        "Rumble",
+        "Qiyana",
+        "Viktor",
+        "Aphelios",
+        "Alistar"
+      ],
+      "bans": [
+        "Orianna",
+        "Ezreal",
+        "Renata",
+        "Nautilus",
+        "Lulu"
+      ],
+      "kills": 12,
+      "gold": 74214,
+      "towers": 8,
+      "dragons": 5,
+      "barons": 1,
+      "deaths": 11,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83638",
+    "matchId": "official:115660540726095005",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1561,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83638/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83638/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Invictus Gaming",
+      "teamId": "99566404848691211",
+      "picks": [
+        "Rumble",
+        "JarvanIV",
+        "Aurora",
+        "Jhin",
+        "Alistar"
+      ],
+      "bans": [
+        "Vi",
+        "LeeSin",
+        "Cassiopeia",
+        "Renata",
+        "Lucian"
+      ],
+      "kills": 10,
+      "gold": 45802,
+      "towers": 2,
+      "dragons": 0,
+      "barons": 0,
+      "deaths": 22,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Gen.G Esports",
+      "teamId": "100205573495116443",
+      "picks": [
+        "Ornn",
+        "Qiyana",
+        "Akali",
+        "Corki",
+        "Nautilus"
+      ],
+      "bans": [
+        "Nocturne",
+        "Syndra",
+        "Galio",
+        "Lulu",
+        "Ezreal"
+      ],
+      "kills": 22,
+      "gold": 59243,
+      "towers": 9,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 10,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83659",
+    "matchId": "official:115660540726095041",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2145,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83659/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83659/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "LYON",
+      "teamId": "99566405941863385",
+      "picks": [
+        "Olaf",
+        "XinZhao",
+        "Ahri",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Cassiopeia",
+        "Akali",
+        "Syndra",
+        "KSante",
+        "Jax"
+      ],
+      "kills": 10,
+      "gold": 66695,
+      "towers": 9,
+      "dragons": 3,
+      "barons": 2,
+      "deaths": 4,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Gen.G Esports",
+      "teamId": "100205573495116443",
+      "picks": [
+        "Rumble",
+        "Qiyana",
+        "Anivia",
+        "Jhin",
+        "Alistar"
+      ],
+      "bans": [
+        "Nocturne",
+        "Ezreal",
+        "Vi",
+        "LeeSin",
+        "Leblanc"
+      ],
+      "kills": 4,
+      "gold": 59753,
+      "towers": 3,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 10,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83660",
+    "matchId": "official:115660540726095041",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 1592,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83660/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83660/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Gen.G Esports",
+      "teamId": "100205573495116443",
+      "picks": [
+        "Ambessa",
+        "Nocturne",
+        "Lissandra",
+        "Ashe",
+        "Seraphine"
+      ],
+      "bans": [
+        "JarvanIV",
+        "Ezreal",
+        "MonkeyKing",
+        "Sylas",
+        "Renekton"
+      ],
+      "kills": 16,
+      "gold": 56906,
+      "towers": 9,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 9,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "LYON",
+      "teamId": "99566405941863385",
+      "picks": [
+        "Shen",
+        "Vi",
+        "Akali",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Cassiopeia",
+        "Syndra",
+        "Orianna",
+        "Galio",
+        "TwistedFate"
+      ],
+      "kills": 9,
+      "gold": 47314,
+      "towers": 1,
+      "dragons": 0,
+      "barons": 0,
+      "deaths": 16,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83661",
+    "matchId": "official:115660540726095041",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 1917,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83661/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83661/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Gen.G Esports",
+      "teamId": "100205573495116443",
+      "picks": [
+        "Camille",
+        "Jayce",
+        "Galio",
+        "Ezreal",
+        "Nautilus"
+      ],
+      "bans": [
+        "MonkeyKing",
+        "JarvanIV",
+        "Sivir",
+        "Pantheon",
+        "Trundle"
+      ],
+      "kills": 15,
+      "gold": 66345,
+      "towers": 7,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "LYON",
+      "teamId": "99566405941863385",
+      "picks": [
+        "KSante",
+        "Maokai",
+        "Tristana",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Cassiopeia",
+        "Syndra",
+        "LeeSin",
+        "Gnar",
+        "Gwen"
+      ],
+      "kills": 7,
+      "gold": 56308,
+      "towers": 3,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 15,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83656",
+    "matchId": "official:115660540726095037",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2360,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83656/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83656/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Movistar KOI",
+      "teamId": "103461966965149786",
+      "picks": [
+        "Jayce",
+        "Trundle",
+        "Anivia",
+        "Ezreal",
+        "Karma"
+      ],
+      "bans": [
+        "Vi",
+        "JarvanIV",
+        "Syndra",
+        "Jhin",
+        "KSante"
+      ],
+      "kills": 8,
+      "gold": 69720,
+      "towers": 2,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 16,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Dplus KIA",
+      "teamId": "100725845018863243",
+      "picks": [
+        "Ornn",
+        "LeeSin",
+        "Cassiopeia",
+        "Kaisa",
+        "Nautilus"
+      ],
+      "bans": [
+        "Nocturne",
+        "Olaf",
+        "Locke",
+        "Pantheon",
+        "Skarner"
+      ],
+      "kills": 16,
+      "gold": 79816,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 2,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83657",
+    "matchId": "official:115660540726095037",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 1510,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83657/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83657/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Dplus KIA",
+      "teamId": "100725845018863243",
+      "picks": [
+        "Irelia",
+        "JarvanIV",
+        "Syndra",
+        "Caitlyn",
+        "Bard"
+      ],
+      "bans": [
+        "Nocturne",
+        "Rumble",
+        "Lucian",
+        "Locke",
+        "Akali"
+      ],
+      "kills": 17,
+      "gold": 56758,
+      "towers": 9,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 5,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Movistar KOI",
+      "teamId": "103461966965149786",
+      "picks": [
+        "Gnar",
+        "Vi",
+        "Diana",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Olaf",
+        "Renata",
+        "Orianna",
+        "Vayne",
+        "Renekton"
+      ],
+      "kills": 5,
+      "gold": 43670,
+      "towers": 1,
+      "dragons": 0,
+      "barons": 0,
+      "deaths": 17,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83635",
+    "matchId": "official:116299649498303884",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1708,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83635/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83635/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Jayce",
+        "LeeSin",
+        "Cassiopeia",
+        "Zeri",
+        "Yuumi"
+      ],
+      "bans": [
+        "Nocturne",
+        "Olaf",
+        "Ezreal",
+        "Viktor",
+        "KSante"
+      ],
+      "kills": 13,
+      "gold": 58490,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 2,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Yorick",
+        "JarvanIV",
+        "Akali",
+        "Ashe",
+        "Seraphine"
+      ],
+      "bans": [
+        "Syndra",
+        "Rumble",
+        "Vi",
+        "Nautilus",
+        "Jhin"
+      ],
+      "kills": 2,
+      "gold": 47092,
+      "towers": 2,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 13,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83636",
+    "matchId": "official:116299649498303884",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 1646,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83636/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83636/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Galio",
+        "Qiyana",
+        "Ryze",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Olaf",
+        "Vi",
+        "Nocturne",
+        "KogMaw",
+        "Yone"
+      ],
+      "kills": 17,
+      "gold": 61119,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 6,
+      "deathsWithoutOpponentKill": 2
+    },
+    "red": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Rumble",
+        "Malphite",
+        "Hwei",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Syndra",
+        "Renata",
+        "Nautilus",
+        "Caitlyn",
+        "Jhin"
+      ],
+      "kills": 4,
+      "gold": 45482,
+      "towers": 1,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 17,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83637",
+    "matchId": "official:116299649498303884",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 1611,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83637/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83637/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Yone",
+        "Aatrox",
+        "Locke",
+        "Twitch",
+        "Camille"
+      ],
+      "bans": [
+        "Renata",
+        "Syndra",
+        "Jax",
+        "Renekton",
+        "Trundle"
+      ],
+      "kills": 12,
+      "gold": 47490,
+      "towers": 2,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 25,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Zaahen",
+        "Naafiri",
+        "Viktor",
+        "Ezreal",
+        "Leona"
+      ],
+      "bans": [
+        "Olaf",
+        "Vi",
+        "Nocturne",
+        "Rakan",
+        "MonkeyKing"
+      ],
+      "kills": 25,
+      "gold": 59856,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 12,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83631",
+    "matchId": "official:115660588583171798",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1868,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83631/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83631/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Zaahen",
+        "JarvanIV",
+        "Cassiopeia",
+        "Ezreal",
+        "Lulu"
+      ],
+      "bans": [
+        "Karma",
+        "Vi",
+        "Olaf",
+        "Akali",
+        "Jax"
+      ],
+      "kills": 21,
+      "gold": 64407,
+      "towers": 8,
+      "dragons": 4,
+      "barons": 0,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Camille",
+        "Sejuani",
+        "Syndra",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Nocturne",
+        "Pyke",
+        "LeeSin",
+        "Jayce",
+        "Renekton"
+      ],
+      "kills": 8,
+      "gold": 54407,
+      "towers": 1,
+      "dragons": 0,
+      "barons": 1,
+      "deaths": 21,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83632",
+    "matchId": "official:115660588583171798",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 1644,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83632/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83632/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Gnar",
+        "Vi",
+        "KogMaw",
+        "Jhin",
+        "Bard"
+      ],
+      "bans": [
+        "Akali",
+        "Renata",
+        "Olaf",
+        "Locke",
+        "Jax"
+      ],
+      "kills": 18,
+      "gold": 60494,
+      "towers": 10,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Ambessa",
+        "Nasus",
+        "Viktor",
+        "Xayah",
+        "Rakan"
+      ],
+      "bans": [
+        "Nocturne",
+        "Caitlyn",
+        "Seraphine",
+        "Neeko",
+        "Rumble"
+      ],
+      "kills": 7,
+      "gold": 47029,
+      "towers": 0,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 18,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83633",
+    "matchId": "official:115660588583171798",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 2175,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83633/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83633/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "KSante",
+        "Jayce",
+        "Mel",
+        "Ziggs",
+        "Leona"
+      ],
+      "bans": [
+        "Renata",
+        "Olaf",
+        "Pantheon",
+        "Jax",
+        "Naafiri"
+      ],
+      "kills": 8,
+      "gold": 64641,
+      "towers": 3,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 21,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Rumble",
+        "Skarner",
+        "TwistedFate",
+        "MissFortune",
+        "Seraphine"
+      ],
+      "bans": [
+        "Nocturne",
+        "Pyke",
+        "LeeSin",
+        "Nautilus",
+        "Maokai"
+      ],
+      "kills": 21,
+      "gold": 75115,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83634",
+    "matchId": "official:115660588583171798",
+    "number": 4,
+    "patch": "16.20.1",
+    "durationSeconds": 1689,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83634/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83634/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Olaf",
+        "MonkeyKing",
+        "Ryze",
+        "Corki",
+        "Shen"
+      ],
+      "bans": [
+        "Renata",
+        "Akali",
+        "Trundle",
+        "Kaisa",
+        "Sylas"
+      ],
+      "kills": 21,
+      "gold": 61024,
+      "towers": 7,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Jax",
+        "Pantheon",
+        "Taliyah",
+        "Sivir",
+        "Alistar"
+      ],
+      "bans": [
+        "Nocturne",
+        "LeeSin",
+        "Karma",
+        "Zyra",
+        "Maokai"
+      ],
+      "kills": 8,
+      "gold": 49115,
+      "towers": 1,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 21,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83628",
+    "matchId": "official:115660588583171790",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 1814,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83628/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83628/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Jayce",
+        "Vi",
+        "Syndra",
+        "Draven",
+        "Nautilus"
+      ],
+      "bans": [
+        "Nocturne",
+        "Olaf",
+        "LeeSin",
+        "Yone",
+        "Yunara"
+      ],
+      "kills": 9,
+      "gold": 63653,
+      "towers": 11,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 4,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Ambessa",
+        "Maokai",
+        "KSante",
+        "Tristana",
+        "Lulu"
+      ],
+      "bans": [
+        "Rumble",
+        "Seraphine",
+        "Cassiopeia",
+        "Gnar",
+        "Ezreal"
+      ],
+      "kills": 4,
+      "gold": 50757,
+      "towers": 1,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 9,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83629",
+    "matchId": "official:115660588583171790",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 1983,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83629/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83629/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Galio",
+        "LeeSin",
+        "Ahri",
+        "Ashe",
+        "Seraphine"
+      ],
+      "bans": [
+        "Olaf",
+        "Nocturne",
+        "Cassiopeia",
+        "MonkeyKing",
+        "Yone"
+      ],
+      "kills": 21,
+      "gold": 68837,
+      "towers": 8,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 11,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "TwistedFate",
+        "Qiyana",
+        "Rumble",
+        "Ezreal",
+        "Pyke"
+      ],
+      "bans": [
+        "Pantheon",
+        "Karma",
+        "Orianna",
+        "Ryze",
+        "Jax"
+      ],
+      "kills": 11,
+      "gold": 61748,
+      "towers": 4,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 21,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83630",
+    "matchId": "official:115660588583171790",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 2173,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83630/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83630/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Yorick",
+        "MonkeyKing",
+        "KogMaw",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Orianna",
+        "Caitlyn",
+        "Gnar",
+        "Cassiopeia",
+        "Renekton"
+      ],
+      "kills": 7,
+      "gold": 67089,
+      "towers": 4,
+      "dragons": 1,
+      "barons": 1,
+      "deaths": 14,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Kennen",
+        "JarvanIV",
+        "Viktor",
+        "Xayah",
+        "Rakan"
+      ],
+      "bans": [
+        "Nocturne",
+        "Camille",
+        "Olaf",
+        "Vayne",
+        "Taliyah"
+      ],
+      "kills": 14,
+      "gold": 71900,
+      "towers": 8,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83623",
+    "matchId": "official:115660588583171794",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2392,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83623/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83623/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Ambessa",
+        "JarvanIV",
+        "Ahri",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Nocturne",
+        "Cassiopeia",
+        "Karma",
+        "XinZhao",
+        "Maokai"
+      ],
+      "kills": 10,
+      "gold": 68597,
+      "towers": 2,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 19,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Rumble",
+        "Qiyana",
+        "Syndra",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Seraphine",
+        "Skarner",
+        "KSante",
+        "Vi",
+        "Akali"
+      ],
+      "kills": 19,
+      "gold": 80416,
+      "towers": 8,
+      "dragons": 5,
+      "barons": 1,
+      "deaths": 10,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83624",
+    "matchId": "official:115660588583171794",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 2116,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83624/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83624/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "KSante",
+        "LeeSin",
+        "Sylas",
+        "Caitlyn",
+        "Bard"
+      ],
+      "bans": [
+        "Seraphine",
+        "Ezreal",
+        "Pantheon",
+        "Skarner",
+        "Gnar"
+      ],
+      "kills": 9,
+      "gold": 62702,
+      "towers": 5,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 12,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Olaf",
+        "Sejuani",
+        "Akali",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Maokai",
+        "Nocturne",
+        "Vi",
+        "Camille",
+        "TwistedFate"
+      ],
+      "kills": 12,
+      "gold": 67566,
+      "towers": 7,
+      "dragons": 3,
+      "barons": 2,
+      "deaths": 9,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83625",
+    "matchId": "official:115660588583171794",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 2049,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83625/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83625/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Volibear",
+        "Chogath",
+        "Viktor",
+        "Sivir",
+        "Karma"
+      ],
+      "bans": [
+        "Nocturne",
+        "Cassiopeia",
+        "Locke",
+        "Seraphine",
+        "Gnar"
+      ],
+      "kills": 14,
+      "gold": 72272,
+      "towers": 10,
+      "dragons": 2,
+      "barons": 2,
+      "deaths": 6,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Renekton",
+        "Naafiri",
+        "Orianna",
+        "Ezreal",
+        "Alistar"
+      ],
+      "bans": [
+        "Ashe",
+        "Xayah",
+        "Jayce",
+        "Vayne",
+        "Varus"
+      ],
+      "kills": 6,
+      "gold": 61142,
+      "towers": 4,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 14,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83626",
+    "matchId": "official:115660588583171794",
+    "number": 4,
+    "patch": "16.20.1",
+    "durationSeconds": 1716,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83626/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83626/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Jax",
+        "Vi",
+        "TwistedFate",
+        "MissFortune",
+        "Rell"
+      ],
+      "bans": [
+        "Nocturne",
+        "Yone",
+        "Jayce",
+        "XinZhao",
+        "Gnar"
+      ],
+      "kills": 16,
+      "gold": 60772,
+      "towers": 9,
+      "dragons": 2,
+      "barons": 1,
+      "deaths": 7,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Aatrox",
+        "Trundle",
+        "Locke",
+        "Ziggs",
+        "Nautilus"
+      ],
+      "bans": [
+        "Seraphine",
+        "Galio",
+        "Skarner",
+        "Aurora",
+        "Cassiopeia"
+      ],
+      "kills": 7,
+      "gold": 48069,
+      "towers": 2,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 16,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83598",
+    "matchId": "official:115660588583171786",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2102,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83598/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83598/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Rumble",
+        "LeeSin",
+        "Syndra",
+        "MissFortune",
+        "Nautilus"
+      ],
+      "bans": [
+        "Vi",
+        "KSante",
+        "Skarner",
+        "Orianna",
+        "Sylas"
+      ],
+      "kills": 1,
+      "gold": 57395,
+      "towers": 3,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 20,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Gnar",
+        "XinZhao",
+        "Locke",
+        "Ezreal",
+        "Karma"
+      ],
+      "bans": [
+        "Seraphine",
+        "Nocturne",
+        "Qiyana",
+        "Jhin",
+        "Akali"
+      ],
+      "kills": 20,
+      "gold": 75994,
+      "towers": 11,
+      "dragons": 4,
+      "barons": 2,
+      "deaths": 1,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83599",
+    "matchId": "official:115660588583171786",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 2110,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83599/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83599/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Camille",
+        "MonkeyKing",
+        "Akali",
+        "Kalista",
+        "Renata"
+      ],
+      "bans": [
+        "Seraphine",
+        "Caitlyn",
+        "Qiyana",
+        "Lucian",
+        "Rakan"
+      ],
+      "kills": 16,
+      "gold": 66356,
+      "towers": 5,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 14,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Jayce",
+        "Vi",
+        "Cassiopeia",
+        "Varus",
+        "Velkoz"
+      ],
+      "bans": [
+        "Nocturne",
+        "KSante",
+        "Lulu",
+        "Olaf",
+        "JarvanIV"
+      ],
+      "kills": 14,
+      "gold": 68978,
+      "towers": 7,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 16,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83600",
+    "matchId": "official:115660588583171786",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 2269,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83600/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83600/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Kled",
+        "Naafiri",
+        "Anivia",
+        "Lucian",
+        "Nami"
+      ],
+      "bans": [
+        "Orianna",
+        "Lulu",
+        "Qiyana",
+        "KSante",
+        "Aurora"
+      ],
+      "kills": 5,
+      "gold": 64718,
+      "towers": 4,
+      "dragons": 0,
+      "barons": 0,
+      "deaths": 22,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Olaf",
+        "JarvanIV",
+        "Annie",
+        "Jhin",
+        "Alistar"
+      ],
+      "bans": [
+        "Seraphine",
+        "Caitlyn",
+        "Viktor",
+        "Vayne",
+        "Sylas"
+      ],
+      "kills": 22,
+      "gold": 78765,
+      "towers": 10,
+      "dragons": 5,
+      "barons": 2,
+      "deaths": 5,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83601",
+    "matchId": "official:115660588583171786",
+    "number": 4,
+    "patch": "16.20.1",
+    "durationSeconds": 2289,
+    "winner": "red",
+    "sourceUrl": "https://gol.gg/game/stats/83601/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83601/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "Zaahen",
+        "Sejuani",
+        "Sylas",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Seraphine",
+        "Caitlyn",
+        "Viktor",
+        "Aphelios",
+        "Draven"
+      ],
+      "kills": 6,
+      "gold": 67444,
+      "towers": 4,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 15,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Renekton",
+        "Qiyana",
+        "Orianna",
+        "Xayah",
+        "Rakan"
+      ],
+      "bans": [
+        "Nocturne",
+        "KSante",
+        "Pantheon",
+        "Vayne",
+        "Skarner"
+      ],
+      "kills": 15,
+      "gold": 81318,
+      "towers": 9,
+      "dragons": 5,
+      "barons": 1,
+      "deaths": 6,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83602",
+    "matchId": "official:115660588583171786",
+    "number": 5,
+    "patch": "16.20.1",
+    "durationSeconds": 1881,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83602/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83602/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "Karmine Corp",
+      "teamId": "111692118851466302",
+      "picks": [
+        "Ambessa",
+        "Trundle",
+        "Ahri",
+        "Kaisa",
+        "Rell"
+      ],
+      "bans": [
+        "Nocturne",
+        "Maokai",
+        "Pantheon",
+        "Poppy",
+        "Kindred"
+      ],
+      "kills": 17,
+      "gold": 65589,
+      "towers": 8,
+      "dragons": 2,
+      "barons": 2,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "Cloud9 Kia",
+      "teamId": "98767991877340524",
+      "picks": [
+        "KSante",
+        "Lillia",
+        "Yone",
+        "Ziggs",
+        "Shen"
+      ],
+      "bans": [
+        "Seraphine",
+        "Caitlyn",
+        "Vayne",
+        "Leblanc",
+        "Khazix"
+      ],
+      "kills": 8,
+      "gold": 55683,
+      "towers": 3,
+      "dragons": 3,
+      "barons": 0,
+      "deaths": 17,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83593",
+    "matchId": "official:115660588583040710",
+    "number": 1,
+    "patch": "16.20.1",
+    "durationSeconds": 2124,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83593/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83593/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Olaf",
+        "Vi",
+        "Cassiopeia",
+        "Ashe",
+        "Seraphine"
+      ],
+      "bans": [
+        "Ezreal",
+        "Pantheon",
+        "Akali",
+        "Sylas",
+        "Locke"
+      ],
+      "kills": 11,
+      "gold": 70731,
+      "towers": 8,
+      "dragons": 1,
+      "barons": 1,
+      "deaths": 10,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Jax",
+        "Trundle",
+        "Galio",
+        "Yunara",
+        "Lulu"
+      ],
+      "bans": [
+        "Pyke",
+        "Nocturne",
+        "JarvanIV",
+        "Maokai",
+        "LeeSin"
+      ],
+      "kills": 10,
+      "gold": 65883,
+      "towers": 7,
+      "dragons": 4,
+      "barons": 1,
+      "deaths": 11,
+      "deathsWithoutOpponentKill": 0
+    }
+  },
+  {
+    "id": "gol:83594",
+    "matchId": "official:115660588583040710",
+    "number": 2,
+    "patch": "16.20.1",
+    "durationSeconds": 2096,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83594/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83594/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Rumble",
+        "LeeSin",
+        "Viktor",
+        "Lucian",
+        "Milio"
+      ],
+      "bans": [
+        "Ezreal",
+        "Renata",
+        "Akali",
+        "Pantheon",
+        "Ambessa"
+      ],
+      "kills": 27,
+      "gold": 74975,
+      "towers": 10,
+      "dragons": 3,
+      "barons": 2,
+      "deaths": 13,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "Ornn",
+        "MonkeyKing",
+        "Syndra",
+        "Xayah",
+        "Rakan"
+      ],
+      "bans": [
+        "Nocturne",
+        "JarvanIV",
+        "Caitlyn",
+        "Locke",
+        "Leblanc"
+      ],
+      "kills": 13,
+      "gold": 63348,
+      "towers": 0,
+      "dragons": 2,
+      "barons": 0,
+      "deaths": 28,
+      "deathsWithoutOpponentKill": 1
+    }
+  },
+  {
+    "id": "gol:83595",
+    "matchId": "official:115660588583040710",
+    "number": 3,
+    "patch": "16.20.1",
+    "durationSeconds": 1622,
+    "winner": "blue",
+    "sourceUrl": "https://gol.gg/game/stats/83595/page-game/",
+    "statsSourceUrl": "https://gol.gg/game/stats/83595/page-fullstats/",
+    "verifiedAt": "2026-10-26T04:21:12.505Z",
+    "blue": {
+      "name": "MVK Esports",
+      "teamId": "107251245690956393",
+      "picks": [
+        "Zaahen",
+        "JarvanIV",
+        "KogMaw",
+        "Jhin",
+        "Camille"
+      ],
+      "bans": [
+        "Ezreal",
+        "Renata",
+        "Sylas",
+        "Poppy",
+        "Shen"
+      ],
+      "kills": 22,
+      "gold": 59398,
+      "towers": 10,
+      "dragons": 3,
+      "barons": 1,
+      "deaths": 8,
+      "deathsWithoutOpponentKill": 0
+    },
+    "red": {
+      "name": "FURIA",
+      "teamId": "100205576309502431",
+      "picks": [
+        "KSante",
+        "Naafiri",
+        "Ryze",
+        "Kaisa",
+        "Leona"
+      ],
+      "bans": [
+        "Locke",
+        "Nocturne",
+        "Yone",
+        "Orianna",
+        "Vayne"
+      ],
+      "kills": 8,
+      "gold": 46224,
+      "towers": 0,
+      "dragons": 1,
+      "barons": 0,
+      "deaths": 22,
+      "deathsWithoutOpponentKill": 0
+    }
+  }
+]

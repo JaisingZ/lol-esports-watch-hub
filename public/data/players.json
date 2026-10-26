@@ -1,1 +1,1158 @@
-[]
+[
+  {
+    "id": "gol:1922",
+    "name": "369",
+    "aliases": [
+      "369"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "99566404854685458",
+    "teamName": "TOP ESPORTS",
+    "sourceUrl": "https://gol.gg/players/player-stats/1922/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1269",
+    "name": "Tian",
+    "aliases": [
+      "Tian"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "99566404854685458",
+    "teamName": "TOP ESPORTS",
+    "sourceUrl": "https://gol.gg/players/player-stats/1269/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3906",
+    "name": "Creme",
+    "aliases": [
+      "Creme"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "99566404854685458",
+    "teamName": "TOP ESPORTS",
+    "sourceUrl": "https://gol.gg/players/player-stats/3906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1267",
+    "name": "JackeyLove",
+    "aliases": [
+      "JackeyLove"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "99566404854685458",
+    "teamName": "TOP ESPORTS",
+    "sourceUrl": "https://gol.gg/players/player-stats/1267/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3352",
+    "name": "Zhuo",
+    "aliases": [
+      "Zhuo"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "99566404854685458",
+    "teamName": "TOP ESPORTS",
+    "sourceUrl": "https://gol.gg/players/player-stats/3352/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1310",
+    "name": "BrokenBlade",
+    "aliases": [
+      "BrokenBlade"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "98767991926151025",
+    "teamName": "G2 Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/1310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4946",
+    "name": "SkewMond",
+    "aliases": [
+      "SkewMond"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "98767991926151025",
+    "teamName": "G2 Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/4946/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:802",
+    "name": "Caps",
+    "aliases": [
+      "Caps"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "98767991926151025",
+    "teamName": "G2 Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/802/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:732",
+    "name": "Hans Sama",
+    "aliases": [
+      "Hans Sama"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "98767991926151025",
+    "teamName": "G2 Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/732/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2887",
+    "name": "Labrov",
+    "aliases": [
+      "Labrov"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "98767991926151025",
+    "teamName": "G2 Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/2887/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1075",
+    "name": "TheShy",
+    "aliases": [
+      "TheShy"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "99566404848691211",
+    "teamName": "Invictus Gaming",
+    "sourceUrl": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:388",
+    "name": "Wei",
+    "aliases": [
+      "Wei"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "99566404848691211",
+    "teamName": "Invictus Gaming",
+    "sourceUrl": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:109",
+    "name": "RooKie",
+    "aliases": [
+      "RooKie",
+      "Rookie"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "99566404848691211",
+    "teamName": "Invictus Gaming",
+    "sourceUrl": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5939",
+    "name": "JiaQi",
+    "aliases": [
+      "JiaQi"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "99566404848691211",
+    "teamName": "Invictus Gaming",
+    "sourceUrl": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:386",
+    "name": "meiko",
+    "aliases": [
+      "meiko",
+      "Meiko"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "99566404848691211",
+    "teamName": "Invictus Gaming",
+    "sourceUrl": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3658",
+    "name": "Zeus",
+    "aliases": [
+      "Zeus"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "100205573496804586",
+    "teamName": "Hanwha Life Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/3658/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2360",
+    "name": "Kanavi",
+    "aliases": [
+      "Kanavi"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "100205573496804586",
+    "teamName": "Hanwha Life Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/2360/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2906",
+    "name": "Zeka",
+    "aliases": [
+      "Zeka"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "100205573496804586",
+    "teamName": "Hanwha Life Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/2906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3247",
+    "name": "Gumayusi",
+    "aliases": [
+      "Gumayusi"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "100205573496804586",
+    "teamName": "Hanwha Life Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/3247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3411",
+    "name": "Delight",
+    "aliases": [
+      "Delight"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "100205573496804586",
+    "teamName": "Hanwha Life Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/3411/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2545",
+    "name": "Morgan",
+    "aliases": [
+      "Morgan"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "98926509885559666",
+    "teamName": "Team Liquid Alienware",
+    "sourceUrl": "https://gol.gg/players/player-stats/2545/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1364",
+    "name": "Josedeodo",
+    "aliases": [
+      "Josedeodo"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "98926509885559666",
+    "teamName": "Team Liquid Alienware",
+    "sourceUrl": "https://gol.gg/players/player-stats/1364/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4246",
+    "name": "Quid",
+    "aliases": [
+      "Quid"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "98926509885559666",
+    "teamName": "Team Liquid Alienware",
+    "sourceUrl": "https://gol.gg/players/player-stats/4246/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3537",
+    "name": "Yeon",
+    "aliases": [
+      "Yeon"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "98926509885559666",
+    "teamName": "Team Liquid Alienware",
+    "sourceUrl": "https://gol.gg/players/player-stats/3537/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:257",
+    "name": "CoreJJ",
+    "aliases": [
+      "CoreJJ"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "98926509885559666",
+    "teamName": "Team Liquid Alienware",
+    "sourceUrl": "https://gol.gg/players/player-stats/257/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2606",
+    "name": "Bin",
+    "aliases": [
+      "Bin"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "99566404853854212",
+    "teamName": "BILIBILI GAMING",
+    "sourceUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3330",
+    "name": "XUN",
+    "aliases": [
+      "XUN",
+      "Xun"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "99566404853854212",
+    "teamName": "BILIBILI GAMING",
+    "sourceUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1270",
+    "name": "Knight",
+    "aliases": [
+      "Knight"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "99566404853854212",
+    "teamName": "BILIBILI GAMING",
+    "sourceUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1228",
+    "name": "Viper",
+    "aliases": [
+      "Viper"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "99566404853854212",
+    "teamName": "BILIBILI GAMING",
+    "sourceUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3353",
+    "name": "ON",
+    "aliases": [
+      "ON"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "99566404853854212",
+    "teamName": "BILIBILI GAMING",
+    "sourceUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5392",
+    "name": "Siwoo",
+    "aliases": [
+      "Siwoo"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "100725845018863243",
+    "teamName": "Dplus KIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/5392/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3895",
+    "name": "Lucid",
+    "aliases": [
+      "Lucid"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "100725845018863243",
+    "teamName": "Dplus KIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/3895/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1250",
+    "name": "ShowMaker",
+    "aliases": [
+      "ShowMaker"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "100725845018863243",
+    "teamName": "Dplus KIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/1250/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4940",
+    "name": "Smash",
+    "aliases": [
+      "Smash"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "100725845018863243",
+    "teamName": "Dplus KIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/4940/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5204",
+    "name": "Career",
+    "aliases": [
+      "Career"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "100725845018863243",
+    "teamName": "Dplus KIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/5204/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1242",
+    "name": "Doran",
+    "aliases": [
+      "Doran"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "98767991853197861",
+    "teamName": "T1",
+    "sourceUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3741",
+    "name": "Oner",
+    "aliases": [
+      "Oner"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "98767991853197861",
+    "teamName": "T1",
+    "sourceUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:48",
+    "name": "Faker",
+    "aliases": [
+      "Faker"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "98767991853197861",
+    "teamName": "T1",
+    "sourceUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4247",
+    "name": "Peyz",
+    "aliases": [
+      "Peyz"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "98767991853197861",
+    "teamName": "T1",
+    "sourceUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1258",
+    "name": "Keria",
+    "aliases": [
+      "Keria"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "98767991853197861",
+    "teamName": "T1",
+    "sourceUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1115",
+    "name": "Kiin",
+    "aliases": [
+      "Kiin"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "100205573495116443",
+    "teamName": "Gen.G Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1909",
+    "name": "Canyon",
+    "aliases": [
+      "Canyon"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "100205573495116443",
+    "teamName": "Gen.G Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1629",
+    "name": "Chovy",
+    "aliases": [
+      "Chovy"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "100205573495116443",
+    "teamName": "Gen.G Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:685",
+    "name": "Ruler",
+    "aliases": [
+      "Ruler"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "100205573495116443",
+    "teamName": "Gen.G Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4259",
+    "name": "Duro",
+    "aliases": [
+      "Duro"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "100205573495116443",
+    "teamName": "Gen.G Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2799",
+    "name": "Pun",
+    "aliases": [
+      "Pun"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "113661839307879869",
+    "teamName": "Team Secret Whales",
+    "sourceUrl": "https://gol.gg/players/player-stats/2799/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5960",
+    "name": "Hizto",
+    "aliases": [
+      "Hizto"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "113661839307879869",
+    "teamName": "Team Secret Whales",
+    "sourceUrl": "https://gol.gg/players/player-stats/5960/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5961",
+    "name": "Dire",
+    "aliases": [
+      "Dire"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "113661839307879869",
+    "teamName": "Team Secret Whales",
+    "sourceUrl": "https://gol.gg/players/player-stats/5961/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3245",
+    "name": "Eddie",
+    "aliases": [
+      "Eddie"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "113661839307879869",
+    "teamName": "Team Secret Whales",
+    "sourceUrl": "https://gol.gg/players/player-stats/3245/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1461",
+    "name": "Bie",
+    "aliases": [
+      "Bie"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "113661839307879869",
+    "teamName": "Team Secret Whales",
+    "sourceUrl": "https://gol.gg/players/player-stats/1461/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2671",
+    "name": "Canna",
+    "aliases": [
+      "Canna"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "111692118851466302",
+    "teamName": "Karmine Corp",
+    "sourceUrl": "https://gol.gg/players/player-stats/2671/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:3406",
+    "name": "Yike",
+    "aliases": [
+      "Yike"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "111692118851466302",
+    "teamName": "Karmine Corp",
+    "sourceUrl": "https://gol.gg/players/player-stats/3406/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:5264",
+    "name": "Kyeahoo",
+    "aliases": [
+      "Kyeahoo"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "111692118851466302",
+    "teamName": "Karmine Corp",
+    "sourceUrl": "https://gol.gg/players/player-stats/5264/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:4900",
+    "name": "Caliste",
+    "aliases": [
+      "Caliste"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "111692118851466302",
+    "teamName": "Karmine Corp",
+    "sourceUrl": "https://gol.gg/players/player-stats/4900/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:4500",
+    "name": "Busio",
+    "aliases": [
+      "Busio"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "111692118851466302",
+    "teamName": "Karmine Corp",
+    "sourceUrl": "https://gol.gg/players/player-stats/4500/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:1135",
+    "name": "Dhokla",
+    "aliases": [
+      "Dhokla"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "99566405941863385",
+    "teamName": "LYON",
+    "sourceUrl": "https://gol.gg/players/player-stats/1135/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1501",
+    "name": "Inspired",
+    "aliases": [
+      "Inspired"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "99566405941863385",
+    "teamName": "LYON",
+    "sourceUrl": "https://gol.gg/players/player-stats/1501/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5123",
+    "name": "Saint",
+    "aliases": [
+      "Saint"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "99566405941863385",
+    "teamName": "LYON",
+    "sourceUrl": "https://gol.gg/players/player-stats/5123/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3322",
+    "name": "Berserker",
+    "aliases": [
+      "Berserker"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "99566405941863385",
+    "teamName": "LYON",
+    "sourceUrl": "https://gol.gg/players/player-stats/3322/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2358",
+    "name": "Isles",
+    "aliases": [
+      "Isles"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "99566405941863385",
+    "teamName": "LYON",
+    "sourceUrl": "https://gol.gg/players/player-stats/2358/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4244",
+    "name": "Zest",
+    "aliases": [
+      "Zest"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "109480204628225868",
+    "teamName": "LOS",
+    "sourceUrl": "https://gol.gg/players/player-stats/4244/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5274",
+    "name": "Curse",
+    "aliases": [
+      "Curse"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "109480204628225868",
+    "teamName": "LOS",
+    "sourceUrl": "https://gol.gg/players/player-stats/5274/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4234",
+    "name": "Feisty",
+    "aliases": [
+      "Feisty"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "109480204628225868",
+    "teamName": "LOS",
+    "sourceUrl": "https://gol.gg/players/player-stats/4234/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5786",
+    "name": "Duduhh",
+    "aliases": [
+      "Duduhh"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "109480204628225868",
+    "teamName": "LOS",
+    "sourceUrl": "https://gol.gg/players/player-stats/5786/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3640",
+    "name": "Ackerman",
+    "aliases": [
+      "Ackerman"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "109480204628225868",
+    "teamName": "LOS",
+    "sourceUrl": "https://gol.gg/players/player-stats/3640/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4310",
+    "name": "Myrwn",
+    "aliases": [
+      "Myrwn"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "103461966965149786",
+    "teamName": "Movistar KOI",
+    "sourceUrl": "https://gol.gg/players/player-stats/4310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2719",
+    "name": "Elyoya",
+    "aliases": [
+      "Elyoya"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "103461966965149786",
+    "teamName": "Movistar KOI",
+    "sourceUrl": "https://gol.gg/players/player-stats/2719/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3544",
+    "name": "jojopyun",
+    "aliases": [
+      "jojopyun",
+      "Jojopyun"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "103461966965149786",
+    "teamName": "Movistar KOI",
+    "sourceUrl": "https://gol.gg/players/player-stats/3544/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2717",
+    "name": "Supa",
+    "aliases": [
+      "Supa"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "103461966965149786",
+    "teamName": "Movistar KOI",
+    "sourceUrl": "https://gol.gg/players/player-stats/2717/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4634",
+    "name": "Alvaro",
+    "aliases": [
+      "Alvaro"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "103461966965149786",
+    "teamName": "Movistar KOI",
+    "sourceUrl": "https://gol.gg/players/player-stats/4634/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1172",
+    "name": "Rest",
+    "aliases": [
+      "Rest"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "107700199633958891",
+    "teamName": "CTBC Flying Oyster",
+    "sourceUrl": "https://gol.gg/players/player-stats/1172/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2588",
+    "name": "Shad0w",
+    "aliases": [
+      "Shad0w"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "107700199633958891",
+    "teamName": "CTBC Flying Oyster",
+    "sourceUrl": "https://gol.gg/players/player-stats/2588/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:4251",
+    "name": "Pout",
+    "aliases": [
+      "Pout"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "107700199633958891",
+    "teamName": "CTBC Flying Oyster",
+    "sourceUrl": "https://gol.gg/players/player-stats/4251/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3737",
+    "name": "Doggo",
+    "aliases": [
+      "Doggo"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "107700199633958891",
+    "teamName": "CTBC Flying Oyster",
+    "sourceUrl": "https://gol.gg/players/player-stats/3737/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:7011",
+    "name": "Kino",
+    "aliases": [
+      "Kino"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "107700199633958891",
+    "teamName": "CTBC Flying Oyster",
+    "sourceUrl": "https://gol.gg/players/player-stats/7011/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:2348",
+    "name": "Breathe",
+    "aliases": [
+      "Breathe"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "99566404856367466",
+    "teamName": "Anyone's Legend",
+    "sourceUrl": "https://gol.gg/players/player-stats/2348/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1226",
+    "name": "Tarzan",
+    "aliases": [
+      "Tarzan"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "99566404856367466",
+    "teamName": "Anyone's Legend",
+    "sourceUrl": "https://gol.gg/players/player-stats/1226/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3344",
+    "name": "Shanks",
+    "aliases": [
+      "Shanks"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "99566404856367466",
+    "teamName": "Anyone's Legend",
+    "sourceUrl": "https://gol.gg/players/player-stats/3344/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:1561",
+    "name": "Hope",
+    "aliases": [
+      "Hope"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "99566404856367466",
+    "teamName": "Anyone's Legend",
+    "sourceUrl": "https://gol.gg/players/player-stats/1561/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:3323",
+    "name": "Kael",
+    "aliases": [
+      "Kael"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "99566404856367466",
+    "teamName": "Anyone's Legend",
+    "sourceUrl": "https://gol.gg/players/player-stats/3323/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+  },
+  {
+    "id": "gol:5169",
+    "name": "Kratos",
+    "aliases": [
+      "Kratos"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "107251245690956393",
+    "teamName": "MVK Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/5169/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:5156",
+    "name": "Gury",
+    "aliases": [
+      "Gury"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "107251245690956393",
+    "teamName": "MVK Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/5156/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:6420",
+    "name": "Chika",
+    "aliases": [
+      "Chika"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "107251245690956393",
+    "teamName": "MVK Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/6420/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:5166",
+    "name": "Harky",
+    "aliases": [
+      "Harky"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "107251245690956393",
+    "teamName": "MVK Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/5166/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:5913",
+    "name": "Siuloong",
+    "aliases": [
+      "Siuloong"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "107251245690956393",
+    "teamName": "MVK Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/5913/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:3116",
+    "name": "Guigo",
+    "aliases": [
+      "Guigo"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "100205576309502431",
+    "teamName": "FURIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/3116/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:4776",
+    "name": "Tatu",
+    "aliases": [
+      "Tatu"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "100205576309502431",
+    "teamName": "FURIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/4776/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:2709",
+    "name": "Tutsz",
+    "aliases": [
+      "Tutsz"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "100205576309502431",
+    "teamName": "FURIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/2709/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:4976",
+    "name": "Ayu",
+    "aliases": [
+      "Ayu"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "100205576309502431",
+    "teamName": "FURIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/4976/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:2329",
+    "name": "JoJo",
+    "aliases": [
+      "JoJo"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "100205576309502431",
+    "teamName": "FURIA",
+    "sourceUrl": "https://gol.gg/players/player-stats/2329/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:6419",
+    "name": "SanSan",
+    "aliases": [
+      "SanSan"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "107251245690956393",
+    "teamName": "MVK Esports",
+    "sourceUrl": "https://gol.gg/players/player-stats/6419/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:3434",
+    "name": "Thanatos",
+    "aliases": [
+      "Thanatos"
+    ],
+    "worlds2026": true,
+    "role": "TOP",
+    "teamId": "98767991877340524",
+    "teamName": "Cloud9 Kia",
+    "sourceUrl": "https://gol.gg/players/player-stats/3434/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:1634",
+    "name": "Blaber",
+    "aliases": [
+      "Blaber"
+    ],
+    "worlds2026": true,
+    "role": "JGL",
+    "teamId": "98767991877340524",
+    "teamName": "Cloud9 Kia",
+    "sourceUrl": "https://gol.gg/players/player-stats/1634/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:4861",
+    "name": "Loki",
+    "aliases": [
+      "Loki"
+    ],
+    "worlds2026": true,
+    "role": "MID",
+    "teamId": "98767991877340524",
+    "teamName": "Cloud9 Kia",
+    "sourceUrl": "https://gol.gg/players/player-stats/4861/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:1979",
+    "name": "Tactical",
+    "aliases": [
+      "Tactical"
+    ],
+    "worlds2026": true,
+    "role": "BOT",
+    "teamId": "98767991877340524",
+    "teamName": "Cloud9 Kia",
+    "sourceUrl": "https://gol.gg/players/player-stats/1979/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  },
+  {
+    "id": "gol:1301",
+    "name": "Vulcan",
+    "aliases": [
+      "Vulcan"
+    ],
+    "worlds2026": true,
+    "role": "SUP",
+    "teamId": "98767991877340524",
+    "teamName": "Cloud9 Kia",
+    "sourceUrl": "https://gol.gg/players/player-stats/1301/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+  }
+]
