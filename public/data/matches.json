@@ -639,11 +639,11 @@
     "scheduledDate": "2026-10-26",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "live",
+    "status": "completed",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-26T17:21:17.741Z",
+    "verifiedAt": "2026-10-26T22:38:18.254Z",
     "scores": [
-      0,
+      1,
       0
     ]
   },
@@ -663,9 +663,13 @@
     "scheduledDate": "2026-10-26",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "scheduled",
+    "status": "completed",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-26T22:38:18.254Z",
+    "scores": [
+      1,
+      0
+    ]
   },
   {
     "id": "official:115660540726095053",
@@ -676,16 +680,20 @@
     "round": "Round 3",
     "bestOf": 3,
     "teamIds": [
-      "109480204628225868",
-      "113661839307879869"
+      "113661839307879869",
+      "109480204628225868"
     ],
     "startAt": "2026-10-26T19:00:00Z",
     "scheduledDate": "2026-10-26",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "scheduled",
+    "status": "completed",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-26T22:38:18.254Z",
+    "scores": [
+      0,
+      2
+    ]
   },
   {
     "id": "official:115660540726095057",
@@ -696,16 +704,20 @@
     "round": "Round 3",
     "bestOf": 3,
     "teamIds": [
-      "98926509885559666",
-      "99566404856367466"
+      "99566404856367466",
+      "98926509885559666"
     ],
     "startAt": "2026-10-26T22:00:00Z",
     "scheduledDate": "2026-10-26",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "scheduled",
+    "status": "live",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-26T22:38:18.254Z",
+    "scores": [
+      0,
+      1
+    ]
   },
   {
     "id": "official:115660540726095061",
