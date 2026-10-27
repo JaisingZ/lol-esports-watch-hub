@@ -14,8 +14,8 @@
     "emptyNote": "没有可靠记录时留空，不把缺失数据当作零",
     "back": "返回赛事",
     "region": "观看地区",
-    "noRegion": "暂无已核验地区",
-    "noSource": "暂无已验证观看来源",
+    "noRegion": "选择观看地区",
+    "noSource": "暂无观看来源",
     "bp": "禁选英雄",
     "blue": "蓝方",
     "red": "红方",
@@ -72,7 +72,9 @@
     "quality": "实测画质",
     "startup": "起播耗时",
     "unknown": "未验证",
-    "coverageCounts": "已收录：{matches} 场系列赛 · {games} 个单局 · {players} 名选手 · 年份：{years}。历届记录仍可能不完整。"
+    "coverageCounts": "已收录：{matches} 场系列赛 · {games} 个单局 · {players} 名选手 · 年份：{years}。历届记录仍可能不完整。",
+    "noVerifiedSource": "暂无已验证观看来源",
+    "playbackPending": "播放与地区待验证"
   },
   "zh-Hant": {
     "watch": "賽事觀戰",
@@ -89,8 +91,8 @@
     "emptyNote": "沒有可靠紀錄時留空，不把缺漏資料視為零",
     "back": "返回賽事",
     "region": "觀看地區",
-    "noRegion": "暫無已核驗地區",
-    "noSource": "暫無已驗證觀看來源",
+    "noRegion": "選擇觀看地區",
+    "noSource": "暫無觀看來源",
     "bp": "禁選英雄",
     "blue": "藍方",
     "red": "紅方",
@@ -147,7 +149,9 @@
     "quality": "實測畫質",
     "startup": "起播耗時",
     "unknown": "未驗證",
-    "coverageCounts": "已收錄：{matches} 場系列賽 · {games} 個單局 · {players} 名選手 · 年份：{years}。歷屆記錄仍可能不完整。"
+    "coverageCounts": "已收錄：{matches} 場系列賽 · {games} 個單局 · {players} 名選手 · 年份：{years}。歷屆記錄仍可能不完整。",
+    "noVerifiedSource": "暫無已驗證觀看來源",
+    "playbackPending": "播放與地區待驗證"
   },
   "en": {
     "watch": "Watch",
@@ -164,8 +168,8 @@
     "emptyNote": "Missing records are unknown, never zero.",
     "back": "Back to matches",
     "region": "Viewing region",
-    "noRegion": "No verified region",
-    "noSource": "No verified viewing source",
+    "noRegion": "Select viewing region",
+    "noSource": "No viewing source available",
     "bp": "Picks & bans",
     "blue": "Blue side",
     "red": "Red side",
@@ -222,7 +226,9 @@
     "quality": "Measured quality",
     "startup": "Startup time",
     "unknown": "Unverified",
-    "coverageCounts": "Recorded: {matches} series · {games} games · {players} players · Years: {years}. Historical coverage may be incomplete."
+    "coverageCounts": "Recorded: {matches} series · {games} games · {players} players · Years: {years}. Historical coverage may be incomplete.",
+    "noVerifiedSource": "No verified viewing source",
+    "playbackPending": "Playback and region not yet verified"
   },
   "ko": {
     "watch": "경기 관전",
@@ -239,8 +245,8 @@
     "emptyNote": "누락된 기록은 0이 아닌 미확인입니다.",
     "back": "경기 목록",
     "region": "시청 지역",
-    "noRegion": "검증된 지역 없음",
-    "noSource": "검증된 시청 소스 없음",
+    "noRegion": "시청 지역 선택",
+    "noSource": "시청 소스 없음",
     "bp": "밴픽",
     "blue": "블루 진영",
     "red": "레드 진영",
@@ -297,7 +303,9 @@
     "quality": "측정 화질",
     "startup": "재생 시작 시간",
     "unknown": "미검증",
-    "coverageCounts": "수록: 시리즈 {matches}개 · 경기 {games}개 · 선수 {players}명 · 연도: {years}. 과거 기록은 불완전할 수 있습니다."
+    "coverageCounts": "수록: 시리즈 {matches}개 · 경기 {games}개 · 선수 {players}명 · 연도: {years}. 과거 기록은 불완전할 수 있습니다.",
+    "noVerifiedSource": "검증된 시청 소스 없음",
+    "playbackPending": "재생 및 지역 확인 대기"
   },
   "ja": {
     "watch": "試合観戦",
@@ -314,8 +322,8 @@
     "emptyNote": "欠損データをゼロとして扱いません。",
     "back": "試合一覧へ",
     "region": "視聴地域",
-    "noRegion": "検証済み地域なし",
-    "noSource": "検証済み視聴元なし",
+    "noRegion": "視聴地域を選択",
+    "noSource": "視聴ソースがありません",
     "bp": "ピック＆バン",
     "blue": "ブルーサイド",
     "red": "レッドサイド",
@@ -372,7 +380,9 @@
     "quality": "実測画質",
     "startup": "再生開始時間",
     "unknown": "未検証",
-    "coverageCounts": "収録：{matches}シリーズ・{games}試合・{players}選手・対象年：{years}。過去の記録は未収録の場合があります。"
+    "coverageCounts": "収録：{matches}シリーズ・{games}試合・{players}選手・対象年：{years}。過去の記録は未収録の場合があります。",
+    "noVerifiedSource": "検証済み視聴元なし",
+    "playbackPending": "再生・地域は未確認"
   },
   "vi": {
     "watch": "Xem giải",
@@ -389,8 +399,8 @@
     "emptyNote": "Dữ liệu thiếu không được coi là số không.",
     "back": "Về lịch đấu",
     "region": "Khu vực xem",
-    "noRegion": "Chưa có khu vực xác minh",
-    "noSource": "Chưa có nguồn xem đã xác minh",
+    "noRegion": "Chọn khu vực xem",
+    "noSource": "Chưa có nguồn xem",
     "bp": "Cấm / chọn",
     "blue": "Đội xanh",
     "red": "Đội đỏ",
@@ -447,7 +457,9 @@
     "quality": "Chất lượng đã đo",
     "startup": "Thời gian bắt đầu",
     "unknown": "Chưa xác minh",
-    "coverageCounts": "Đã thu thập: {matches} loạt trận · {games} ván · {players} tuyển thủ · Năm: {years}. Lịch sử có thể chưa đầy đủ."
+    "coverageCounts": "Đã thu thập: {matches} loạt trận · {games} ván · {players} tuyển thủ · Năm: {years}. Lịch sử có thể chưa đầy đủ.",
+    "noVerifiedSource": "Chưa có nguồn xem đã xác minh",
+    "playbackPending": "Chưa xác minh phát lại và khu vực"
   },
   "th": {
     "watch": "ชมการแข่งขัน",
@@ -464,8 +476,8 @@
     "emptyNote": "ข้อมูลที่ขาดไม่ถือว่าเป็นศูนย์",
     "back": "กลับไปตารางแข่ง",
     "region": "พื้นที่รับชม",
-    "noRegion": "ยังไม่มีพื้นที่ที่ตรวจสอบแล้ว",
-    "noSource": "ไม่มีแหล่งรับชมที่ยืนยันแล้ว",
+    "noRegion": "เลือกภูมิภาคที่รับชม",
+    "noSource": "ยังไม่มีแหล่งรับชม",
     "bp": "เลือกและแบน",
     "blue": "ฝั่งน้ำเงิน",
     "red": "ฝั่งแดง",
@@ -522,7 +534,9 @@
     "quality": "คุณภาพที่วัดได้",
     "startup": "เวลาเริ่มเล่น",
     "unknown": "ยังไม่ตรวจสอบ",
-    "coverageCounts": "บันทึกแล้ว: {matches} ซีรีส์ · {games} เกม · {players} ผู้เล่น · ปี: {years} ประวัติอาจยังไม่ครบถ้วน"
+    "coverageCounts": "บันทึกแล้ว: {matches} ซีรีส์ · {games} เกม · {players} ผู้เล่น · ปี: {years} ประวัติอาจยังไม่ครบถ้วน",
+    "noVerifiedSource": "ไม่มีแหล่งรับชมที่ยืนยันแล้ว",
+    "playbackPending": "ยังไม่ได้ตรวจสอบการเล่นและภูมิภาค"
   },
   "pt-BR": {
     "watch": "Assistir",
@@ -539,8 +553,8 @@
     "emptyNote": "Dados ausentes não são tratados como zero.",
     "back": "Voltar às partidas",
     "region": "Região de exibição",
-    "noRegion": "Nenhuma região verificada",
-    "noSource": "Nenhuma fonte verificada",
+    "noRegion": "Selecione a região",
+    "noSource": "Nenhuma fonte disponível",
     "bp": "Escolhas e banimentos",
     "blue": "Lado azul",
     "red": "Lado vermelho",
@@ -597,6 +611,8 @@
     "quality": "Qualidade medida",
     "startup": "Tempo de início",
     "unknown": "Não verificado",
-    "coverageCounts": "Registrados: {matches} séries · {games} jogos · {players} jogadores · Anos: {years}. O histórico pode estar incompleto."
+    "coverageCounts": "Registrados: {matches} séries · {games} jogos · {players} jogadores · Anos: {years}. O histórico pode estar incompleto.",
+    "noVerifiedSource": "Nenhuma fonte verificada",
+    "playbackPending": "Reprodução e região ainda não verificadas"
   }
 }
