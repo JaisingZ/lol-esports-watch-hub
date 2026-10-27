@@ -1,4 +1,5 @@
-import {verifiedVideo,latestCheck} from './insights-model.js';
+import {verifiedVideo} from './insights-model.js';
+import {displayableVideo,liveAddress} from './watch-links.js';
 import { installInsights } from './insights.js';
 import insightWords from './insights-locales.json';
 import messages from './locales.json';
@@ -31,13 +32,13 @@ function logo(team,featured=false){
 }
 function teamBlock(id,featured=false){const team=teamMap.get(id);const element=node('div',featured?'featured-team':'match-team');const names=node('div','team-names');names.append(node('span','team-code',team?.code||t('tbd')));if(team?.name&&team.name!==team.code)names.append(node('span','team-full-name',team.name));element.append(logo(team,featured),names);return element}
 function scoreText(match){return state.showScores&&Array.isArray(match.scores)&&match.scores.length===2&&match.scores.every(Number.isFinite)?match.scores.join(' : '):t('versus')}
-function liveLink(source){const element=external(source.liveUrl||source.url,'','live-link');element.append(node('span','',audioName(commentaryKey(source.language,source))),node('span','platform',source.platform),svg('arrow-icon'));element.title=source.name;return element}
+function liveLink(source){const element=external(liveAddress(source),'','live-link');element.append(node('span','',audioName(commentaryKey(source.language,source))),node('span','platform',source.platform),svg('arrow-icon'));element.title=source.name;return element}
 function videoLink(video){
   const label=video.isSegment?([video.gameNumber?t('gameNumber',{number:video.gameNumber}):'',t('locateGame')].filter(Boolean).join(' · ')):video.type==='singleGame'?t('gameNumber',{number:video.gameNumber||''}):t(video.type);
   const wrapper=node('div','video-entry'),element=external(video.url,'','video-link');
   element.append(svg('play-icon'),node('span','',label),node('span','platform',sourceMap.get(video.sourceId)?.platform||''),svg('arrow-icon'));
   const pageKey=video.pageStatus==='verified'?'pageVerified':video.pageStatus==='restricted'?'sourceRestricted':'pageUnverified';
-  wrapper.append(element,node('p','verification',t(pageKey)+' · '+t(video.playbackStatus==='verified'?'playbackVerified':'playbackUnverified')));
+  const details=node('details','verification');details.append(node('summary','',it('source')),node('p','',t(pageKey)+' · '+it(verifiedVideo(video,context())?'verified':'playbackPending')));wrapper.append(element,details);
   return wrapper;
 }
 function fillSelect(id,entries,value){$(id).replaceChildren(...entries.map(([key,label])=>option(key,label)));$(id).value=value}
@@ -132,9 +133,9 @@ function renderDayReplays(){
   }
   if(!count){const empty=node('div','day-replay-card'),info=node('div','day-replay-info'),icon=node('span','day-icon');icon.append(svg('play-icon'));const text=node('div');text.append(node('h3','',t('dayReplayEmpty')),node('p','',t('dayReplayNote')));info.append(icon,text);empty.append(info);holder.append(empty)}
 }
-function renderSources(){const holder=$('#source-list');holder.replaceChildren();const available=content.sources.filter(source=>latestCheck(source.id,'live',state.region,content.checks)||content.videos.some(v=>v.sourceId===source.id&&verifiedVideo(v,context())));if(!available.length)holder.append(node('p','',it('noSource')));for(const source of available){const item=node('div','source-item');item.append(node('strong','',source.name),node('p','',source.platform+' · '+audioName(source.language)));holder.append(item)}$('#updated').textContent=content.meta.updatedAt?t('updated',{date:formatTimestamp(content.meta.updatedAt)}):''}
+function renderSources(){const holder=$('#source-list');holder.replaceChildren();const available=content.sources.filter(source=>liveAddress(source)||content.videos.some(v=>v.sourceId===source.id&&displayableVideo(v,source)));if(!available.length)holder.append(node('p','',it('noSource')));for(const source of available){const item=node('div','source-item');item.append(node('strong','',source.name),node('p','',source.platform+' · '+audioName(source.language)),node('p','verification',it('playbackPending')));holder.append(item)}$('#updated').textContent=content.meta.updatedAt?t('updated',{date:formatTimestamp(content.meta.updatedAt)}):''}
 
-function renderAll(){document.documentElement.lang=state.lang;$('#ui-language').value=state.lang;document.querySelectorAll('[data-i18n]').forEach(element=>{element.textContent=t(element.dataset.i18n)});$('#search').placeholder=t('searchPlaceholder');$('#reset').title=t('clear');$('#reset').setAttribute('aria-label',t('clear'));$('#date-previous').setAttribute('aria-label',t('previousDates'));$('#date-next').setAttribute('aria-label',t('nextDates'));$('#scores-toggle').setAttribute('aria-pressed',String(state.showScores));$('#scores-toggle span').textContent=t(state.showScores?'hideScores':'showScores');populateFilters();renderStageTabs();renderDates();renderFeatured();renderResourceTabs();renderMatches();renderDayReplays();renderSources();$('#region-label').textContent=it('region');fillSelect('#viewing-region',[['',it('noRegion')],...content.regions.map(r=>[r.id,r.name])],state.region||'');window.dispatchEvent(new Event('hub:render'))}
+function renderAll(){document.documentElement.lang=state.lang;$('#ui-language').value=state.lang;document.querySelectorAll('[data-i18n]').forEach(element=>{element.textContent=t(element.dataset.i18n)});$('#search').placeholder=t('searchPlaceholder');$('#reset').title=t('clear');$('#reset').setAttribute('aria-label',t('clear'));$('#date-previous').setAttribute('aria-label',t('previousDates'));$('#date-next').setAttribute('aria-label',t('nextDates'));$('#scores-toggle').setAttribute('aria-pressed',String(state.showScores));$('#scores-toggle span').textContent=t(state.showScores?'hideScores':'showScores');populateFilters();renderStageTabs();renderDates();renderFeatured();renderResourceTabs();renderMatches();renderDayReplays();renderSources();window.dispatchEvent(new Event('hub:render'))}
 function resetFilters(){Object.assign(state,{stage:'all',date:'all',search:'',commentary:'all',type:'all',availability:'all'});$('#search').value='';renderAll();$('#search').focus()}
 async function loadContent(){if(loading)return;loading=true;status='loading';renderAll();try{const names=['teams','sources','matches','videos','broadcasts','meta','verification','regions'];const records=await Promise.all(names.map(async name=>{const response=await fetch(import.meta.env.BASE_URL+'data/'+name+'.json',{signal:AbortSignal.timeout(15000)});if(!response.ok)throw new Error(name);const result=await response.json();if(name==='meta'?result?.schemaVersion!==2:!Array.isArray(result))throw new Error('Schema');return result}));content=Object.fromEntries(names.map((name,index)=>[name==='verification'?'checks':name,records[index]]));if(!content.regions.some(r=>r.id===state.region))state.region=window.__HUB_DEMO__?(content.regions[0]?.id||null):null;teamMap=new Map(content.teams.map(team=>[team.id,team]));sourceMap=new Map(content.sources.map(source=>[source.id,source]));if(state.date===null||state.date!=='all'&&!availableDates().includes(state.date))state.date=nearestDate(availableDates());status='ready'}catch{content={teams:[],sources:[],matches:[],videos:[],broadcasts:[],checks:[],regions:[],meta:{}};teamMap=new Map();sourceMap=new Map();status='error'}finally{loading=false;renderAll();scrollSelectedDate()}}
 $('#ui-language').replaceChildren(...languageMeta.map(([code,name])=>option(code,name)));$('#ui-language').addEventListener('change',event=>{state.lang=event.target.value;try{localStorage.setItem(preferenceKey,state.lang)}catch{}renderAll();scrollSelectedDate()});
@@ -145,7 +146,7 @@ $('#filters').addEventListener('submit',event=>event.preventDefault());$('#reset
 $('#scores-toggle').addEventListener('click',()=>{state.showScores=!state.showScores;renderAll()});$('#recent-date').addEventListener('click',()=>{state.date=nearestDate(availableDates());state.availability='all';renderAll();scrollSelectedDate()});
 for(const [id,direction]of [['date-previous',-1],['date-next',1]])$('#'+id).addEventListener('click',()=>$('#date-track').scrollBy({left:direction*300,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'}));
 let resizeTimer;window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(scrollSelectedDate,100)});
-$('#viewing-region').addEventListener('change',e=>{state.region=e.target.value;renderAll()});
+
 installInsights(()=>({...context(),lang:state.lang,translate:t,demo:Boolean(window.__HUB_DEMO__),setRegion:value=>{state.region=value;renderAll()}}));
 setInterval(()=>{if(status==='ready')renderAll()},60000);
 renderAll();loadContent();
