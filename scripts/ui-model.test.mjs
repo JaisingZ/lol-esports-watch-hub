@@ -12,6 +12,7 @@ const sources=[
   {id:'tw',language:'zh-TW',region:'TW',pageStatus:'verified',playbackStatus:'unverified'},
   {id:'en',language:'en',pageStatus:'verified',livePageStatus:'unverified',playbackStatus:'unverified'},
 ];
+for(const s of sources){s.platform='Twitch';s.url='https://www.twitch.tv/'+s.id;s.evidenceUrl='https://lolesports.com/en-US/';}
 const sourceMap=new Map(sources.map(source=>[source.id,source]));
 const matches=[
   {id:'a',teamIds:['alpha','beta'],stage:'swiss',scheduledDate:'2026-10-25',dateTimezone:'America/Chicago',datePrecision:'time',startAt:'2026-10-25T23:00:00Z'},
@@ -26,7 +27,7 @@ const videos=[
 const context={teams,sources,sourceMap,matches,videos,broadcasts,timeZone:'Asia/Shanghai',tbdLabels:['待定','待定','미정','未定','Chưa xác định','รอประกาศ','A definir']};
 
 const now=Date.parse('2026-10-26T00:00:00Z');
-for(const v of videos){v.platform='Test';v.originalVideoId=v.id;}
+for(const v of videos){v.platform='YouTube';v.originalVideoId=v.id;v.url='https://www.youtube.com/watch?v='+v.id;v.officialVodId=v.id;v.evidenceUrl='https://lolesports.com/en-US/';}
 const checks=[...videos.map(v=>({target:'Test:'+v.id,kind:'vod',region:'test',regionConfirmed:true,status:'passed',checkedAt:new Date(now).toISOString(),environment:{browser:'Test',network:'Test'},evidence:'Test fixture',samples:['start','middle','end'].map(position=>({position,advancedSeconds:20}))})),...['cn','tw'].map(id=>({target:id,kind:'live',region:'test',regionConfirmed:true,status:'passed',checkedAt:new Date(now).toISOString(),environment:{browser:'Test',network:'Test'},evidence:'Test fixture',samples:[{position:'live',advancedSeconds:20}]}))];
 Object.assign(baseFilters,{checks,region:'test',now});Object.assign(context,{checks,region:'test',now});
 
@@ -58,8 +59,8 @@ test('commentary and video-type filters select resources independently of interf
   assert.deepEqual(matchingVideos(videos,{...filters,lang:'zh-Hant'},sourceMap).map(video=>video.id),['v-cn']);
   assert.equal(matchingVideos(videos,{...filters,commentary:'zh-TW'},sourceMap,'all',context).length,0);
 });
-test('only regional playback evidence enables legacy metadata links',()=>{
-  assert.deepEqual(matchingVideos(videos,{...baseFilters,checks:[]},sourceMap),[]);
+test('official links remain visible without playback evidence or a region',()=>{
+  assert.deepEqual(matchingVideos(videos,{...baseFilters,checks:[],region:null},sourceMap).map(v=>v.id),['v-cn','v-tw']);
  const found=matchingVideos(videos,baseFilters,sourceMap);
   assert.deepEqual(found.map(video=>video.id),['v-cn','v-tw']);
   assert.equal(found[0].pageStatus,'unverified');
