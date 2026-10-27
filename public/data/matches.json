@@ -711,12 +711,12 @@
     "scheduledDate": "2026-10-26",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "live",
+    "status": "completed",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-26T22:38:18.254Z",
+    "verifiedAt": "2026-10-27T02:03:35.448Z",
     "scores": [
       0,
-      1
+      2
     ]
   },
   {
@@ -728,8 +728,8 @@
     "round": "Round 4",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "103461966965149786",
+      "98767991853197861"
     ],
     "startAt": "2026-10-28T20:00:00Z",
     "scheduledDate": "2026-10-28",
@@ -737,7 +737,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-27T02:03:35.448Z"
   },
   {
     "id": "official:115660540726095065",
@@ -748,8 +748,8 @@
     "round": "Round 4",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "99566405941863385",
+      "99566404848691211"
     ],
     "startAt": "2026-10-28T23:00:00Z",
     "scheduledDate": "2026-10-28",
@@ -757,27 +757,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
-  },
-  {
-    "id": "official:115660540726095069",
-    "tournamentId": "worlds",
-    "tournamentName": "Worlds",
-    "season": 2026,
-    "stage": "swiss",
-    "round": "Round 4",
-    "bestOf": 3,
-    "teamIds": [
-      null,
-      null
-    ],
-    "startAt": "2026-10-29T20:00:00Z",
-    "scheduledDate": "2026-10-29",
-    "dateTimezone": "America/Chicago",
-    "datePrecision": "time",
-    "status": "scheduled",
-    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-27T02:03:35.448Z"
   },
   {
     "id": "official:115660540726095073",
@@ -788,8 +768,28 @@
     "round": "Round 4",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "107700199633958891",
+      "111692118851466302"
+    ],
+    "startAt": "2026-10-29T20:00:00Z",
+    "scheduledDate": "2026-10-29",
+    "dateTimezone": "America/Chicago",
+    "datePrecision": "time",
+    "status": "scheduled",
+    "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
+    "verifiedAt": "2026-10-27T02:03:35.448Z"
+  },
+  {
+    "id": "official:115660540726095069",
+    "tournamentId": "worlds",
+    "tournamentName": "Worlds",
+    "season": 2026,
+    "stage": "swiss",
+    "round": "Round 4",
+    "bestOf": 3,
+    "teamIds": [
+      "99566404853854212",
+      "99566404854685458"
     ],
     "startAt": "2026-10-29T23:00:00Z",
     "scheduledDate": "2026-10-29",
@@ -797,7 +797,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-27T02:03:35.448Z"
   },
   {
     "id": "official:115660540726095077",
@@ -808,8 +808,8 @@
     "round": "Round 4",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "98926509885559666",
+      "109480204628225868"
     ],
     "startAt": "2026-10-30T20:00:00Z",
     "scheduledDate": "2026-10-30",
@@ -817,7 +817,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-27T02:03:35.448Z"
   },
   {
     "id": "official:115660540726095081",
@@ -828,8 +828,8 @@
     "round": "Round 4",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "98767991926151025",
+      "100205573496804586"
     ],
     "startAt": "2026-10-30T23:00:00Z",
     "scheduledDate": "2026-10-30",
@@ -837,7 +837,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-27T02:03:35.448Z"
   },
   {
     "id": "official:115660540726095085",
