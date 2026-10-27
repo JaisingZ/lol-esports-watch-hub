@@ -767,6 +767,22 @@
     "segmentEndSeconds": 6253
   },
   {
+    "id": "vod-1167847fefc28085",
+    "matchId": "official:115660540726095057",
+    "broadcastId": "worlds-2026-swiss-2026-10-26",
+    "sourceId": "youtube-vi",
+    "language": "vi",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 2,
+    "url": "https://www.youtube.com/watch?v=4AQi5t8A1xg",
+    "verifiedAt": "2026-10-27T14:28:07.976Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117511882733166103"
+  },
+  {
     "id": "vod-117ee0e7c7e7b4a3",
     "matchId": "official:115660588583171794",
     "broadcastId": "worlds-2026-playin-2026-10-16",
