@@ -37,6 +37,7 @@ jobs:
       # This job has no write credentials, commit step, Pages artifact or deploy job.
       - name: Collect candidate without publishing
         run: npm run sync:official
+      - run: npm run sync:schedule
       - run: npm run check
       - run: npm run build
       - name: Record review result
@@ -66,6 +67,7 @@ jobs:
         run: npx playwright install --with-deps chromium
       - name: Collect new completed game statistics
         run: npm run sync:stats
+      - run: npm run sync:schedule
       - name: Detect schedule or statistics changes
         id: detect
         run: |

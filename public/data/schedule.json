@@ -1,0 +1,537 @@
+{
+  "stages": [
+    {
+      "stage": "playin",
+      "rounds": [
+        {
+          "id": "upper_bracket_semifinals",
+          "name": "Upper Bracket - Semifinals"
+        },
+        {
+          "id": "upper_bracket_finals",
+          "name": "Upper Bracket - Finals"
+        },
+        {
+          "id": "lower_bracket_semifinals",
+          "name": "Lower Bracket - Semifinals"
+        },
+        {
+          "id": "lower_bracket_finals",
+          "name": "Lower Bracket - Finals"
+        },
+        {
+          "id": "finals",
+          "name": "Finals"
+        }
+      ],
+      "nodes": [
+        {
+          "matchId": "official:115660588583040710",
+          "structuralId": "match_2ab84e22ec",
+          "round": "upper_bracket_semifinals",
+          "roundName": "Upper Bracket - Semifinals",
+          "column": 0,
+          "record": null
+        },
+        {
+          "matchId": "official:115660588583171786",
+          "structuralId": "match_38cd3b9c40",
+          "round": "upper_bracket_semifinals",
+          "roundName": "Upper Bracket - Semifinals",
+          "column": 0,
+          "record": null
+        },
+        {
+          "matchId": "official:115660588583171790",
+          "structuralId": "match_86c8cf1a51",
+          "round": "upper_bracket_finals",
+          "roundName": "Upper Bracket - Finals",
+          "column": 1,
+          "record": null
+        },
+        {
+          "matchId": "official:115660588583171794",
+          "structuralId": "match_6de844aa4e",
+          "round": "lower_bracket_semifinals",
+          "roundName": "Lower Bracket - Semifinals",
+          "column": 2,
+          "record": null
+        },
+        {
+          "matchId": "official:115660588583171798",
+          "structuralId": "match_53ffac46c5",
+          "round": "lower_bracket_finals",
+          "roundName": "Lower Bracket - Finals",
+          "column": 3,
+          "record": null
+        },
+        {
+          "matchId": "official:116299649498303884",
+          "structuralId": "match_3cd454d66d",
+          "round": "finals",
+          "roundName": "Finals",
+          "column": 4,
+          "record": null
+        }
+      ],
+      "edges": [
+        {
+          "from": "official:115660588583040710",
+          "to": "official:115660588583171790",
+          "outcome": "win",
+          "slot": 1
+        },
+        {
+          "from": "official:115660588583040710",
+          "to": "official:115660588583171794",
+          "outcome": "loss",
+          "slot": 1
+        },
+        {
+          "from": "official:115660588583171786",
+          "to": "official:115660588583171790",
+          "outcome": "win",
+          "slot": 2
+        },
+        {
+          "from": "official:115660588583171786",
+          "to": "official:115660588583171794",
+          "outcome": "loss",
+          "slot": 2
+        },
+        {
+          "from": "official:115660588583171790",
+          "to": "official:116299649498303884",
+          "outcome": "win",
+          "slot": 1
+        },
+        {
+          "from": "official:115660588583171790",
+          "to": "official:115660588583171798",
+          "outcome": "loss",
+          "slot": 1
+        },
+        {
+          "from": "official:115660588583171794",
+          "to": "official:115660588583171798",
+          "outcome": "win",
+          "slot": 2
+        },
+        {
+          "from": "official:115660588583171798",
+          "to": "official:116299649498303884",
+          "outcome": "win",
+          "slot": 2
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570705"
+    },
+    {
+      "stage": "swiss",
+      "rounds": [
+        {
+          "id": "round_1",
+          "name": "Round 1"
+        },
+        {
+          "id": "round_2",
+          "name": "Round 2"
+        },
+        {
+          "id": "round_3",
+          "name": "Round 3"
+        },
+        {
+          "id": "round_4",
+          "name": "Round 4"
+        },
+        {
+          "id": "round_5",
+          "name": "Round 5"
+        }
+      ],
+      "nodes": [
+        {
+          "matchId": "official:115660540726095005",
+          "structuralId": "match_33c8561235",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095007",
+          "structuralId": "match_40ac5bfe83",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095009",
+          "structuralId": "match_7d6f37e0d5",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095011",
+          "structuralId": "match_80d2495664",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095013",
+          "structuralId": "match_0f02c1b47f",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095015",
+          "structuralId": "match_aa8ea815d6",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095017",
+          "structuralId": "match_59689a60e3",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095019",
+          "structuralId": "match_9b46e7ebca",
+          "round": "round_1",
+          "roundName": "Round 1",
+          "column": 0,
+          "record": "0-0"
+        },
+        {
+          "matchId": "official:115660540726095021",
+          "structuralId": "match_67fbcf22b0",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "1-0"
+        },
+        {
+          "matchId": "official:115660540726095023",
+          "structuralId": "match_af5c518390",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "1-0"
+        },
+        {
+          "matchId": "official:115660540726095025",
+          "structuralId": "match_89a4f1919e",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "1-0"
+        },
+        {
+          "matchId": "official:115660540726095027",
+          "structuralId": "match_4501d08847",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "1-0"
+        },
+        {
+          "matchId": "official:115660540726095029",
+          "structuralId": "match_6d00bd9247",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "0-1"
+        },
+        {
+          "matchId": "official:115660540726095031",
+          "structuralId": "match_2251e41abb",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "0-1"
+        },
+        {
+          "matchId": "official:115660540726095033",
+          "structuralId": "match_5337acbc57",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "0-1"
+        },
+        {
+          "matchId": "official:115660540726095035",
+          "structuralId": "match_8d4e4cb3fa",
+          "round": "round_2",
+          "roundName": "Round 2",
+          "column": 1,
+          "record": "0-1"
+        },
+        {
+          "matchId": "official:115660540726095037",
+          "structuralId": "match_ad6cabf436",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "2-0"
+        },
+        {
+          "matchId": "official:115660540726095041",
+          "structuralId": "match_91a940c888",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "2-0"
+        },
+        {
+          "matchId": "official:115660540726095045",
+          "structuralId": "match_c771c44f8f",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "1-1"
+        },
+        {
+          "matchId": "official:115660540726095047",
+          "structuralId": "match_b73e025eb3",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "1-1"
+        },
+        {
+          "matchId": "official:115660540726095049",
+          "structuralId": "match_58d387521b",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "1-1"
+        },
+        {
+          "matchId": "official:115660540726095051",
+          "structuralId": "match_87a12336bf",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "1-1"
+        },
+        {
+          "matchId": "official:115660540726095053",
+          "structuralId": "match_9a9dbc44ce",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "0-2"
+        },
+        {
+          "matchId": "official:115660540726095057",
+          "structuralId": "match_37664fed84",
+          "round": "round_3",
+          "roundName": "Round 3",
+          "column": 2,
+          "record": "0-2"
+        },
+        {
+          "matchId": "official:115660540726095061",
+          "structuralId": "match_799cbdf283",
+          "round": "round_4",
+          "roundName": "Round 4",
+          "column": 3,
+          "record": "2-1"
+        },
+        {
+          "matchId": "official:115660540726095065",
+          "structuralId": "match_6ae6de591c",
+          "round": "round_4",
+          "roundName": "Round 4",
+          "column": 3,
+          "record": "2-1"
+        },
+        {
+          "matchId": "official:115660540726095069",
+          "structuralId": "match_fc5b7491e7",
+          "round": "round_4",
+          "roundName": "Round 4",
+          "column": 3,
+          "record": "2-1"
+        },
+        {
+          "matchId": "official:115660540726095073",
+          "structuralId": "match_9fef79db96",
+          "round": "round_4",
+          "roundName": "Round 4",
+          "column": 3,
+          "record": "1-2"
+        },
+        {
+          "matchId": "official:115660540726095077",
+          "structuralId": "match_a1ffc30277",
+          "round": "round_4",
+          "roundName": "Round 4",
+          "column": 3,
+          "record": "1-2"
+        },
+        {
+          "matchId": "official:115660540726095081",
+          "structuralId": "match_486b05abda",
+          "round": "round_4",
+          "roundName": "Round 4",
+          "column": 3,
+          "record": "1-2"
+        },
+        {
+          "matchId": "official:115660540726095085",
+          "structuralId": "match_d7e6f7bd7d",
+          "round": "round_5",
+          "roundName": "Round 5",
+          "column": 4,
+          "record": "2-2"
+        },
+        {
+          "matchId": "official:115660540726095089",
+          "structuralId": "match_88e91a6d09",
+          "round": "round_5",
+          "roundName": "Round 5",
+          "column": 4,
+          "record": "2-2"
+        },
+        {
+          "matchId": "official:115660540726095093",
+          "structuralId": "match_23969be1c6",
+          "round": "round_5",
+          "roundName": "Round 5",
+          "column": 4,
+          "record": "2-2"
+        }
+      ],
+      "edges": [],
+      "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706"
+    },
+    {
+      "stage": "knockout",
+      "rounds": [
+        {
+          "id": "quarterfinals",
+          "name": "Quarterfinals"
+        },
+        {
+          "id": "semifinals",
+          "name": "Semifinals"
+        },
+        {
+          "id": "finals",
+          "name": "Finals"
+        }
+      ],
+      "nodes": [
+        {
+          "matchId": "official:115660540726095097",
+          "structuralId": "match_d6ae207aa0",
+          "round": "quarterfinals",
+          "roundName": "Quarterfinals",
+          "column": 0,
+          "record": null
+        },
+        {
+          "matchId": "official:115660540726095103",
+          "structuralId": "match_59ce50b18d",
+          "round": "quarterfinals",
+          "roundName": "Quarterfinals",
+          "column": 0,
+          "record": null
+        },
+        {
+          "matchId": "official:115660540726095109",
+          "structuralId": "match_0788bd4ef7",
+          "round": "quarterfinals",
+          "roundName": "Quarterfinals",
+          "column": 0,
+          "record": null
+        },
+        {
+          "matchId": "official:115660540726095115",
+          "structuralId": "match_4cf67dfc7f",
+          "round": "quarterfinals",
+          "roundName": "Quarterfinals",
+          "column": 0,
+          "record": null
+        },
+        {
+          "matchId": "official:115660540726095121",
+          "structuralId": "match_c09550107e",
+          "round": "semifinals",
+          "roundName": "Semifinals",
+          "column": 1,
+          "record": null
+        },
+        {
+          "matchId": "official:115660540726095127",
+          "structuralId": "match_c45c67b67c",
+          "round": "semifinals",
+          "roundName": "Semifinals",
+          "column": 1,
+          "record": null
+        },
+        {
+          "matchId": "official:115660540726095133",
+          "structuralId": "match_a3b14b2264",
+          "round": "finals",
+          "roundName": "Finals",
+          "column": 2,
+          "record": null
+        }
+      ],
+      "edges": [
+        {
+          "from": "official:115660540726095097",
+          "to": "official:115660540726095121",
+          "outcome": "win",
+          "slot": 1
+        },
+        {
+          "from": "official:115660540726095103",
+          "to": "official:115660540726095121",
+          "outcome": "win",
+          "slot": 2
+        },
+        {
+          "from": "official:115660540726095109",
+          "to": "official:115660540726095127",
+          "outcome": "win",
+          "slot": 1
+        },
+        {
+          "from": "official:115660540726095115",
+          "to": "official:115660540726095127",
+          "outcome": "win",
+          "slot": 2
+        },
+        {
+          "from": "official:115660540726095121",
+          "to": "official:115660540726095133",
+          "outcome": "win",
+          "slot": 1
+        },
+        {
+          "from": "official:115660540726095127",
+          "to": "official:115660540726095133",
+          "outcome": "win",
+          "slot": 2
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570707"
+    }
+  ]
+}

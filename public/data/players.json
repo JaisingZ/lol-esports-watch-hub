@@ -9,7 +9,8 @@
     "role": "TOP",
     "teamId": "99566404854685458",
     "teamName": "TOP ESPORTS",
-    "sourceUrl": "https://gol.gg/players/player-stats/1922/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1922/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1922.webp"
   },
   {
     "id": "gol:1269",
@@ -21,7 +22,8 @@
     "role": "JGL",
     "teamId": "99566404854685458",
     "teamName": "TOP ESPORTS",
-    "sourceUrl": "https://gol.gg/players/player-stats/1269/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1269/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1269.webp"
   },
   {
     "id": "gol:3906",
@@ -33,7 +35,8 @@
     "role": "MID",
     "teamId": "99566404854685458",
     "teamName": "TOP ESPORTS",
-    "sourceUrl": "https://gol.gg/players/player-stats/3906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3906.webp"
   },
   {
     "id": "gol:1267",
@@ -45,7 +48,8 @@
     "role": "BOT",
     "teamId": "99566404854685458",
     "teamName": "TOP ESPORTS",
-    "sourceUrl": "https://gol.gg/players/player-stats/1267/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1267/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1267.webp"
   },
   {
     "id": "gol:3352",
@@ -57,7 +61,8 @@
     "role": "SUP",
     "teamId": "99566404854685458",
     "teamName": "TOP ESPORTS",
-    "sourceUrl": "https://gol.gg/players/player-stats/3352/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3352/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3352.webp"
   },
   {
     "id": "gol:1310",
@@ -69,7 +74,8 @@
     "role": "TOP",
     "teamId": "98767991926151025",
     "teamName": "G2 Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/1310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1310.webp"
   },
   {
     "id": "gol:4946",
@@ -81,7 +87,8 @@
     "role": "JGL",
     "teamId": "98767991926151025",
     "teamName": "G2 Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/4946/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4946/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4946.webp"
   },
   {
     "id": "gol:802",
@@ -93,7 +100,8 @@
     "role": "MID",
     "teamId": "98767991926151025",
     "teamName": "G2 Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/802/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/802/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-802.webp"
   },
   {
     "id": "gol:732",
@@ -105,7 +113,8 @@
     "role": "BOT",
     "teamId": "98767991926151025",
     "teamName": "G2 Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/732/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/732/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-732.webp"
   },
   {
     "id": "gol:2887",
@@ -117,7 +126,8 @@
     "role": "SUP",
     "teamId": "98767991926151025",
     "teamName": "G2 Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/2887/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2887/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2887.webp"
   },
   {
     "id": "gol:1075",
@@ -129,7 +139,8 @@
     "role": "TOP",
     "teamId": "99566404848691211",
     "teamName": "Invictus Gaming",
-    "sourceUrl": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1075.webp"
   },
   {
     "id": "gol:388",
@@ -141,7 +152,8 @@
     "role": "JGL",
     "teamId": "99566404848691211",
     "teamName": "Invictus Gaming",
-    "sourceUrl": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-388.webp"
   },
   {
     "id": "gol:109",
@@ -154,7 +166,8 @@
     "role": "MID",
     "teamId": "99566404848691211",
     "teamName": "Invictus Gaming",
-    "sourceUrl": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-109.webp"
   },
   {
     "id": "gol:5939",
@@ -166,7 +179,8 @@
     "role": "BOT",
     "teamId": "99566404848691211",
     "teamName": "Invictus Gaming",
-    "sourceUrl": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5939.webp"
   },
   {
     "id": "gol:386",
@@ -179,7 +193,8 @@
     "role": "SUP",
     "teamId": "99566404848691211",
     "teamName": "Invictus Gaming",
-    "sourceUrl": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-386.webp"
   },
   {
     "id": "gol:3658",
@@ -191,7 +206,8 @@
     "role": "TOP",
     "teamId": "100205573496804586",
     "teamName": "Hanwha Life Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/3658/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3658/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3658.webp"
   },
   {
     "id": "gol:2360",
@@ -203,7 +219,8 @@
     "role": "JGL",
     "teamId": "100205573496804586",
     "teamName": "Hanwha Life Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/2360/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2360/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2360.webp"
   },
   {
     "id": "gol:2906",
@@ -215,7 +232,8 @@
     "role": "MID",
     "teamId": "100205573496804586",
     "teamName": "Hanwha Life Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/2906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2906/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2906.webp"
   },
   {
     "id": "gol:3247",
@@ -227,7 +245,8 @@
     "role": "BOT",
     "teamId": "100205573496804586",
     "teamName": "Hanwha Life Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/3247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3247.webp"
   },
   {
     "id": "gol:3411",
@@ -239,7 +258,8 @@
     "role": "SUP",
     "teamId": "100205573496804586",
     "teamName": "Hanwha Life Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/3411/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3411/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3411.webp"
   },
   {
     "id": "gol:2545",
@@ -251,7 +271,8 @@
     "role": "TOP",
     "teamId": "98926509885559666",
     "teamName": "Team Liquid Alienware",
-    "sourceUrl": "https://gol.gg/players/player-stats/2545/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2545/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2545.webp"
   },
   {
     "id": "gol:1364",
@@ -263,7 +284,8 @@
     "role": "JGL",
     "teamId": "98926509885559666",
     "teamName": "Team Liquid Alienware",
-    "sourceUrl": "https://gol.gg/players/player-stats/1364/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1364/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1364.webp"
   },
   {
     "id": "gol:4246",
@@ -275,7 +297,8 @@
     "role": "MID",
     "teamId": "98926509885559666",
     "teamName": "Team Liquid Alienware",
-    "sourceUrl": "https://gol.gg/players/player-stats/4246/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4246/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4246.webp"
   },
   {
     "id": "gol:3537",
@@ -287,7 +310,8 @@
     "role": "BOT",
     "teamId": "98926509885559666",
     "teamName": "Team Liquid Alienware",
-    "sourceUrl": "https://gol.gg/players/player-stats/3537/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3537/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3537.webp"
   },
   {
     "id": "gol:257",
@@ -299,7 +323,8 @@
     "role": "SUP",
     "teamId": "98926509885559666",
     "teamName": "Team Liquid Alienware",
-    "sourceUrl": "https://gol.gg/players/player-stats/257/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/257/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-257.webp"
   },
   {
     "id": "gol:2606",
@@ -311,7 +336,8 @@
     "role": "TOP",
     "teamId": "99566404853854212",
     "teamName": "BILIBILI GAMING",
-    "sourceUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2606.webp"
   },
   {
     "id": "gol:3330",
@@ -324,7 +350,8 @@
     "role": "JGL",
     "teamId": "99566404853854212",
     "teamName": "BILIBILI GAMING",
-    "sourceUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3330.webp"
   },
   {
     "id": "gol:1270",
@@ -336,7 +363,8 @@
     "role": "MID",
     "teamId": "99566404853854212",
     "teamName": "BILIBILI GAMING",
-    "sourceUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1270.webp"
   },
   {
     "id": "gol:1228",
@@ -348,7 +376,8 @@
     "role": "BOT",
     "teamId": "99566404853854212",
     "teamName": "BILIBILI GAMING",
-    "sourceUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1228.webp"
   },
   {
     "id": "gol:3353",
@@ -360,7 +389,8 @@
     "role": "SUP",
     "teamId": "99566404853854212",
     "teamName": "BILIBILI GAMING",
-    "sourceUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3353.webp"
   },
   {
     "id": "gol:5392",
@@ -372,7 +402,8 @@
     "role": "TOP",
     "teamId": "100725845018863243",
     "teamName": "Dplus KIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/5392/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5392/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5392.webp"
   },
   {
     "id": "gol:3895",
@@ -384,7 +415,8 @@
     "role": "JGL",
     "teamId": "100725845018863243",
     "teamName": "Dplus KIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/3895/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3895/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3895.webp"
   },
   {
     "id": "gol:1250",
@@ -396,7 +428,8 @@
     "role": "MID",
     "teamId": "100725845018863243",
     "teamName": "Dplus KIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/1250/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1250/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1250.webp"
   },
   {
     "id": "gol:4940",
@@ -408,7 +441,8 @@
     "role": "BOT",
     "teamId": "100725845018863243",
     "teamName": "Dplus KIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/4940/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4940/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4940.webp"
   },
   {
     "id": "gol:5204",
@@ -420,7 +454,8 @@
     "role": "SUP",
     "teamId": "100725845018863243",
     "teamName": "Dplus KIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/5204/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5204/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5204.webp"
   },
   {
     "id": "gol:1242",
@@ -432,7 +467,8 @@
     "role": "TOP",
     "teamId": "98767991853197861",
     "teamName": "T1",
-    "sourceUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1242.webp"
   },
   {
     "id": "gol:3741",
@@ -444,7 +480,8 @@
     "role": "JGL",
     "teamId": "98767991853197861",
     "teamName": "T1",
-    "sourceUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3741.webp"
   },
   {
     "id": "gol:48",
@@ -456,7 +493,8 @@
     "role": "MID",
     "teamId": "98767991853197861",
     "teamName": "T1",
-    "sourceUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-48.webp"
   },
   {
     "id": "gol:4247",
@@ -468,7 +506,8 @@
     "role": "BOT",
     "teamId": "98767991853197861",
     "teamName": "T1",
-    "sourceUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4247.webp"
   },
   {
     "id": "gol:1258",
@@ -480,7 +519,8 @@
     "role": "SUP",
     "teamId": "98767991853197861",
     "teamName": "T1",
-    "sourceUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1258.webp"
   },
   {
     "id": "gol:1115",
@@ -492,7 +532,8 @@
     "role": "TOP",
     "teamId": "100205573495116443",
     "teamName": "Gen.G Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1115.webp"
   },
   {
     "id": "gol:1909",
@@ -504,7 +545,8 @@
     "role": "JGL",
     "teamId": "100205573495116443",
     "teamName": "Gen.G Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1909.webp"
   },
   {
     "id": "gol:1629",
@@ -516,7 +558,8 @@
     "role": "MID",
     "teamId": "100205573495116443",
     "teamName": "Gen.G Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1629.webp"
   },
   {
     "id": "gol:685",
@@ -528,7 +571,8 @@
     "role": "BOT",
     "teamId": "100205573495116443",
     "teamName": "Gen.G Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-685.webp"
   },
   {
     "id": "gol:4259",
@@ -540,7 +584,8 @@
     "role": "SUP",
     "teamId": "100205573495116443",
     "teamName": "Gen.G Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4259.webp"
   },
   {
     "id": "gol:2799",
@@ -552,7 +597,8 @@
     "role": "TOP",
     "teamId": "113661839307879869",
     "teamName": "Team Secret Whales",
-    "sourceUrl": "https://gol.gg/players/player-stats/2799/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2799/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2799.webp"
   },
   {
     "id": "gol:5960",
@@ -564,7 +610,8 @@
     "role": "JGL",
     "teamId": "113661839307879869",
     "teamName": "Team Secret Whales",
-    "sourceUrl": "https://gol.gg/players/player-stats/5960/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5960/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5960.webp"
   },
   {
     "id": "gol:5961",
@@ -576,7 +623,8 @@
     "role": "MID",
     "teamId": "113661839307879869",
     "teamName": "Team Secret Whales",
-    "sourceUrl": "https://gol.gg/players/player-stats/5961/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5961/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5961.webp"
   },
   {
     "id": "gol:3245",
@@ -588,7 +636,8 @@
     "role": "BOT",
     "teamId": "113661839307879869",
     "teamName": "Team Secret Whales",
-    "sourceUrl": "https://gol.gg/players/player-stats/3245/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3245/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3245.webp"
   },
   {
     "id": "gol:1461",
@@ -600,7 +649,8 @@
     "role": "SUP",
     "teamId": "113661839307879869",
     "teamName": "Team Secret Whales",
-    "sourceUrl": "https://gol.gg/players/player-stats/1461/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1461/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1461.webp"
   },
   {
     "id": "gol:2671",
@@ -612,7 +662,8 @@
     "role": "TOP",
     "teamId": "111692118851466302",
     "teamName": "Karmine Corp",
-    "sourceUrl": "https://gol.gg/players/player-stats/2671/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2671/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2671.webp"
   },
   {
     "id": "gol:3406",
@@ -624,7 +675,8 @@
     "role": "JGL",
     "teamId": "111692118851466302",
     "teamName": "Karmine Corp",
-    "sourceUrl": "https://gol.gg/players/player-stats/3406/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3406/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3406.webp"
   },
   {
     "id": "gol:5264",
@@ -636,7 +688,8 @@
     "role": "MID",
     "teamId": "111692118851466302",
     "teamName": "Karmine Corp",
-    "sourceUrl": "https://gol.gg/players/player-stats/5264/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5264/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5264.webp"
   },
   {
     "id": "gol:4900",
@@ -648,7 +701,8 @@
     "role": "BOT",
     "teamId": "111692118851466302",
     "teamName": "Karmine Corp",
-    "sourceUrl": "https://gol.gg/players/player-stats/4900/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4900/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4900.webp"
   },
   {
     "id": "gol:4500",
@@ -660,7 +714,8 @@
     "role": "SUP",
     "teamId": "111692118851466302",
     "teamName": "Karmine Corp",
-    "sourceUrl": "https://gol.gg/players/player-stats/4500/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4500/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4500.webp"
   },
   {
     "id": "gol:1135",
@@ -672,7 +727,8 @@
     "role": "TOP",
     "teamId": "99566405941863385",
     "teamName": "LYON",
-    "sourceUrl": "https://gol.gg/players/player-stats/1135/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1135/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1135.webp"
   },
   {
     "id": "gol:1501",
@@ -684,7 +740,8 @@
     "role": "JGL",
     "teamId": "99566405941863385",
     "teamName": "LYON",
-    "sourceUrl": "https://gol.gg/players/player-stats/1501/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1501/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1501.webp"
   },
   {
     "id": "gol:5123",
@@ -696,7 +753,8 @@
     "role": "MID",
     "teamId": "99566405941863385",
     "teamName": "LYON",
-    "sourceUrl": "https://gol.gg/players/player-stats/5123/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5123/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5123.webp"
   },
   {
     "id": "gol:3322",
@@ -708,7 +766,8 @@
     "role": "BOT",
     "teamId": "99566405941863385",
     "teamName": "LYON",
-    "sourceUrl": "https://gol.gg/players/player-stats/3322/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3322/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3322.webp"
   },
   {
     "id": "gol:2358",
@@ -720,7 +779,8 @@
     "role": "SUP",
     "teamId": "99566405941863385",
     "teamName": "LYON",
-    "sourceUrl": "https://gol.gg/players/player-stats/2358/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2358/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2358.webp"
   },
   {
     "id": "gol:4244",
@@ -732,7 +792,8 @@
     "role": "TOP",
     "teamId": "109480204628225868",
     "teamName": "LOS",
-    "sourceUrl": "https://gol.gg/players/player-stats/4244/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4244/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4244.webp"
   },
   {
     "id": "gol:5274",
@@ -744,7 +805,8 @@
     "role": "JGL",
     "teamId": "109480204628225868",
     "teamName": "LOS",
-    "sourceUrl": "https://gol.gg/players/player-stats/5274/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5274/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5274.webp"
   },
   {
     "id": "gol:4234",
@@ -756,7 +818,8 @@
     "role": "MID",
     "teamId": "109480204628225868",
     "teamName": "LOS",
-    "sourceUrl": "https://gol.gg/players/player-stats/4234/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4234/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4234.webp"
   },
   {
     "id": "gol:5786",
@@ -768,7 +831,8 @@
     "role": "BOT",
     "teamId": "109480204628225868",
     "teamName": "LOS",
-    "sourceUrl": "https://gol.gg/players/player-stats/5786/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5786/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-5786.webp"
   },
   {
     "id": "gol:3640",
@@ -780,7 +844,8 @@
     "role": "SUP",
     "teamId": "109480204628225868",
     "teamName": "LOS",
-    "sourceUrl": "https://gol.gg/players/player-stats/3640/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3640/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3640.webp"
   },
   {
     "id": "gol:4310",
@@ -792,7 +857,8 @@
     "role": "TOP",
     "teamId": "103461966965149786",
     "teamName": "Movistar KOI",
-    "sourceUrl": "https://gol.gg/players/player-stats/4310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4310/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4310.webp"
   },
   {
     "id": "gol:2719",
@@ -804,7 +870,8 @@
     "role": "JGL",
     "teamId": "103461966965149786",
     "teamName": "Movistar KOI",
-    "sourceUrl": "https://gol.gg/players/player-stats/2719/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2719/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2719.webp"
   },
   {
     "id": "gol:3544",
@@ -817,7 +884,8 @@
     "role": "MID",
     "teamId": "103461966965149786",
     "teamName": "Movistar KOI",
-    "sourceUrl": "https://gol.gg/players/player-stats/3544/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3544/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3544.webp"
   },
   {
     "id": "gol:2717",
@@ -829,7 +897,8 @@
     "role": "BOT",
     "teamId": "103461966965149786",
     "teamName": "Movistar KOI",
-    "sourceUrl": "https://gol.gg/players/player-stats/2717/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2717/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2717.webp"
   },
   {
     "id": "gol:4634",
@@ -841,7 +910,8 @@
     "role": "SUP",
     "teamId": "103461966965149786",
     "teamName": "Movistar KOI",
-    "sourceUrl": "https://gol.gg/players/player-stats/4634/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4634/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4634.webp"
   },
   {
     "id": "gol:1172",
@@ -853,7 +923,8 @@
     "role": "TOP",
     "teamId": "107700199633958891",
     "teamName": "CTBC Flying Oyster",
-    "sourceUrl": "https://gol.gg/players/player-stats/1172/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1172/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1172.webp"
   },
   {
     "id": "gol:2588",
@@ -865,7 +936,8 @@
     "role": "JGL",
     "teamId": "107700199633958891",
     "teamName": "CTBC Flying Oyster",
-    "sourceUrl": "https://gol.gg/players/player-stats/2588/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2588/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2588.webp"
   },
   {
     "id": "gol:4251",
@@ -877,7 +949,8 @@
     "role": "MID",
     "teamId": "107700199633958891",
     "teamName": "CTBC Flying Oyster",
-    "sourceUrl": "https://gol.gg/players/player-stats/4251/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4251/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-4251.webp"
   },
   {
     "id": "gol:3737",
@@ -889,7 +962,8 @@
     "role": "BOT",
     "teamId": "107700199633958891",
     "teamName": "CTBC Flying Oyster",
-    "sourceUrl": "https://gol.gg/players/player-stats/3737/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3737/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3737.webp"
   },
   {
     "id": "gol:7011",
@@ -901,7 +975,8 @@
     "role": "SUP",
     "teamId": "107700199633958891",
     "teamName": "CTBC Flying Oyster",
-    "sourceUrl": "https://gol.gg/players/player-stats/7011/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/7011/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-7011.webp"
   },
   {
     "id": "gol:2348",
@@ -913,7 +988,8 @@
     "role": "TOP",
     "teamId": "99566404856367466",
     "teamName": "Anyone's Legend",
-    "sourceUrl": "https://gol.gg/players/player-stats/2348/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2348/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-2348.webp"
   },
   {
     "id": "gol:1226",
@@ -925,7 +1001,8 @@
     "role": "JGL",
     "teamId": "99566404856367466",
     "teamName": "Anyone's Legend",
-    "sourceUrl": "https://gol.gg/players/player-stats/1226/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1226/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1226.webp"
   },
   {
     "id": "gol:3344",
@@ -937,7 +1014,8 @@
     "role": "MID",
     "teamId": "99566404856367466",
     "teamName": "Anyone's Legend",
-    "sourceUrl": "https://gol.gg/players/player-stats/3344/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3344/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3344.webp"
   },
   {
     "id": "gol:1561",
@@ -949,7 +1027,8 @@
     "role": "BOT",
     "teamId": "99566404856367466",
     "teamName": "Anyone's Legend",
-    "sourceUrl": "https://gol.gg/players/player-stats/1561/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1561/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-1561.webp"
   },
   {
     "id": "gol:3323",
@@ -961,7 +1040,8 @@
     "role": "SUP",
     "teamId": "99566404856367466",
     "teamName": "Anyone's Legend",
-    "sourceUrl": "https://gol.gg/players/player-stats/3323/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3323/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/",
+    "portrait": "portraits/gol-3323.webp"
   },
   {
     "id": "gol:5169",
@@ -973,7 +1053,8 @@
     "role": "TOP",
     "teamId": "107251245690956393",
     "teamName": "MVK Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/5169/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5169/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-5169.webp"
   },
   {
     "id": "gol:5156",
@@ -985,7 +1066,8 @@
     "role": "JGL",
     "teamId": "107251245690956393",
     "teamName": "MVK Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/5156/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5156/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-5156.webp"
   },
   {
     "id": "gol:6420",
@@ -997,7 +1079,8 @@
     "role": "MID",
     "teamId": "107251245690956393",
     "teamName": "MVK Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/6420/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/6420/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-6420.webp"
   },
   {
     "id": "gol:5166",
@@ -1009,7 +1092,8 @@
     "role": "BOT",
     "teamId": "107251245690956393",
     "teamName": "MVK Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/5166/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5166/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-5166.webp"
   },
   {
     "id": "gol:5913",
@@ -1021,7 +1105,8 @@
     "role": "SUP",
     "teamId": "107251245690956393",
     "teamName": "MVK Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/5913/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/5913/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-5913.webp"
   },
   {
     "id": "gol:3116",
@@ -1033,7 +1118,8 @@
     "role": "TOP",
     "teamId": "100205576309502431",
     "teamName": "FURIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/3116/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3116/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-3116.webp"
   },
   {
     "id": "gol:4776",
@@ -1045,7 +1131,8 @@
     "role": "JGL",
     "teamId": "100205576309502431",
     "teamName": "FURIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/4776/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4776/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-4776.webp"
   },
   {
     "id": "gol:2709",
@@ -1057,7 +1144,8 @@
     "role": "MID",
     "teamId": "100205576309502431",
     "teamName": "FURIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/2709/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2709/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-2709.webp"
   },
   {
     "id": "gol:4976",
@@ -1069,7 +1157,8 @@
     "role": "BOT",
     "teamId": "100205576309502431",
     "teamName": "FURIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/4976/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4976/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-4976.webp"
   },
   {
     "id": "gol:2329",
@@ -1081,7 +1170,8 @@
     "role": "SUP",
     "teamId": "100205576309502431",
     "teamName": "FURIA",
-    "sourceUrl": "https://gol.gg/players/player-stats/2329/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/2329/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-2329.webp"
   },
   {
     "id": "gol:6419",
@@ -1093,7 +1183,8 @@
     "role": "JGL",
     "teamId": "107251245690956393",
     "teamName": "MVK Esports",
-    "sourceUrl": "https://gol.gg/players/player-stats/6419/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/6419/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-6419.webp"
   },
   {
     "id": "gol:3434",
@@ -1105,7 +1196,8 @@
     "role": "TOP",
     "teamId": "98767991877340524",
     "teamName": "Cloud9 Kia",
-    "sourceUrl": "https://gol.gg/players/player-stats/3434/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/3434/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-3434.webp"
   },
   {
     "id": "gol:1634",
@@ -1117,7 +1209,8 @@
     "role": "JGL",
     "teamId": "98767991877340524",
     "teamName": "Cloud9 Kia",
-    "sourceUrl": "https://gol.gg/players/player-stats/1634/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1634/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-1634.webp"
   },
   {
     "id": "gol:4861",
@@ -1129,7 +1222,8 @@
     "role": "MID",
     "teamId": "98767991877340524",
     "teamName": "Cloud9 Kia",
-    "sourceUrl": "https://gol.gg/players/player-stats/4861/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/4861/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-4861.webp"
   },
   {
     "id": "gol:1979",
@@ -1141,7 +1235,8 @@
     "role": "BOT",
     "teamId": "98767991877340524",
     "teamName": "Cloud9 Kia",
-    "sourceUrl": "https://gol.gg/players/player-stats/1979/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1979/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-1979.webp"
   },
   {
     "id": "gol:1301",
@@ -1153,6 +1248,7 @@
     "role": "SUP",
     "teamId": "98767991877340524",
     "teamName": "Cloud9 Kia",
-    "sourceUrl": "https://gol.gg/players/player-stats/1301/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/"
+    "sourceUrl": "https://gol.gg/players/player-stats/1301/season-ALL/split-ALL/tournament-Worlds%202026%20Play-In/champion-ALL/",
+    "portrait": "portraits/gol-1301.webp"
   }
 ]
