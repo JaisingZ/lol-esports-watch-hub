@@ -37,8 +37,7 @@ function videoLink(video){
   const label=video.isSegment?([video.gameNumber?t('gameNumber',{number:video.gameNumber}):'',t('locateGame')].filter(Boolean).join(' · ')):video.type==='singleGame'?t('gameNumber',{number:video.gameNumber||''}):t(video.type);
   const wrapper=node('div','video-entry'),element=external(video.url,'','video-link');
   element.append(svg('play-icon'),node('span','',label),node('span','platform',sourceMap.get(video.sourceId)?.platform||''),svg('arrow-icon'));
-  const pageKey=video.pageStatus==='verified'?'pageVerified':video.pageStatus==='restricted'?'sourceRestricted':'pageUnverified';
-  const details=node('details','verification');details.append(node('summary','',it('source')),node('p','',t(pageKey)+' · '+it(verifiedVideo(video,context())?'verified':'playbackPending')));wrapper.append(element,details);
+  wrapper.append(element);
   return wrapper;
 }
 function fillSelect(id,entries,value){$(id).replaceChildren(...entries.map(([key,label])=>option(key,label)));$(id).value=value}
@@ -94,7 +93,6 @@ function videoDetail(videos){
     const links=node('div','video-links');
     for(const video of [...items].sort((a,b)=>(a.gameNumber||0)-(b.gameNumber||0)))links.append(videoLink(video));
     group.append(links);
-    if(items.some(video=>video.isSegment))group.append(node('p','verification',t('segmentDescription')));
     fragment.append(group);
   }
   return fragment;
@@ -108,9 +106,9 @@ function createMatch(match,index){
   const chevron=svg('chevron-icon');chevron.classList.add('expand-chevron');summary.append(info,duel,resources,chevron);card.append(summary);
   const detail=node('div','match-detail');detail.id='match-detail-'+index;detail.hidden=!expanded;
   if(resource.videos.length)detail.append(videoDetail(resource.videos));else detail.append(node('p','detail-pending',(state.commentary==='all'?'':audioName(state.commentary)+' · ')+t('pendingDescription')));
-  if(resource.liveEntries.length){const live=node('section','detail-live');live.append(node('h4','detail-heading',t('liveEntries')));const links=node('div','video-links');resource.liveEntries.forEach(source=>links.append(liveLink(source)));live.append(links,node('p','verification',t('channelOnlyNote')));detail.append(live)}
-  const detailLink=node('a','match-data-link',it('details')+' ↗');detailLink.href='#match/'+encodeURIComponent(match.id);card.append(detailLink);
-  const source=node('div','detail-source');source.append(external(match.sourceUrl,t('matchSource')+' ↗'),node('span','',t('updated',{date:formatTimestamp(match.verifiedAt)})));if(match.datePrecision==='day')source.append(node('span','',t('dateOnly',{zone:match.dateTimezone})));detail.append(source);card.append(detail);
+  if(resource.liveEntries.length){const live=node('section','detail-live');live.append(node('h4','detail-heading',t('liveEntries')));const links=node('div','video-links');resource.liveEntries.forEach(source=>links.append(liveLink(source)));live.append(links);detail.append(live)}
+  const detailLink=node('a','match-data-link',it('details')+' ↗');detailLink.href='#match/'+encodeURIComponent(match.id)+'?view=analysis';card.append(detailLink);
+  const source=node('div','detail-source');source.append(external(match.sourceUrl,t('matchSource')+' ↗'),node('span','',t('updated',{date:formatTimestamp(match.verifiedAt)})));if(match.datePrecision==='day')source.append(node('span','',t('dateOnly',{zone:match.dateTimezone})));card.append(detail);
   summary.addEventListener('click',()=>{const next=!state.expanded.has(match.id);if(next)state.expanded.add(match.id);else state.expanded.delete(match.id);summary.setAttribute('aria-expanded',String(next));summary.title=t(next?'collapseMatch':'expandMatch');detail.hidden=!next});return card;
 }
 function renderMatches(){

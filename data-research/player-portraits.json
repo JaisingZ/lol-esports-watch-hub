@@ -1,0 +1,962 @@
+{
+  "gol:2709": {
+    "path": "portraits/gol-2709.webp",
+    "name": "Tutsz",
+    "teamId": "100205576309502431",
+    "sourceUrl": "https://lolesports.com/en-US/teams/furia",
+    "imageUrl": "https://static.lolesports.com/players/1785137538274_FUR_Tutsz-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4976": {
+    "path": "portraits/gol-4976.webp",
+    "name": "Ayu",
+    "teamId": "100205576309502431",
+    "sourceUrl": "https://lolesports.com/en-US/teams/furia",
+    "imageUrl": "https://static.lolesports.com/players/1785137510622_FUR_Ayu-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4776": {
+    "path": "portraits/gol-4776.webp",
+    "name": "Tatu",
+    "teamId": "100205576309502431",
+    "sourceUrl": "https://lolesports.com/en-US/teams/furia",
+    "imageUrl": "https://static.lolesports.com/players/1785137528696_FUR_Tatu-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3116": {
+    "path": "portraits/gol-3116.webp",
+    "name": "Guigo",
+    "teamId": "100205576309502431",
+    "sourceUrl": "https://lolesports.com/en-US/teams/furia",
+    "imageUrl": "https://static.lolesports.com/players/1785137517154_FUR_Guigo-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2329": {
+    "path": "portraits/gol-2329.webp",
+    "name": "JoJo",
+    "teamId": "100205576309502431",
+    "sourceUrl": "https://lolesports.com/en-US/teams/furia",
+    "imageUrl": "https://static.lolesports.com/players/1785137522978_FUR_Jojo-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:6419": {
+    "path": "portraits/gol-6419.webp",
+    "name": "SanSan",
+    "teamId": "107251245690956393",
+    "sourceUrl": "https://lolesports.com/en-US/teams/saigon-buffalo-esports",
+    "imageUrl": "https://static.lolesports.com/players/1785926056081_SanSan.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5169": {
+    "path": "portraits/gol-5169.webp",
+    "name": "Kratos",
+    "teamId": "107251245690956393",
+    "sourceUrl": "https://lolesports.com/en-US/teams/saigon-buffalo-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769231608754_Kratos.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5156": {
+    "path": "portraits/gol-5156.webp",
+    "name": "Gury",
+    "teamId": "107251245690956393",
+    "sourceUrl": "https://lolesports.com/en-US/teams/saigon-buffalo-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769231815740_Gury.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5166": {
+    "path": "portraits/gol-5166.webp",
+    "name": "Harky",
+    "teamId": "107251245690956393",
+    "sourceUrl": "https://lolesports.com/en-US/teams/saigon-buffalo-esports",
+    "imageUrl": "https://static.lolesports.com/players/1775222116165_Harky.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5913": {
+    "path": "portraits/gol-5913.webp",
+    "name": "SiuLoong",
+    "teamId": "107251245690956393",
+    "sourceUrl": "https://lolesports.com/en-US/teams/saigon-buffalo-esports",
+    "imageUrl": "https://static.lolesports.com/players/1775222126505_SiuLoong.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:6420": {
+    "path": "portraits/gol-6420.webp",
+    "name": "Chika",
+    "teamId": "107251245690956393",
+    "sourceUrl": "https://lolesports.com/en-US/teams/saigon-buffalo-esports",
+    "imageUrl": "https://static.lolesports.com/players/1775222135365_Chika.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1634": {
+    "path": "portraits/gol-1634.webp",
+    "name": "Blaber",
+    "teamId": "98767991877340524",
+    "sourceUrl": "https://lolesports.com/en-US/teams/cloud9",
+    "imageUrl": "https://static.lolesports.com/players/1769149391904_AME_LCS26S1_C9_BLABER.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3434": {
+    "path": "portraits/gol-3434.webp",
+    "name": "Thanatos",
+    "teamId": "98767991877340524",
+    "sourceUrl": "https://lolesports.com/en-US/teams/cloud9",
+    "imageUrl": "https://static.lolesports.com/players/1769149468221_AME_LCS26S1_C9_THANATOS.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1301": {
+    "path": "portraits/gol-1301.webp",
+    "name": "Vulcan",
+    "teamId": "98767991877340524",
+    "sourceUrl": "https://lolesports.com/en-US/teams/cloud9",
+    "imageUrl": "https://static.lolesports.com/players/1769149513772_AME_LCS26S1_C9_VULCAN.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4861": {
+    "path": "portraits/gol-4861.webp",
+    "name": "Loki",
+    "teamId": "98767991877340524",
+    "sourceUrl": "https://lolesports.com/en-US/teams/cloud9",
+    "imageUrl": "https://static.lolesports.com/players/1790204959636_loki.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1979": {
+    "path": "portraits/gol-1979.webp",
+    "name": "Tactical",
+    "teamId": "98767991877340524",
+    "sourceUrl": "https://lolesports.com/en-US/teams/cloud9",
+    "imageUrl": "https://static.lolesports.com/players/1790204905338_tac.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3406": {
+    "path": "portraits/gol-3406.webp",
+    "name": "Yike",
+    "teamId": "111692118851466302",
+    "sourceUrl": "https://lolesports.com/en-US/teams/karmine-corp",
+    "imageUrl": "https://static.lolesports.com/players/1768550195190_Yike-01.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4900": {
+    "path": "portraits/gol-4900.webp",
+    "name": "Caliste",
+    "teamId": "111692118851466302",
+    "sourceUrl": "https://lolesports.com/en-US/teams/karmine-corp",
+    "imageUrl": "https://static.lolesports.com/players/1774651348279_caliste.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2671": {
+    "path": "portraits/gol-2671.webp",
+    "name": "Canna",
+    "teamId": "111692118851466302",
+    "sourceUrl": "https://lolesports.com/en-US/teams/karmine-corp",
+    "imageUrl": "https://static.lolesports.com/players/1774651372836_canna.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5264": {
+    "path": "portraits/gol-5264.webp",
+    "name": "kyeahoo",
+    "teamId": "111692118851466302",
+    "sourceUrl": "https://lolesports.com/en-US/teams/karmine-corp",
+    "imageUrl": "https://static.lolesports.com/players/1774652002153_kyeahoo.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4500": {
+    "path": "portraits/gol-4500.webp",
+    "name": "Busio",
+    "teamId": "111692118851466302",
+    "sourceUrl": "https://lolesports.com/en-US/teams/karmine-corp",
+    "imageUrl": "https://static.lolesports.com/players/1774651329556_busio.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1629": {
+    "path": "portraits/gol-1629.webp",
+    "name": "Chovy",
+    "teamId": "100205573495116443",
+    "sourceUrl": "https://lolesports.com/en-US/teams/geng",
+    "imageUrl": "https://static.lolesports.com/players/1778842975847_LCK_GEN_Chovy_F.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:685": {
+    "path": "portraits/gol-685.webp",
+    "name": "Ruler",
+    "teamId": "100205573495116443",
+    "sourceUrl": "https://lolesports.com/en-US/teams/geng",
+    "imageUrl": "https://static.lolesports.com/players/1778842957393_LCK_GEN_Ruler_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4259": {
+    "path": "portraits/gol-4259.webp",
+    "name": "Duro",
+    "teamId": "100205573495116443",
+    "sourceUrl": "https://lolesports.com/en-US/teams/geng",
+    "imageUrl": "https://static.lolesports.com/players/1778842969792_LCK_GEN_Duro_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1115": {
+    "path": "portraits/gol-1115.webp",
+    "name": "Kiin",
+    "teamId": "100205573495116443",
+    "sourceUrl": "https://lolesports.com/en-US/teams/geng",
+    "imageUrl": "https://static.lolesports.com/players/1778842963805_LCK_GEN_Kiin_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1909": {
+    "path": "portraits/gol-1909.webp",
+    "name": "Canyon",
+    "teamId": "100205573495116443",
+    "sourceUrl": "https://lolesports.com/en-US/teams/geng",
+    "imageUrl": "https://static.lolesports.com/players/1778842984822_LCK_GEN_Canyon_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5939": {
+    "path": "portraits/gol-5939.webp",
+    "name": "JiaQi",
+    "teamId": "99566404848691211",
+    "sourceUrl": "https://lolesports.com/en-US/teams/invictus-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1775225631369_jiaqi.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:388": {
+    "path": "portraits/gol-388.webp",
+    "name": "Wei",
+    "teamId": "99566404848691211",
+    "sourceUrl": "https://lolesports.com/en-US/teams/invictus-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1775225991291_wei.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1075": {
+    "path": "portraits/gol-1075.webp",
+    "name": "TheShy",
+    "teamId": "99566404848691211",
+    "sourceUrl": "https://lolesports.com/en-US/teams/invictus-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1753279025857_image628.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:109": {
+    "path": "portraits/gol-109.webp",
+    "name": "Rookie",
+    "teamId": "99566404848691211",
+    "sourceUrl": "https://lolesports.com/en-US/teams/invictus-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1775225799612_rookie.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:386": {
+    "path": "portraits/gol-386.webp",
+    "name": "Meiko",
+    "teamId": "99566404848691211",
+    "sourceUrl": "https://lolesports.com/en-US/teams/invictus-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1775225723214_meiko.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4246": {
+    "path": "portraits/gol-4246.webp",
+    "name": "Quid",
+    "teamId": "98926509885559666",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-liquid",
+    "imageUrl": "https://static.lolesports.com/players/1769150548420_AME_LCS26S1_TL_QUID.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1364": {
+    "path": "portraits/gol-1364.webp",
+    "name": "Josedeodo",
+    "teamId": "98926509885559666",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-liquid",
+    "imageUrl": "https://static.lolesports.com/players/1769150518581_AME_LCS26S1_TL_JOSEDEODO.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2545": {
+    "path": "portraits/gol-2545.webp",
+    "name": "Morgan",
+    "teamId": "98926509885559666",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-liquid",
+    "imageUrl": "https://static.lolesports.com/players/1769752562927_morgan.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:257": {
+    "path": "portraits/gol-257.webp",
+    "name": "CoreJJ",
+    "teamId": "98926509885559666",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-liquid",
+    "imageUrl": "https://static.lolesports.com/players/1769150483053_AME_LCS26S1_TL_COREJJ.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3537": {
+    "path": "portraits/gol-3537.webp",
+    "name": "Yeon",
+    "teamId": "98926509885559666",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-liquid",
+    "imageUrl": "https://static.lolesports.com/players/1769150607307_AME_LCS26S1_TL_YEON.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1172": {
+    "path": "portraits/gol-1172.webp",
+    "name": "Rest",
+    "teamId": "107700199633958891",
+    "sourceUrl": "https://lolesports.com/en-US/teams/ctbc-flying-oyster",
+    "imageUrl": "https://static.lolesports.com/players/1769232185565_Rest.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3737": {
+    "path": "portraits/gol-3737.webp",
+    "name": "Doggo",
+    "teamId": "107700199633958891",
+    "sourceUrl": "https://lolesports.com/en-US/teams/ctbc-flying-oyster",
+    "imageUrl": "https://static.lolesports.com/players/1769232306480_Doggo.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:7011": {
+    "path": "portraits/gol-7011.webp",
+    "name": "Kino",
+    "teamId": "107700199633958891",
+    "sourceUrl": "https://lolesports.com/en-US/teams/ctbc-flying-oyster",
+    "imageUrl": "https://static.lolesports.com/players/1785926061333_Kino.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4251": {
+    "path": "portraits/gol-4251.webp",
+    "name": "POUT",
+    "teamId": "107700199633958891",
+    "sourceUrl": "https://lolesports.com/en-US/teams/ctbc-flying-oyster",
+    "imageUrl": "https://static.lolesports.com/players/1785926070523_POUT.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2588": {
+    "path": "portraits/gol-2588.webp",
+    "name": "Shad0w",
+    "teamId": "107700199633958891",
+    "sourceUrl": "https://lolesports.com/en-US/teams/ctbc-flying-oyster",
+    "imageUrl": "https://static.lolesports.com/players/1769232218550_Shad0w.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3344": {
+    "path": "portraits/gol-3344.webp",
+    "name": "Shanks",
+    "teamId": "99566404856367466",
+    "sourceUrl": "https://lolesports.com/en-US/teams/anyones-legend",
+    "imageUrl": "https://static.lolesports.com/players/1768349057032_shanks.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1561": {
+    "path": "portraits/gol-1561.webp",
+    "name": "Hope",
+    "teamId": "99566404856367466",
+    "sourceUrl": "https://lolesports.com/en-US/teams/anyones-legend",
+    "imageUrl": "https://static.lolesports.com/players/1768348315588_hope.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3323": {
+    "path": "portraits/gol-3323.webp",
+    "name": "Kael",
+    "teamId": "99566404856367466",
+    "sourceUrl": "https://lolesports.com/en-US/teams/anyones-legend",
+    "imageUrl": "https://static.lolesports.com/players/1768348497910_kael.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2348": {
+    "path": "portraits/gol-2348.webp",
+    "name": "Breathe",
+    "teamId": "99566404856367466",
+    "sourceUrl": "https://lolesports.com/en-US/teams/anyones-legend",
+    "imageUrl": "https://static.lolesports.com/players/1775225499864_breathe.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1226": {
+    "path": "portraits/gol-1226.webp",
+    "name": "Tarzan",
+    "teamId": "99566404856367466",
+    "sourceUrl": "https://lolesports.com/en-US/teams/anyones-legend",
+    "imageUrl": "https://static.lolesports.com/players/1768349186102_tarzan.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:732": {
+    "path": "portraits/gol-732.webp",
+    "name": "Hans Sama",
+    "teamId": "98767991926151025",
+    "sourceUrl": "https://lolesports.com/en-US/teams/g2-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768549994123_HansSama-01.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1310": {
+    "path": "portraits/gol-1310.webp",
+    "name": "BrokenBlade",
+    "teamId": "98767991926151025",
+    "sourceUrl": "https://lolesports.com/en-US/teams/g2-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768550002850_BrokenBlade-01.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:802": {
+    "path": "portraits/gol-802.webp",
+    "name": "Caps",
+    "teamId": "98767991926151025",
+    "sourceUrl": "https://lolesports.com/en-US/teams/g2-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768549998426_Caps-01.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4946": {
+    "path": "portraits/gol-4946.webp",
+    "name": "SkewMond",
+    "teamId": "98767991926151025",
+    "sourceUrl": "https://lolesports.com/en-US/teams/g2-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768549980779_Skewmond-01.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2887": {
+    "path": "portraits/gol-2887.webp",
+    "name": "Labrov",
+    "teamId": "98767991926151025",
+    "sourceUrl": "https://lolesports.com/en-US/teams/g2-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768549989298_Labrov-01.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1250": {
+    "path": "portraits/gol-1250.webp",
+    "name": "ShowMaker",
+    "teamId": "100725845018863243",
+    "sourceUrl": "https://lolesports.com/en-US/teams/dwg-kia",
+    "imageUrl": "https://static.lolesports.com/players/1778842721951_LCK_DK_Showmaker_F.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4940": {
+    "path": "portraits/gol-4940.webp",
+    "name": "Smash",
+    "teamId": "100725845018863243",
+    "sourceUrl": "https://lolesports.com/en-US/teams/dwg-kia",
+    "imageUrl": "https://static.lolesports.com/players/1778842749985_LCK_DK_Smash_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5204": {
+    "path": "portraits/gol-5204.webp",
+    "name": "Career",
+    "teamId": "100725845018863243",
+    "sourceUrl": "https://lolesports.com/en-US/teams/dwg-kia",
+    "imageUrl": "https://static.lolesports.com/players/1778842708132_LCK_DK_Career_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5392": {
+    "path": "portraits/gol-5392.webp",
+    "name": "Siwoo",
+    "teamId": "100725845018863243",
+    "sourceUrl": "https://lolesports.com/en-US/teams/dwg-kia",
+    "imageUrl": "https://static.lolesports.com/players/1778842731846_LCK_DK_Siwoo_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3895": {
+    "path": "portraits/gol-3895.webp",
+    "name": "Lucid",
+    "teamId": "100725845018863243",
+    "sourceUrl": "https://lolesports.com/en-US/teams/dwg-kia",
+    "imageUrl": "https://static.lolesports.com/players/1778842716183_LCK_DK_Lucid_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3411": {
+    "path": "portraits/gol-3411.webp",
+    "name": "Delight",
+    "teamId": "100205573496804586",
+    "sourceUrl": "https://lolesports.com/en-US/teams/hanwha-life-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769089417110_LCK_HLE_Delight_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2360": {
+    "path": "portraits/gol-2360.webp",
+    "name": "Kanavi",
+    "teamId": "100205573496804586",
+    "sourceUrl": "https://lolesports.com/en-US/teams/hanwha-life-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769089425886_LCK_HLE_Kanavi_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3247": {
+    "path": "portraits/gol-3247.webp",
+    "name": "Gumayusi",
+    "teamId": "100205573496804586",
+    "sourceUrl": "https://lolesports.com/en-US/teams/hanwha-life-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769089421483_LCK_HLE_Gumayusi_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2906": {
+    "path": "portraits/gol-2906.webp",
+    "name": "Zeka",
+    "teamId": "100205573496804586",
+    "sourceUrl": "https://lolesports.com/en-US/teams/hanwha-life-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769089430303_LCK_HLE_Zeka_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3658": {
+    "path": "portraits/gol-3658.webp",
+    "name": "Zeus",
+    "teamId": "100205573496804586",
+    "sourceUrl": "https://lolesports.com/en-US/teams/hanwha-life-esports",
+    "imageUrl": "https://static.lolesports.com/players/1769089435131_LCK_HLE_Zeus_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1269": {
+    "path": "portraits/gol-1269.webp",
+    "name": "Tian",
+    "teamId": "99566404854685458",
+    "sourceUrl": "https://lolesports.com/en-US/teams/top-esports",
+    "imageUrl": "https://static.lolesports.com/players/1775225951328_tian.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3352": {
+    "path": "portraits/gol-3352.webp",
+    "name": "Zhuo",
+    "teamId": "99566404854685458",
+    "sourceUrl": "https://lolesports.com/en-US/teams/top-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768349462733_zhuo.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1267": {
+    "path": "portraits/gol-1267.webp",
+    "name": "JackeyLove",
+    "teamId": "99566404854685458",
+    "sourceUrl": "https://lolesports.com/en-US/teams/top-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768348354504_jackeylove.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1922": {
+    "path": "portraits/gol-1922.webp",
+    "name": "369",
+    "teamId": "99566404854685458",
+    "sourceUrl": "https://lolesports.com/en-US/teams/top-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768347704727_369.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3906": {
+    "path": "portraits/gol-3906.webp",
+    "name": "Creme",
+    "teamId": "99566404854685458",
+    "sourceUrl": "https://lolesports.com/en-US/teams/top-esports",
+    "imageUrl": "https://static.lolesports.com/players/1768347880178_creme.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5274": {
+    "path": "portraits/gol-5274.webp",
+    "name": "Curse",
+    "teamId": "109480204628225868",
+    "sourceUrl": "https://lolesports.com/en-US/teams/los",
+    "imageUrl": "https://static.lolesports.com/players/1785139911386_LOS_Curse-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4244": {
+    "path": "portraits/gol-4244.webp",
+    "name": "Zest",
+    "teamId": "109480204628225868",
+    "sourceUrl": "https://lolesports.com/en-US/teams/los",
+    "imageUrl": "https://static.lolesports.com/players/1785139905307_LOS_Zest-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4234": {
+    "path": "portraits/gol-4234.webp",
+    "name": "Feisty",
+    "teamId": "109480204628225868",
+    "sourceUrl": "https://lolesports.com/en-US/teams/los",
+    "imageUrl": "https://static.lolesports.com/players/1785139916710_LOS_Feisty-5copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5786": {
+    "path": "portraits/gol-5786.webp",
+    "name": "Duduhh",
+    "teamId": "109480204628225868",
+    "sourceUrl": "https://lolesports.com/en-US/teams/los",
+    "imageUrl": "https://static.lolesports.com/players/1785139922550_LOS_Duduhh-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3640": {
+    "path": "portraits/gol-3640.webp",
+    "name": "Ackerman",
+    "teamId": "109480204628225868",
+    "sourceUrl": "https://lolesports.com/en-US/teams/los",
+    "imageUrl": "https://static.lolesports.com/players/1785139928559_LOS_Ackerman-1copy.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1242": {
+    "path": "portraits/gol-1242.webp",
+    "name": "Doran",
+    "teamId": "98767991853197861",
+    "sourceUrl": "https://lolesports.com/en-US/teams/t1",
+    "imageUrl": "https://static.lolesports.com/players/1769087520664_LCK_T1_Doran_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:48": {
+    "path": "portraits/gol-48.webp",
+    "name": "Faker",
+    "teamId": "98767991853197861",
+    "sourceUrl": "https://lolesports.com/en-US/teams/t1",
+    "imageUrl": "https://static.lolesports.com/players/1769087499078_LCK_T1_Faker_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3741": {
+    "path": "portraits/gol-3741.webp",
+    "name": "Oner",
+    "teamId": "98767991853197861",
+    "sourceUrl": "https://lolesports.com/en-US/teams/t1",
+    "imageUrl": "https://static.lolesports.com/players/1769087509929_LCK_T1_Oner_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1258": {
+    "path": "portraits/gol-1258.webp",
+    "name": "Keria",
+    "teamId": "98767991853197861",
+    "sourceUrl": "https://lolesports.com/en-US/teams/t1",
+    "imageUrl": "https://static.lolesports.com/players/1769087515444_LCK_T1_Keria_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4247": {
+    "path": "portraits/gol-4247.webp",
+    "name": "Peyz",
+    "teamId": "98767991853197861",
+    "sourceUrl": "https://lolesports.com/en-US/teams/t1",
+    "imageUrl": "https://static.lolesports.com/players/1769087491906_LCK_T1_Peyz_F.PNG",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5961": {
+    "path": "portraits/gol-5961.webp",
+    "name": "Dire",
+    "teamId": "113661839307879869",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-secret-whales",
+    "imageUrl": "https://static.lolesports.com/players/1775221979037_Dire.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3245": {
+    "path": "portraits/gol-3245.webp",
+    "name": "Eddie",
+    "teamId": "113661839307879869",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-secret-whales",
+    "imageUrl": "https://static.lolesports.com/players/1775221984176_Eddie.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5960": {
+    "path": "portraits/gol-5960.webp",
+    "name": "Hizto",
+    "teamId": "113661839307879869",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-secret-whales",
+    "imageUrl": "https://static.lolesports.com/players/1775221973791_Hizto.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1461": {
+    "path": "portraits/gol-1461.webp",
+    "name": "Bie",
+    "teamId": "113661839307879869",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-secret-whales",
+    "imageUrl": "https://static.lolesports.com/players/1775221988811_Bie.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2799": {
+    "path": "portraits/gol-2799.webp",
+    "name": "Pun",
+    "teamId": "113661839307879869",
+    "sourceUrl": "https://lolesports.com/en-US/teams/team-secret-whales",
+    "imageUrl": "https://static.lolesports.com/players/1775221968161_Pun.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1135": {
+    "path": "portraits/gol-1135.webp",
+    "name": "Dhokla",
+    "teamId": "99566405941863385",
+    "sourceUrl": "https://lolesports.com/en-US/teams/lyon-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1769150098659_AME_LCS26S1_LYON_DHOKLA.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1501": {
+    "path": "portraits/gol-1501.webp",
+    "name": "Inspired",
+    "teamId": "99566405941863385",
+    "sourceUrl": "https://lolesports.com/en-US/teams/lyon-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1769150137024_AME_LCS26S1_LYON_INSPIRED.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3322": {
+    "path": "portraits/gol-3322.webp",
+    "name": "Berserker",
+    "teamId": "99566405941863385",
+    "sourceUrl": "https://lolesports.com/en-US/teams/lyon-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1769752644164_berserker.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2358": {
+    "path": "portraits/gol-2358.webp",
+    "name": "Isles",
+    "teamId": "99566405941863385",
+    "sourceUrl": "https://lolesports.com/en-US/teams/lyon-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1769150180651_AME_LCS26S1_LYON_ISLES.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:5123": {
+    "path": "portraits/gol-5123.webp",
+    "name": "Saint",
+    "teamId": "99566405941863385",
+    "sourceUrl": "https://lolesports.com/en-US/teams/lyon-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1769150214608_AME_LCS26S1_LYON_SAINT.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1228": {
+    "path": "portraits/gol-1228.webp",
+    "name": "Viper",
+    "teamId": "99566404853854212",
+    "sourceUrl": "https://lolesports.com/en-US/teams/bilibili-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1768349250531_viper.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2606": {
+    "path": "portraits/gol-2606.webp",
+    "name": "Bin",
+    "teamId": "99566404853854212",
+    "sourceUrl": "https://lolesports.com/en-US/teams/bilibili-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1768347827679_bin.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:1270": {
+    "path": "portraits/gol-1270.webp",
+    "name": "Knight",
+    "teamId": "99566404853854212",
+    "sourceUrl": "https://lolesports.com/en-US/teams/bilibili-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1768348559860_knight.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3353": {
+    "path": "portraits/gol-3353.webp",
+    "name": "ON",
+    "teamId": "99566404853854212",
+    "sourceUrl": "https://lolesports.com/en-US/teams/bilibili-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1768348897219_on.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3330": {
+    "path": "portraits/gol-3330.webp",
+    "name": "Xun",
+    "teamId": "99566404853854212",
+    "sourceUrl": "https://lolesports.com/en-US/teams/bilibili-gaming",
+    "imageUrl": "https://static.lolesports.com/players/1768349380095_xun.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2719": {
+    "path": "portraits/gol-2719.webp",
+    "name": "Elyoya",
+    "teamId": "103461966965149786",
+    "sourceUrl": "https://lolesports.com/en-US/teams/mad-lions",
+    "imageUrl": "https://static.lolesports.com/players/1774651428253_elyoya.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:3544": {
+    "path": "portraits/gol-3544.webp",
+    "name": "Jojopyun",
+    "teamId": "103461966965149786",
+    "sourceUrl": "https://lolesports.com/en-US/teams/mad-lions",
+    "imageUrl": "https://static.lolesports.com/players/1774651666226_jojopyun.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4310": {
+    "path": "portraits/gol-4310.webp",
+    "name": "Myrwn",
+    "teamId": "103461966965149786",
+    "sourceUrl": "https://lolesports.com/en-US/teams/mad-lions",
+    "imageUrl": "https://static.lolesports.com/players/1774652336923_myrwn.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:2717": {
+    "path": "portraits/gol-2717.webp",
+    "name": "Supa",
+    "teamId": "103461966965149786",
+    "sourceUrl": "https://lolesports.com/en-US/teams/mad-lions",
+    "imageUrl": "https://static.lolesports.com/players/1774652617630_supa.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  },
+  "gol:4634": {
+    "path": "portraits/gol-4634.webp",
+    "name": "Alvaro",
+    "teamId": "103461966965149786",
+    "sourceUrl": "https://lolesports.com/en-US/teams/mad-lions",
+    "imageUrl": "https://static.lolesports.com/players/1774651304778_alvaro.png",
+    "photoYear": null,
+    "checkedAt": "2026-10-28",
+    "identity": "Official team roster and exact player alias"
+  }
+}
