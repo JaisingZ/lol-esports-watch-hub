@@ -4263,6 +4263,22 @@
     "segmentEndSeconds": 6087
   },
   {
+    "id": "vod-a1a006c5e8e1ee22",
+    "matchId": "official:115660540726095061",
+    "broadcastId": "worlds-2026-swiss-2026-10-28",
+    "sourceId": "youtube-vi",
+    "language": "vi",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 1,
+    "url": "https://www.youtube.com/watch?v=QXIvQuaeSPI",
+    "verifiedAt": "2026-10-28T23:12:36.736Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117520799823199236"
+  },
+  {
     "id": "vod-a21dedb01522b82c",
     "matchId": "official:115660540726095031",
     "broadcastId": "worlds-2026-swiss-2026-10-24",
@@ -5018,6 +5034,25 @@
     "segmentEndSeconds": 14930
   },
   {
+    "id": "vod-c3ee839aaa0f6d5f",
+    "matchId": "official:115660540726095061",
+    "broadcastId": "worlds-2026-swiss-2026-10-28",
+    "sourceId": "youtube-en",
+    "language": "en",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 1,
+    "url": "https://www.youtube.com/watch?v=qjfQ0J0jKJo&t=139s",
+    "verifiedAt": "2026-10-28T23:12:36.736Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117520799823199237",
+    "isSegment": true,
+    "segmentStartSeconds": 139,
+    "segmentEndSeconds": 2960
+  },
+  {
     "id": "vod-c48f715ede485714",
     "matchId": "official:115660540726095041",
     "broadcastId": "worlds-2026-swiss-2026-10-25",
@@ -5576,6 +5611,22 @@
     "segmentEndSeconds": 12091
   },
   {
+    "id": "vod-d8a14b3298666280",
+    "matchId": "official:115660540726095061",
+    "broadcastId": "worlds-2026-swiss-2026-10-28",
+    "sourceId": "youtube-vi",
+    "language": "vi",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 2,
+    "url": "https://www.youtube.com/watch?v=fmo0H_gloPI",
+    "verifiedAt": "2026-10-28T23:12:36.736Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117520896984004211"
+  },
+  {
     "id": "vod-d94570c771b8edcf",
     "matchId": "official:115660540726095007",
     "broadcastId": "worlds-2026-swiss-2026-10-23",
@@ -5983,6 +6034,25 @@
     "isSegment": true,
     "segmentStartSeconds": 22648,
     "segmentEndSeconds": 24398
+  },
+  {
+    "id": "vod-e6028439e012b0e0",
+    "matchId": "official:115660540726095061",
+    "broadcastId": "worlds-2026-swiss-2026-10-28",
+    "sourceId": "youtube-en",
+    "language": "en",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 2,
+    "url": "https://www.youtube.com/watch?v=qjfQ0J0jKJo&t=3047s",
+    "verifiedAt": "2026-10-28T23:12:36.736Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117520799870005530",
+    "isSegment": true,
+    "segmentStartSeconds": 3047,
+    "segmentEndSeconds": 5031
   },
   {
     "id": "vod-e69e30ebfc4c092e",
