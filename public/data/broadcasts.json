@@ -205,7 +205,7 @@
     "dateTimezone": "America/Chicago",
     "stage": "swiss",
     "startAt": "2026-10-30T20:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "sourceIds": [
       "bilibili-zh-CN",
       "youtube-en",
@@ -217,7 +217,7 @@
       "youtube-zh-TW"
     ],
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-30T20:45:52.806Z"
   },
   {
     "id": "worlds-2026-swiss-2026-10-31",
