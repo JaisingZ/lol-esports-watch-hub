@@ -263,21 +263,6 @@
     "officialVodId": "117448089421937803"
   },
   {
-    "id": "day-220ab3fb8c1af7a6",
-    "matchId": null,
-    "broadcastId": "worlds-2026-swiss-2026-10-29",
-    "sourceId": "youtube-vi",
-    "language": "vi",
-    "platform": "YouTube",
-    "type": "dayReplay",
-    "url": "https://www.youtube.com/watch?v=Re8VITm600Y",
-    "verifiedAt": "2026-10-30T01:56:55.218Z",
-    "pageStatus": "unverified",
-    "playbackStatus": "unverified",
-    "evidenceUrl": "https://lolesports.com/en-US/",
-    "officialVodId": "117527221085571211"
-  },
-  {
     "id": "day-260045f7c5101999",
     "matchId": null,
     "broadcastId": "worlds-2026-swiss-2026-10-25",
@@ -1635,6 +1620,22 @@
     "isSegment": true,
     "segmentStartSeconds": 10296,
     "segmentEndSeconds": 13158
+  },
+  {
+    "id": "vod-25579c38ce27a94d",
+    "matchId": "official:115660540726095069",
+    "broadcastId": "worlds-2026-swiss-2026-10-29",
+    "sourceId": "youtube-vi",
+    "language": "vi",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 3,
+    "url": "https://www.youtube.com/watch?v=UI8eUTH9m6w",
+    "verifiedAt": "2026-10-30T15:55:08.228Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117527253395487354"
   },
   {
     "id": "vod-2646f1b22bfe7970",
@@ -7671,25 +7672,6 @@
     "isSegment": true,
     "segmentStartSeconds": 2904,
     "segmentEndSeconds": 5506
-  },
-  {
-    "id": "vod-f55ab5bb1a480b4f",
-    "matchId": "official:115660540726095069",
-    "broadcastId": "worlds-2026-swiss-2026-10-29",
-    "sourceId": "youtube-vi",
-    "language": "vi",
-    "platform": "YouTube",
-    "type": "singleGame",
-    "gameNumber": 3,
-    "url": "https://www.youtube.com/watch?v=Re8VITm600Y&t=17876s",
-    "verifiedAt": "2026-10-30T01:56:55.218Z",
-    "pageStatus": "unverified",
-    "playbackStatus": "unverified",
-    "evidenceUrl": "https://lolesports.com/en-US/",
-    "officialVodId": "117527253395487354",
-    "isSegment": true,
-    "segmentStartSeconds": 17876,
-    "segmentEndSeconds": 19726
   },
   {
     "id": "vod-f5d928a04ea59997",
