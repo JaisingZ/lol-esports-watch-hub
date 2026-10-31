@@ -872,8 +872,8 @@
     "round": "Round 5",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "103461966965149786",
+      "111692118851466302"
     ],
     "startAt": "2026-10-31T17:00:00Z",
     "scheduledDate": "2026-10-31",
@@ -881,7 +881,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-31T06:58:20.296Z"
   },
   {
     "id": "official:115660540726095089",
@@ -892,8 +892,8 @@
     "round": "Round 5",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "109480204628225868",
+      "99566405941863385"
     ],
     "startAt": "2026-10-31T20:00:00Z",
     "scheduledDate": "2026-10-31",
@@ -901,7 +901,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-31T06:58:20.296Z"
   },
   {
     "id": "official:115660540726095093",
@@ -912,8 +912,8 @@
     "round": "Round 5",
     "bestOf": 3,
     "teamIds": [
-      null,
-      null
+      "100205573496804586",
+      "99566404853854212"
     ],
     "startAt": "2026-10-31T23:00:00Z",
     "scheduledDate": "2026-10-31",
@@ -921,7 +921,7 @@
     "datePrecision": "time",
     "status": "scheduled",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-10-25T22:49:50.527Z"
+    "verifiedAt": "2026-10-31T06:58:20.296Z"
   },
   {
     "id": "official:115660540726095097",
