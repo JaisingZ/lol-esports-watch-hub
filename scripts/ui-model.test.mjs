@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   displayDate, nearestDate, commentaryKey, matchingVideos, liveEntriesForMatch,
-  filterMatches, matchResources, matchLocale,
+  filterMatches, matchResources, matchLocale, parseShareQuery, buildShareUrl,
 } from '../src/model.js';
 
 const baseFilters={search:'',stage:'all',date:'all',commentary:'all',type:'all',availability:'all'};
@@ -87,4 +87,26 @@ test('TBD opponents do not crash search and are discoverable without inventing a
   assert.deepEqual(filterMatches(matches,{...baseFilters,search:'待定'},context).map(match=>match.id),['b']);
   assert.deepEqual(filterMatches(matches,{...baseFilters,search:'Team Beta'},context).map(match=>match.id),['a','b']);
   assert.equal(filterMatches(matches,{...baseFilters,search:'Not a real team'},context).length,0);
+});
+test('share query accepts language, stage and date without treating campaign tags as filters',()=>{
+  assert.deepEqual(parseShareQuery('?lang=KO&stage=Swiss&date=2026-10-26&utm_source=x&utm_medium=social&commentary=en'),{lang:'ko',stage:'swiss',date:'2026-10-26'});
+  assert.deepEqual(parseShareQuery('?lang=nope&stage=groups&date=today'),{date:'today'});
+  assert.deepEqual(parseShareQuery('?date=2026-02-31'),{});
+  assert.deepEqual(parseShareQuery('?date=all'),{date:'all'});
+});
+test('share links keep the selected slate and add X campaign tags',()=>{
+  const day=new URL(buildShareUrl('https://jaisingz.github.io/lol-esports-watch-hub/',{lang:'zh-Hans',stage:'playin',date:'2026-10-15',today:false}));
+  assert.equal(day.origin+day.pathname,'https://jaisingz.github.io/lol-esports-watch-hub/');
+  assert.equal(day.searchParams.get('lang'),'zh-Hans');
+  assert.equal(day.searchParams.get('stage'),'playin');
+  assert.equal(day.searchParams.get('date'),'2026-10-15');
+  assert.equal(day.searchParams.get('utm_source'),'x');
+  assert.equal(day.searchParams.get('utm_medium'),'social');
+  assert.equal(day.hash,'');
+  const today=new URL(buildShareUrl('https://jaisingz.github.io/lol-esports-watch-hub/',{lang:'en',stage:'all',date:'2026-10-31',today:true}));
+  assert.equal(today.searchParams.get('date'),'today');
+  assert.equal(today.searchParams.get('stage'),null);
+  const allDates=new URL(buildShareUrl('https://jaisingz.github.io/lol-esports-watch-hub/',{lang:'en',stage:'all',date:'all',today:false},{utm:false}));
+  assert.equal(allDates.searchParams.get('date'),'all');
+  assert.equal(allDates.searchParams.get('utm_source'),null);
 });

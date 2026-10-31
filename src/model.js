@@ -59,3 +59,28 @@ export function filterMatches(matches,filters,context={}){
       (!filters.availability||filters.availability==='all'||matchResources(match,filters,context).kind===filters.availability);
   });
 }
+function isShareDay(value){
+  return /^\d{4}-\d{2}-\d{2}$/.test(value)&&Number.isFinite(Date.parse(value+'T00:00:00Z'))&&new Date(value+'T00:00:00Z').toISOString().slice(0,10)===value;
+}
+export function parseShareQuery(search){
+  const params=new URLSearchParams(String(search||'').replace(/^\?/,''));
+  const result={};
+  const lang=languageMeta.find(([code])=>code.toLowerCase()===String(params.get('lang')||'').toLowerCase())?.[0];
+  if(lang)result.lang=lang;
+  const stageValue=String(params.get('stage')||'').toLowerCase();
+  if(stageValue==='all'||stages.includes(stageValue))result.stage=stageValue;
+  const date=params.get('date');
+  if(date==='all'||date==='today'||isShareDay(date))result.date=date;
+  return result;
+}
+export function buildShareUrl(pageUrl,{lang,stage,date,today=false}={}, {utm=true}={}){
+  const url=new URL(pageUrl);
+  url.hash='';
+  url.search='';
+  if(lang)url.searchParams.set('lang',lang);
+  if(stage&&stage!=='all')url.searchParams.set('stage',stage);
+  if(today)url.searchParams.set('date','today');
+  else if(date)url.searchParams.set('date',date);
+  if(utm){url.searchParams.set('utm_source','x');url.searchParams.set('utm_medium','social')}
+  return url.toString();
+}
