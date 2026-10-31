@@ -2,7 +2,9 @@ import './styles.css';
 import './insights.css';
 import './english.css';
 import {legacyPath,viewQuery} from './search-routes.js';
+import {shareMatch} from './share.js';
 const root=document.querySelector('[data-page-type]');
+document.querySelector('[data-share]')?.addEventListener('click',e=>shareMatch(e.currentTarget,{id:root.dataset.entityId,query:location.search}));
 const zone=Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC';
 for(const el of document.querySelectorAll('[data-local-time]')){
  const parts=new Intl.DateTimeFormat('en-CA',{timeZone:zone,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date(el.dateTime));

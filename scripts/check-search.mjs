@@ -8,6 +8,7 @@ for(const p of manifest){
  const html=await readFile('dist/'+p.path.slice(BASE.length)+'index.html','utf8');
  assert.ok(html.includes(`<link rel="canonical" href="${ORIGIN+p.path}">`));
  assert.match(html,/<h1>[^<]+<\/h1>/);
+ const share=html.match(/property="og:image" content="https:\/\/jaisingz.github.io([^\"]+)"/);assert.ok(share,'Missing OG image');await access('dist/'+share[1].slice(BASE.length));
  assert.ok(!html.includes('<!--SEARCH_'));
  for(const [,raw]of html.matchAll(/(?:href|src)="([^"#]+)"/g)){
   const value=raw.replaceAll('&amp;','&');if(!value.startsWith(BASE))continue;
@@ -17,4 +18,6 @@ for(const p of manifest){
  }
  assert.equal(html.includes('name="robots" content="noindex,follow"'),!p.indexable);
 }
+const sitemap=await readFile('dist/sitemap.xml','utf8');
+for(const p of manifest)assert.equal(sitemap.includes('<loc>'+ORIGIN+p.path+'</loc>'),p.indexable);
 console.log(`Checked canonical paths, HTML and local resources for ${manifest.length} pages.`);
