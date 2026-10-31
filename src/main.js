@@ -5,10 +5,12 @@ import insightWords from './insights-locales.json';
 import messages from './locales.json';
 import { languageMeta, stages, matchLocale, displayDate, nearestDate, commentaryKey, matchingVideos, matchResources, filterMatches } from './model.js';
 import './styles.css';
+import {installSearchCompatibility} from './search-compat.js';
 
 const $=selector=>document.querySelector(selector);
 const preferenceKey='lol-esports-watch-hub.ui-language';
 let preference;try{preference=localStorage.getItem(preferenceKey)}catch{}
+const requestedLanguage=new URLSearchParams(location.search).get('lang');if(Object.hasOwn(messages,requestedLanguage))preference=requestedLanguage;
 const state={lang:Object.hasOwn(messages,preference)?preference:(navigator.languages||[navigator.language]).map(matchLocale).find(Boolean)||'en',stage:'all',date:null,search:'',commentary:'all',type:'all',availability:'all',showScores:true,region:null,liveLanguage:null,expanded:new Set()};
 const timeZone=Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC';
 let content={teams:[],sources:[],matches:[],videos:[],broadcasts:[],checks:[],regions:[],meta:{}},status='loading',loading=false;
@@ -146,5 +148,6 @@ for(const [id,direction]of [['date-previous',-1],['date-next',1]])$('#'+id).addE
 let resizeTimer;window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(scrollSelectedDate,100)});
 
 installInsights(()=>({...context(),lang:state.lang,translate:t,demo:Boolean(window.__HUB_DEMO__),setRegion:value=>{state.region=value;renderAll()}}));
+if(!window.__HUB_DEMO__)installSearchCompatibility(()=>state.lang);
 setInterval(()=>{if(status==='ready')renderAll()},60000);
 renderAll();loadContent();

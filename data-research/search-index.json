@@ -1,0 +1,654 @@
+{
+  "/lol-esports-watch-hub/en/worlds/2026/": {
+    "hash": "04444636f137463b2143f2a7013ba4b4ed87f15035ef386c926d31dc58594385",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/schedule/": {
+    "hash": "2476d439642b50075de4b05962f4b8f6f58314a83f4c85ee9aaad07521799818",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353838353833313731373836/": {
+    "hash": "b8d3b96e315b2c81ca470ea3bdfa590089e1fabab5b82fa4f7a0974f866843a3",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353838353833303430373130/": {
+    "hash": "158ae025cdfbe1d7547e58e3cf3495dc1af96c666aa3212a6e3e595e2aa3ea7b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353838353833313731373930/": {
+    "hash": "cd79137cbb8c17932b4c865cc72166102af54f0f8dfecdb33c0fea64dae34ba4",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353838353833313731373934/": {
+    "hash": "aa4d6db7ffcbe1bdbe3201e75e24945138746381987958a1e3f4e7c45eb233b5",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353838353833313731373938/": {
+    "hash": "0ffb79166df2e3bf44ee6797f8d585f3bdb13e4cda4daaf40bfbc94f3ff93d07",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313136323939363439343938333033383834/": {
+    "hash": "a8aad332485178dfa4e03d02188e626c92a29988f9ef2ebdc623aceafa15a4d8",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303035/": {
+    "hash": "a9ef9b1e0f95cb9cd8dfb2424b2c112493965bed1c30a1f79181d9c37335ac85",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303133/": {
+    "hash": "7bf4d405c9fbeaafacdbf7d61d6fe8dac79e3396248287fb85f4eb91f2fda323",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303139/": {
+    "hash": "470dac660129c9d126b6e9a6ff7ec842115cdfcd3f5ddadf49b9f19c52c56404",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303039/": {
+    "hash": "2ee74214adb9f3b32e42e54f6324dbdf35c8fe6b91ad0eadabcd51926fd7f375",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303131/": {
+    "hash": "2d2b0e7513f3712c5e76160ee4ef629b3eb8d395e2dc88bf629a2c99cb658a0b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303037/": {
+    "hash": "8a67de26a91ceb53eb5cee46b4c29ef083ec8b852a7d459958f07612065aaecc",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303135/": {
+    "hash": "1832f17fa96e62451a609333dac3b0e0cff662680ecce3eab8ff6d34f3361bfc",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303137/": {
+    "hash": "bc4da0a4268b849eb3d236936f677d68a8c7c1f3cf4defd75005ee8c3f621f62",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303239/": {
+    "hash": "395a293852c7488c2cb1f9cc8135e153cd07ea5f99917c42e4260c9d930dc1e7",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303231/": {
+    "hash": "5881f5242281841529d1ba456f59ac1d6b0ce70a62bb9cbe271e3d23cc1a52ca",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303331/": {
+    "hash": "5c8245858bfc93e3ef42f1fd7a1f5286c823a53f3afe95be7e89c0666dbbad66",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303233/": {
+    "hash": "2c9da6d164045a0203792eb2503d7b78b9483273f3de51ff2ce4ee56c3005e1c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303333/": {
+    "hash": "580c0e383581d2ed1e4c192a08d5faffecb253282e2e02e448b07784936d6a1b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303235/": {
+    "hash": "d1bf6effea0b22e6a1d689458026c1bcb85425053564f2c5a690b73f9d7126d6",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303237/": {
+    "hash": "0b0c9897bfe4fd1bf5b6200caa27e0ea9616084ac382c00651dca62000de903a",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303335/": {
+    "hash": "23e6536942d7e7d6357eb740758f470f9ec4cc67f60b7bbb8ca8a6b26307afb0",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303435/": {
+    "hash": "bd3d570c02ca7cc3d6dd190e35f83dcae8123797d1a3d04aca32da206b6b4750",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303437/": {
+    "hash": "d35f4a25093207174ee1dbdd7bfab1fdc3c5872c88160e0b69b5699874090634",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303337/": {
+    "hash": "d07336ca4ed658c2de8bae5ca128558c21dd27eaa7aaa436151046c489421de7",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303431/": {
+    "hash": "b496dc1598664a7eba166cd7bf9bb840d73d762cc4a0ad81fd09823110af17b0",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303439/": {
+    "hash": "94ea4d973118e294dbfe9badc3f24f9cce8ef71c573285760b3ce7b1bf10fb96",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303531/": {
+    "hash": "11eb7eb63f957a23c975f9c86912ae08827f6ac8ae1b840bce03d711483ce354",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303533/": {
+    "hash": "64caf523a9f818087a408d4c33621ba7bcb0b1709299321b015084a6f3ff66f4",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303537/": {
+    "hash": "7d9cb12e0fe858536839f228de9667421ece1860f188297ae9377f1a9f9eaa14",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303631/": {
+    "hash": "951af5cf87e7323b2f16418c68d0a933e13a04f1624297eda2fbf3a1bfab63c3",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303635/": {
+    "hash": "793b3dfa4edf86e1bdf7d91aa0fda039b85ccd0dd5c7c7d6d1114e3ea32b0b8e",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303733/": {
+    "hash": "7c7d5f26fbb525a1f0a3ff900544e38606c90e2c5058b561ec9f14233a557fab",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303639/": {
+    "hash": "c160471a025ca359c05bac24914af470b7448302c0898fcff287c7e2a122acd2",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303737/": {
+    "hash": "23fc9342001eb535c9ea8f7b77e916777050b0b754c3a7c42100b6f82fb1dda1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303831/": {
+    "hash": "37c0d844bb235c24267a3980c3b6fbfef91292379cbd4808a2f2ecf116ec94c4",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303835/": {
+    "hash": "41b4217926caf0457a6b34e6ee204e518209d393c83295e11fa8d8a00664568c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303839/": {
+    "hash": "695cfba5c25562aaaef6dda026f31f6c8d508e3093d0776c7c6d984043e18d22",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303933/": {
+    "hash": "c1f883631923d76bce532e4c26860a59f6640c7827805b9c4aa60d6b73c5be33",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935303937/": {
+    "hash": "d1f8da7e4cc02008234ee41a8eb1014c86b3a7d45a0476815ab278c98bc44ab6",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935313033/": {
+    "hash": "91bd3ad1ad5f93b868cefc011d43e37425f155bc3d25db53b75bf0954859fa1a",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935313039/": {
+    "hash": "baccd13bde8c290baaf82ba6a39d508301d1cb53a81411b7077af80c0d4ba6c5",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935313135/": {
+    "hash": "9b8e60406d29e5f524e38970bd1675bf713c6736fdee5dd71ded6fe8a4bc9429",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935313231/": {
+    "hash": "156b25adc64e0e8251310e001ba889ad636c400c3b6dfb5e921e9716c48d87d2",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935313237/": {
+    "hash": "8aa0130cb550c6ee3bc81a209fc8cf631f342a01556bfbacc9201ffe77137113",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/matches/id-6f6666696369616c3a313135363630353430373236303935313333/": {
+    "hash": "e2637683a476ec21f79ed57e02432bffb49287153de62553e150bbcdfca881f6",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3939353636343034383536333637343636/": {
+    "hash": "377c095aaae77544b3bba54742c9f160f8b393e46d7d90320a499811b0517152",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3939353636343034383533383534323132/": {
+    "hash": "f350a25aa686fa0d6fc8fa8ae3ba3b51fc430edeeadf5178885b03c77c389922",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3938373637393931383737333430353234/": {
+    "hash": "67f88a5790648f4b3596428bb43f35f7a566dcd2ce5a9c584a73a14d4553d953",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313037373030313939363333393538383931/": {
+    "hash": "103dc2837b18ff19e8547d74b7233d92ce52e7d55bf09b7cbb788661333f7300",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313030373235383435303138383633323433/": {
+    "hash": "9238497182a50b305a2834cbfdd4f3dd6b862abca198b75ef77b990e5ca6ce31",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313030323035353736333039353032343331/": {
+    "hash": "0f3e890e9be0c986b2c25fb8b64247f002d5242045b945ce1806fc7aaba4d929",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3938373637393931393236313531303235/": {
+    "hash": "f0bf7803670dc3d2836bec5e264744acfe3356e8f3220af23bbffb53ef92e8a1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313030323035353733343935313136343433/": {
+    "hash": "2624edf645741e04fd95c6983fb3d232b38dc35a8454f260157fcca688c8b9ee",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313030323035353733343936383034353836/": {
+    "hash": "904c26b72d9a4cb4ac3eef4f44f77eee6950bb81a6c8c2d51459a4ba3f2e7dc2",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3939353636343034383438363931323131/": {
+    "hash": "eb84b9491fa4dfd5a717695fe479669a5ca5c7b75c107686ef9bac32a6437a6c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313131363932313138383531343636333032/": {
+    "hash": "86533fb572394e7ebf73dd9e282706c45af89b066bd769203e84359a1fb4427f",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313039343830323034363238323235383638/": {
+    "hash": "5e3e3d5ae4b9be7b870bbd9db245d199339f857b42d77b36fedd9171a67121fa",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3939353636343035393431383633333835/": {
+    "hash": "89e0d811b13daad5df32fd7431c52a2c71a6b4c8a51f5173cb19fc20b8c9ebfe",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313033343631393636393635313439373836/": {
+    "hash": "65b94624b7607110b4684f9ab178b0fb529c24e549283cd7b67ad9925432bac1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313037323531323435363930393536333933/": {
+    "hash": "c731bc62db5e8661daa56241fce6096de933dd0f426efc0cbfc90a31b1923f67",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3938373637393931383533313937383631/": {
+    "hash": "d3563d6d818c046943155d4e09428489c04a924b077d4313479084c6aea44d9c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3939353636343034383534363835343538/": {
+    "hash": "6fb1962b1088c1188156a1e79f8db1d51ec46162b109f39b8832d2cbbb2865e0",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-3938393236353039383835353539363636/": {
+    "hash": "5bd662a1eb27aeafec7d7c0911a1c6c6c229812e5b78b20dd5208c2df91f70e2",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/teams/id-313133363631383339333037383739383639/": {
+    "hash": "d4cdb38620d6b9305c59f831e973f18cfd8667cf24b06b3f1e18571f233d2d20",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31393232/": {
+    "hash": "f0ed0bca81a21eaaea1a8e3434ce9d0ecd6bd26f2a5c27a3dc2c3b2a0743724b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323639/": {
+    "hash": "5d0177f8284505f6955f95433cc856848bd40d3b0b1d2f559a87f48a64e41d1f",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33393036/": {
+    "hash": "33f057c03b6ab849370c8009517e9cb38b2f572c34b7a474029950a5a852ca75",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323637/": {
+    "hash": "393f5160217091144d348a0eb3daad7db365ecf2fa14ec62012c5ad1d23b0a15",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33333532/": {
+    "hash": "12b383ba77bd8b2cdc5785383b75757303718ebdcb8d8e906f8f0fa5ddbda00d",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31333130/": {
+    "hash": "ac0afa3e726f6f9ebc8b3395d9241447c9288830fc27b777fe63b4f8895cd5ff",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34393436/": {
+    "hash": "f43327d7f885fca5925e1df36433f925b41c74d6606bd17fa76428bb711b7719",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a383032/": {
+    "hash": "f62d6c512be75d351cf91b7c293c680fd92f73161b9a9190587a5e1895368864",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a373332/": {
+    "hash": "9c02c5efe7009074b832e0835fca265e255788ff4dbc8f007c827b582c9ce987",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32383837/": {
+    "hash": "09f4b250422374c11f21165c6fc3e0269274d87fc72673de19ef700eb917a910",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31303735/": {
+    "hash": "a099fee24762df0a43d0dc348f45fa799815ea824c8add59f875c906eb324171",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a333838/": {
+    "hash": "dce35b217f562a20bfb002abe3cbaab5469355133782b6ff39d7a41003b27914",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a313039/": {
+    "hash": "ffd487debd48651b51653766bd67c857b6b5aaa3568cb2f1fa475eeda8c0f0c5",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35393339/": {
+    "hash": "dc921dca585c22e51755a5ecabdcf3f172b34202dbd0baef87c2eb7049d83964",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a333836/": {
+    "hash": "ad6e15f040613f249c4f50228f1205704ae1ded32156bb33a35bdcff2b9b08d1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33363538/": {
+    "hash": "ae40355660723064178bb637cf4f9cb3f7ca679960823b60e47f99b1e2b6ee79",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32333630/": {
+    "hash": "af8650bc278d4653ee2119f92d3a9539bb52a6f8008f944a7a4203ac6d502511",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32393036/": {
+    "hash": "b8518b7719e3b474b181abe2fb95e10fd795bb6f1a5874cdeef225447367754f",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33323437/": {
+    "hash": "f593fab882f93c5276dc21d1cc34c68c0749ce9d98bcd921e9626d28d081864c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33343131/": {
+    "hash": "169506250c3d79156260a02926bede74dc62eda83c5902b9c79b7a4eed2595e2",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32353435/": {
+    "hash": "e66cb20186dc1439c3205ec3edbc0202dc71b01c5130d9fcaa5b3ee584d6197e",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31333634/": {
+    "hash": "88955ee7af2c603158590613e2e04c009156e2a735854c6a2ea79477c9e204d0",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34323436/": {
+    "hash": "cf5aebd73d7290aad967391b1c5367d902ebf12dc9d7e489055e7e8317a8936e",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33353337/": {
+    "hash": "36e642707f80dd5b7d360fa6182b56108f38f7f3bb65dc7c1afebb9827549539",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a323537/": {
+    "hash": "b9943c209b19e9394f2adc127dded875fe804f83abf97a6412a388fc74937f7d",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32363036/": {
+    "hash": "89ff75c61595296218e20320feb948031ff23d0a5bb764f650eba1490c07ba37",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33333330/": {
+    "hash": "d4191c2c561049d31f01351dec3c9293ef0496636bac029dcfe3f0bb939f977e",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323730/": {
+    "hash": "586af1ae1fa3823022018ad2ac29c38e61facbee8623cd2e042c999c8be66517",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323238/": {
+    "hash": "6e423a4ff53490221e3c576cc69b1f4fa10a18578a3cc64d06a8b202598f3691",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33333533/": {
+    "hash": "2a97bd3c307ad6e0b770248bb7bece5dabfeba1048039384f99b5e24a5b043ca",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35333932/": {
+    "hash": "bbb26218c3f11826c8dfe952f1a2cad887522ff9523590cc90870a67397476a1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33383935/": {
+    "hash": "c31f8638791848144bdd16e0859ec9a1dec11cc625e4f4a497c5870037adbece",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323530/": {
+    "hash": "12aa5c961c562c7197f198851d0407569203a28eb9910a70a3820d7ef0c2065a",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34393430/": {
+    "hash": "d0b7f275ada27f1bc0a942460f2214cb647e5020dc30495c74e7e1c62ba5cf88",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35323034/": {
+    "hash": "5f974914063d14fb236c4cb396f1ac8c96bc167181c7bdb7b05c1aed32a57b1b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323432/": {
+    "hash": "cc575613ee16b4f0afa325dbb1698b79144c8c490cdd258496c0a6dfa822c0be",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33373431/": {
+    "hash": "b6b6927406d1328b01b87dcfed9a91df3afda48f64611ae4272b504f6592f584",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a3438/": {
+    "hash": "86f26e21d07d8b0df31bab3b6edec3cca56551a4a4d715e0910ab1bad33d2bff",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34323437/": {
+    "hash": "b7e04bacff270b036a70c8446aae4af500244895792f0eb424e3c41850cd9277",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323538/": {
+    "hash": "c8466d3cad4d07b2ea65d7d5606e074e19af788be0d075cf97e58931e2757454",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31313135/": {
+    "hash": "e1c28a4dd1ab1a882f2a15c3e1f37998d2a5d3a26965e2b4018b512b924fa9a6",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31393039/": {
+    "hash": "3eeecd7c138022c7d38d797033b87b7bd86ee31b4df6c5fb9a31674e67319e95",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31363239/": {
+    "hash": "5d51fc608c9287b8e40db0e9630898a07c8d423e1505b7b0a9b1e72c0bae66ad",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a363835/": {
+    "hash": "ece5503f7466550bbec4cf7be29fe00948f71445025ba2e42bbf6a702867c5a0",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34323539/": {
+    "hash": "7ff4e33853f75e64417280990082822dac708854b531c7cc197170acf3348783",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32373939/": {
+    "hash": "b7261ec785dc0edb7813c9205ff3b06e45101159d97e8f16a8255b4c185d049a",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35393630/": {
+    "hash": "b8221760f4e83eca69cb52e6a74bbdb5647083c4281a8b9a26d6272fbdf2739f",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35393631/": {
+    "hash": "8eb8f9e02f7de12e8f50abb11576a09ade45eccc7db97f6a6be2a455f4f90388",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33323435/": {
+    "hash": "1572fe7eb0a29cf7c5aeb7d58f77dcb2c97cea08d9b7491bf175a4b515085bb1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31343631/": {
+    "hash": "f27017dc626e3fec339b79fb2c86b7fd2958482abc02e226692c210805475074",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32363731/": {
+    "hash": "f4d23550efbd613ddbf48875816af11775b0727abab295f430c8c37d6ae57e12",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33343036/": {
+    "hash": "fba72a1a0e3686a479de4fea39f9ed0b16e2679e839d7ed324dad4a7456bc1df",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35323634/": {
+    "hash": "c5ffc149595c5cdf69670c8a69c7de3b96277af591dfe2b780497de4fe81ab6e",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34393030/": {
+    "hash": "2c2b0ca562a0374afb1a9cb0502953be08e400e584520dd74f7a6af4f14eaa7d",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34353030/": {
+    "hash": "666aa5404c4ff1965c252d054ac0dbb28541bfbc9d8ecc9ef0d95fcd4835b346",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31313335/": {
+    "hash": "7adaa31df6a78a736be5bd52b6e3e2049e5582c564416aa7f6a21b87684ea4dd",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31353031/": {
+    "hash": "19b78fcecf046e6f234265422f51137bee58f7847dfcdfad6b201ff915d0da85",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35313233/": {
+    "hash": "b8aa6229178c6e846f1b6e57ac83a929f9e393ddc68f1999ccb37b06c92a43bb",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33333232/": {
+    "hash": "8ca55a0fbea51a6889f24fcf16b9d817ed8d9a1d167109c24a2b9964d162e2d0",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32333538/": {
+    "hash": "210e5b417fa8a14e4e4f548fbcb57d3101246b7c8ad20e826783f2875140e0d9",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34323434/": {
+    "hash": "4d512c938ad54b541c2e2f829e46d0ed0af4a9e34074031d671342e6b41ad544",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35323734/": {
+    "hash": "0045b08441192a02f040374558fbe399c90ffc5f1d16392db7da1d30554cc1a1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34323334/": {
+    "hash": "3c6d3f2421f022f768f320c95daa56b2e5c9ad1876651690e3efd72affe4e46b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35373836/": {
+    "hash": "28cbcf74882b63de0e1649e0425b2945e77b4feeda6528127f6f23bb7adfadca",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33363430/": {
+    "hash": "857f0ced29c75fb4ee62a057d0972ea172be70a9f63da68ec0c56207e655e02d",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34333130/": {
+    "hash": "951c73a5bd9c1f193efe60eabb4062275cd624b739abbc79c5cc5ed7c264b627",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32373139/": {
+    "hash": "0b76ddee4bc5595db3afa5e1945a945a832fc22613892b492a350bc2d08bd472",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33353434/": {
+    "hash": "91134dfc5e700b3768ed11a0ad5a1f76d686059b64afd6cb207da454ba1e8cc1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32373137/": {
+    "hash": "009d2dc0e16980f99b3ea2d8e7fab739b92b1e99e82e17d25a090140e3a3180c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34363334/": {
+    "hash": "7ebfb2295751af625e86196fbcfd552e27a84f838fd5518e7978bc64af3b15dd",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31313732/": {
+    "hash": "dd07e44c64cee1fe1e4794552b0ac2cd29d997d0a74961f4a2c80749b9f5471b",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32353838/": {
+    "hash": "aa574a10bfa82627278f3e88c078b4f50246653daf229812a2950a3f50cc63ba",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34323531/": {
+    "hash": "f04d98d90a98661c9b04e78c9656396864b789986f35f416aeacdcd1ec515e00",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33373337/": {
+    "hash": "330165e5b60e23bd89134dfbaffbb1cad415109e70c8e24cc9b4d99e08eab3c5",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a37303131/": {
+    "hash": "d17801285c88a654a4b20d6ade02c671d32ae33bde90cd4412c4eca55c0315c1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32333438/": {
+    "hash": "ce7f751b6c9a2493264d5661cc02469fe3ad161395672aed74ffa56222c4932f",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31323236/": {
+    "hash": "0032ce7e4d7a5b0a52b9b3e1717b69dfaae19d34de100cd59f7c8ad025d895cb",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33333434/": {
+    "hash": "efce716fb63ff0337ebec79b2fca6d28daa090b184dc81922d69a78b97716cda",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31353631/": {
+    "hash": "b50d339fefdfc4c9131aae7ade3ec37609d180e239f1d4a1fb1c2c7b7a7de3b1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33333233/": {
+    "hash": "f3a329f62be42def1f1672c143efea51e4e7fadb23597091b9ddf70ed3718d3f",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35313639/": {
+    "hash": "27d1562f7fafb735b693c9b55cc66cc65a24fd0fb466d3c5472b5599a874e366",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35313536/": {
+    "hash": "08abcc59530680cecd2db3105bbcbd2cfa1617e3b602e81818469feb9796b1a1",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a36343230/": {
+    "hash": "f4f109cc9b791abd92e232e8a6c28e38fb8e8ade8563b7c864d6a9d869524e18",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35313636/": {
+    "hash": "0c0c8c87ed79c69af416018f50f20d1ac371ebeb955278b83b96e331e3172323",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a35393133/": {
+    "hash": "5a249269c61ef162dd02639e44212c0ff94885d212750fe866065e98f4a92d26",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33313136/": {
+    "hash": "aec2e8f495a752e958089cc57a40e92d2b3b85d05c6c3db5aa3935a1550be3bf",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34373736/": {
+    "hash": "84c4967213cba19519bf68e0ac3ac296145d8fdc59be992ac829c7a19a1d845d",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32373039/": {
+    "hash": "c147b308be191910a09db260dbf362e2766dba2f12cac2e40507f26933bd73e3",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34393736/": {
+    "hash": "0767dfb1be51cd015dc60b6cc4a8863641d3fe5ff65263b1a3c3245dc82fb664",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a32333239/": {
+    "hash": "fb610f698c4e3a07766606f2177e5987887af44ab8d4dcf0c01efd0eed8c3e6a",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a36343139/": {
+    "hash": "aaa53eae97a1495e882a5a743b40f9b0022c9fe168c1ba28ff7fa11c8cc0732c",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a33343334/": {
+    "hash": "7dc38d91efa8072600755daf9c8b1df476dbdc160040f7d3ce14e50f377dd638",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31363334/": {
+    "hash": "5988baed8884ea59716fbcc34f62750d19716331bbde8e18d3a38138af43ee91",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a34383631/": {
+    "hash": "7793509008c8acd86a21cabc3c9c88a35d054f205c5bcb0cfb2c92422a5b03d6",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31393739/": {
+    "hash": "4ff50f237e58241d026cfc3dc9a30ee08c013a11a0f4687448b6f22cae522578",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  },
+  "/lol-esports-watch-hub/en/worlds/2026/players/id-676f6c3a31333031/": {
+    "hash": "5f4ea1957e789df69c9df13000b9c77cca06b981766cf627baa2043dd8c53601",
+    "lastmod": "2026-10-31T10:48:02.449Z"
+  }
+}
