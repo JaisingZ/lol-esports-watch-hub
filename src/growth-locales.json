@@ -1,0 +1,10 @@
+{
+ "en":{"consent":"Allow usage analytics to help improve the site?","accept":"Accept analytics","reject":"Reject","preferences":"Privacy preferences","share":"Share match","copied":"Link copied","copy":"Copy this link","missing":"Your preferred commentary is unavailable. Other available languages are shown."},
+ "zh-Hans":{"consent":"允许使用访问统计，帮助改进网站吗？","accept":"接受统计","reject":"拒绝","preferences":"隐私偏好","share":"分享比赛","copied":"链接已复制","copy":"复制此链接","missing":"本场暂无你偏好的解说语言，已展示其他可用语言。"},
+ "zh-Hant":{"consent":"允許使用造訪統計，協助改善網站嗎？","accept":"接受統計","reject":"拒絕","preferences":"隱私偏好","share":"分享比賽","copied":"連結已複製","copy":"複製此連結","missing":"本場暫無你偏好的解說語言，已顯示其他可用語言。"},
+ "ko":{"consent":"사이트 개선을 위한 이용 통계를 허용하시겠습니까?","accept":"통계 허용","reject":"거부","preferences":"개인정보 설정","share":"경기 공유","copied":"링크 복사됨","copy":"링크 복사","missing":"선호하는 해설 언어가 없습니다. 다른 이용 가능한 언어를 표시합니다."},
+ "ja":{"consent":"サイト改善のため、利用状況分析を許可しますか？","accept":"分析を許可","reject":"拒否","preferences":"プライバシー設定","share":"試合を共有","copied":"リンクをコピーしました","copy":"リンクをコピー","missing":"希望する実況言語はありません。他の利用可能な言語を表示します。"},
+ "vi":{"consent":"Cho phép thống kê truy cập để cải thiện trang web?","accept":"Chấp nhận thống kê","reject":"Từ chối","preferences":"Tùy chọn riêng tư","share":"Chia sẻ trận đấu","copied":"Đã sao chép liên kết","copy":"Sao chép liên kết","missing":"Chưa có ngôn ngữ bình luận bạn chọn. Đang hiển thị các ngôn ngữ khác."},
+ "th":{"consent":"อนุญาตให้เก็บสถิติการใช้งานเพื่อปรับปรุงเว็บไซต์หรือไม่","accept":"ยอมรับสถิติ","reject":"ปฏิเสธ","preferences":"ตั้งค่าความเป็นส่วนตัว","share":"แชร์การแข่งขัน","copied":"คัดลอกลิงก์แล้ว","copy":"คัดลอกลิงก์นี้","missing":"ยังไม่มีภาษาพากย์ที่คุณเลือก แสดงภาษาอื่นที่พร้อมใช้งาน"},
+ "pt-BR":{"consent":"Permitir estatísticas de uso para melhorar o site?","accept":"Aceitar estatísticas","reject":"Recusar","preferences":"Preferências de privacidade","share":"Compartilhar partida","copied":"Link copiado","copy":"Copiar este link","missing":"Seu idioma de narração não está disponível. Exibindo outros idiomas disponíveis."}
+}

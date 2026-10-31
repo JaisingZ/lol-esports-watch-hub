@@ -33,9 +33,9 @@ export function commentaryKey(language,source){
   return language;
 }
 export function matchingVideos(videos,filters,sourceMap){
-  return videos.filter(video=>displayableVideo(video,sourceMap.get(video.sourceId))&&
-    (filters.commentary==='all'||commentaryKey(video.language,sourceMap.get(video.sourceId))===filters.commentary)&&
-    (!filters.type||filters.type==='all'||video.type===filters.type));
+  const available=videos.filter(video=>displayableVideo(video,sourceMap.get(video.sourceId))&&(!filters.type||filters.type==='all'||video.type===filters.type));
+  const selected=available.filter(video=>filters.commentary==='all'||commentaryKey(video.language,sourceMap.get(video.sourceId))===filters.commentary);
+  return filters.fallbackCommentary&&!selected.length?available:selected;
 }
 export function liveEntriesForMatch(match,broadcasts,sourceMap,commentary='all',verification={}){
   const ids=new Set(broadcasts.filter(day=>day.stage===match.stage&&day.date===match.scheduledDate).flatMap(day=>day.sourceIds||[]));
