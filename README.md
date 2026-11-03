@@ -1,5 +1,9 @@
 # LoL Esports Watch Hub
 
+Worlds 2026 broadcasts are split across languages and platforms — this fan-made hub jumps you to the official schedule, live channels, and verified replays, with no embeds: https://jaisingz.github.io/lol-esports-watch-hub/
+
+Topics: League of Legends, Worlds 2026, esports schedule, official broadcasts, VOD links, multilingual, GitHub Pages.
+
 Worlds 2026 / S16 多语言赛程、官方直播入口与录像导航。原生 JavaScript + Vite + GitHub Pages，所有观看操作直接跳转原平台。
 
 [正式站点](https://jaisingz.github.io/lol-esports-watch-hub/) · [官方赛程](https://lolesports.com/en-US/)
@@ -30,6 +34,8 @@ npm run preview
 
 站点路径为 `/lol-esports-watch-hub/`，构建输出 `dist`。不提交依赖、构建目录或私密令牌。
 
+分享使用查询参数 `lang`、`stage`、`date`（`date=today` 是最近比赛日）。「复制分享链接」会附上 `utm_source=x&utm_medium=social`。这些参数只恢复语言、阶段和日期，不改动解说或视频类型筛选。
+
 ## 数据与同步
 
 `public/data/` 分开维护 sources、teams、matches、videos、broadcasts、meta。候选不作为已收录录像显示。来源身份先人工确认，再加入固定清单；自动录像关联使用官方 `games[].vods`，不按标题模糊匹配。
@@ -58,3 +64,5 @@ npm run build
 ## 图像
 
 继续使用已确认的峡谷霓虹 V4 WebP 背景，原图与提示词保存在 `design`。这是主题艺术演绎，不是官方场景截图。队标仅用于赛事识别，保留官方来源。
+
+`public/og.jpg` 是同一张 V4 主题图的 1200×630 分享裁切，并加了粉丝向文字，供 Open Graph / X 卡片使用。不是官方素材。

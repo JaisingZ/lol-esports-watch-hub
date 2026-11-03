@@ -25,3 +25,6 @@
 .channel-note,.source-section,#coverage-count,.coverage-note,.insight-sources,.detail-source,.verification,.demo-banner{display:none!important}
 
 .sources-disclosure{display:none!important}
+
+.list-meta{flex-wrap:wrap;row-gap:2px}.list-actions{display:flex;align-items:center;justify-content:flex-end;gap:16px;flex-wrap:wrap}.list-actions .text-button{min-height:44px}.footer-notes{min-width:0;max-width:760px}.trust-line{display:block;margin:0 0 4px;color:#d7def6;font-size:12px;font-weight:650;line-height:1.45}
+@media(max-width:480px){.list-actions{gap:12px}.trust-line{font-size:11px}}

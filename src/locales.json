@@ -111,7 +111,11 @@
     "segmentDescription": "Official game timestamp within the source recording",
     "languageCounts": "{videos} replays · {channels} channels",
     "sourceRestricted": "Access restricted",
-    "dateHintShort": "{zone} · Date-only: event local day"
+    "dateHintShort": "{zone} · Date-only: event local day",
+    "pageTitle": "LoL Esports Watch Hub — Worlds 2026",
+    "shareCopied": "Link copied",
+    "shareLink": "Copy share link",
+    "trustLine": "Official sources only · no embeds · unverified playback stays labeled."
   },
   "zh-Hans": {
     "allLanguages": "全部语言",
@@ -225,7 +229,11 @@
     "segmentDescription": "官方录像中的定位片段",
     "languageCounts": "{videos} 录像 · {channels} 直播入口",
     "sourceRestricted": "页面访问受限",
-    "dateHintShort": "{zone} · 仅日期条目按赛区日期"
+    "dateHintShort": "{zone} · 仅日期条目按赛区日期",
+    "pageTitle": "英雄联盟电竞观赛站 — 2026 全球总决赛",
+    "shareCopied": "链接已复制",
+    "shareLink": "复制分享链接",
+    "trustLine": "仅官方来源 · 不内嵌播放器 · 未验证的播放会单独标明。"
   },
   "zh-Hant": {
     "allLanguages": "所有語言",
@@ -339,7 +347,11 @@
     "segmentDescription": "官方錄影中的定位片段",
     "languageCounts": "{videos} 重播 · {channels} 直播入口",
     "sourceRestricted": "頁面存取受限",
-    "dateHintShort": "{zone} · 僅日期項目依賽區日期"
+    "dateHintShort": "{zone} · 僅日期項目依賽區日期",
+    "pageTitle": "英雄聯盟電競觀賽站 — 2026 世界大賽",
+    "shareCopied": "連結已複製",
+    "shareLink": "複製分享連結",
+    "trustLine": "僅官方來源 · 不內嵌播放器 · 未驗證的播放會另行標示。"
   },
   "ko": {
     "allLanguages": "모든 언어",
@@ -453,7 +465,11 @@
     "segmentDescription": "공식 영상 내 해당 경기 시작 지점",
     "languageCounts": "다시보기 {videos} · 채널 {channels}",
     "sourceRestricted": "페이지 접근 제한",
-    "dateHintShort": "{zone} · 날짜만 있는 경기는 대회 현지 기준"
+    "dateHintShort": "{zone} · 날짜만 있는 경기는 대회 현지 기준",
+    "pageTitle": "LoL e스포츠 관전 허브 — 2026 월드 챔피언십",
+    "shareCopied": "링크를 복사했습니다",
+    "shareLink": "공유 링크 복사",
+    "trustLine": "공식 출처만 · 임베드 없음 · 검증되지 않은 재생은 따로 표시합니다."
   },
   "ja": {
     "allLanguages": "すべての言語",
@@ -567,7 +583,11 @@
     "segmentDescription": "公式録画内の指定されたゲーム開始位置",
     "languageCounts": "録画 {videos} · 配信先 {channels}",
     "sourceRestricted": "ページへのアクセス制限",
-    "dateHintShort": "{zone} · 日付のみの試合は現地日付"
+    "dateHintShort": "{zone} · 日付のみの試合は現地日付",
+    "pageTitle": "LoL Esports ウォッチハブ — 2026 ワールドチャンピオンシップ",
+    "shareCopied": "リンクをコピーしました",
+    "shareLink": "共有リンクをコピー",
+    "trustLine": "公式ソースのみ · 埋め込みなし · 未検証の再生は別に表示します。"
   },
   "vi": {
     "allLanguages": "Mọi ngôn ngữ",
@@ -681,7 +701,11 @@
     "segmentDescription": "Mốc bắt đầu ván đấu trong video chính thức",
     "languageCounts": "{videos} video · {channels} kênh",
     "sourceRestricted": "Trang bị hạn chế truy cập",
-    "dateHintShort": "{zone} · Chỉ có ngày: theo nơi tổ chức"
+    "dateHintShort": "{zone} · Chỉ có ngày: theo nơi tổ chức",
+    "pageTitle": "LoL Esports Watch Hub — Chung Kết Thế Giới 2026",
+    "shareCopied": "Đã sao chép liên kết",
+    "shareLink": "Sao chép liên kết chia sẻ",
+    "trustLine": "Chỉ nguồn chính thức · không nhúng video · phát chưa xác minh được ghi rõ."
   },
   "th": {
     "allLanguages": "ทุกภาษา",
@@ -795,7 +819,11 @@
     "segmentDescription": "จุดเริ่มเกมที่ระบุในวิดีโอทางการ",
     "languageCounts": "{videos} รีเพลย์ · {channels} ช่อง",
     "sourceRestricted": "จำกัดการเข้าถึงหน้า",
-    "dateHintShort": "{zone} · รายการที่มีเฉพาะวันที่ใช้วันของสนามแข่ง"
+    "dateHintShort": "{zone} · รายการที่มีเฉพาะวันที่ใช้วันของสนามแข่ง",
+    "pageTitle": "LoL Esports Watch Hub — ชิงแชมป์โลก 2026",
+    "shareCopied": "คัดลอกลิงก์แล้ว",
+    "shareLink": "คัดลอกลิงก์แชร์",
+    "trustLine": "เฉพาะแหล่งทางการ · ไม่ฝังวิดีโอ · การเล่นที่ยังไม่ตรวจจะติดป้ายไว้"
   },
   "pt-BR": {
     "allLanguages": "Todos os idiomas",
@@ -909,6 +937,10 @@
     "segmentDescription": "Trecho do jogo no ponto indicado pela gravação oficial",
     "languageCounts": "{videos} replays · {channels} canais",
     "sourceRestricted": "Acesso à página restrito",
-    "dateHintShort": "{zone} · Apenas data: dia local do evento"
+    "dateHintShort": "{zone} · Apenas data: dia local do evento",
+    "pageTitle": "LoL Esports Watch Hub — Mundial 2026",
+    "shareCopied": "Link copiado",
+    "shareLink": "Copiar link de compartilhamento",
+    "trustLine": "Só fontes oficiais · sem embeds · reprodução não verificada fica marcada."
   }
 }

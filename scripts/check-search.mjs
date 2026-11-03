@@ -1,6 +1,18 @@
 import {readFile,access} from 'node:fs/promises';
 import assert from 'node:assert/strict';
+import sharp from 'sharp';
 import {BASE,ORIGIN} from '../src/search-routes.js';
+import {OG_IMAGE_URL} from './social-meta.mjs';
+const app=await readFile('dist/index.html','utf8');
+assert.match(app,/property="og:url" content="https:\/\/jaisingz\.github\.io\/lol-esports-watch-hub\/"/);
+assert.match(app,/property="og:image" content="https:\/\/jaisingz\.github\.io\/lol-esports-watch-hub\/og\.jpg"/);
+assert.match(app,/name="twitter:card" content="summary_large_image"/);
+assert.match(app,/name="twitter:image" content="https:\/\/jaisingz\.github\.io\/lol-esports-watch-hub\/og\.jpg"/);
+assert.equal(OG_IMAGE_URL,'https://jaisingz.github.io/lol-esports-watch-hub/og.jpg');
+const card=await sharp('dist/og.jpg').metadata();
+assert.equal(card.format,'jpeg');
+assert.equal(card.width,1200);
+assert.equal(card.height,630);
 const manifest=JSON.parse(await readFile('dist/search-manifest.json','utf8'));
 const paths=new Set(manifest.map(p=>p.path));
 assert.equal(paths.size,manifest.length);
