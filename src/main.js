@@ -5,13 +5,16 @@ import insightWords from './insights-locales.json';
 import messages from './locales.json';
 import { languageMeta, stages, matchLocale, displayDate, nearestDate, commentaryKey, matchingVideos, matchResources, filterMatches, parseShareQuery, buildShareUrl } from './model.js';
 import './styles.css';
+import {startGrowth,legacyAnalyticsPage,readPreference,commentaryPreference,growthText} from './growth.js';
+import {installSearchCompatibility} from './search-compat.js';
 
 const $=selector=>document.querySelector(selector);
 const preferenceKey='lol-esports-watch-hub.ui-language';
 const shareFromUrl=parseShareQuery(location.search);
 let preference;try{preference=localStorage.getItem(preferenceKey)}catch{}
 if(shareFromUrl.lang){try{localStorage.setItem(preferenceKey,shareFromUrl.lang)}catch{}}
-const state={lang:shareFromUrl.lang||(Object.hasOwn(messages,preference)?preference:(navigator.languages||[navigator.language]).map(matchLocale).find(Boolean)||'en'),stage:shareFromUrl.stage||'all',date:shareFromUrl.date&&shareFromUrl.date!=='today'?shareFromUrl.date:null,search:'',commentary:'all',type:'all',availability:'all',showScores:true,region:null,liveLanguage:null,expanded:new Set()};
+const openedScheduleShare=Boolean(shareFromUrl.stage||shareFromUrl.date);
+const state={lang:shareFromUrl.lang||(Object.hasOwn(messages,preference)?preference:(navigator.languages||[navigator.language]).map(matchLocale).find(Boolean)||'en'),stage:shareFromUrl.stage||'all',date:shareFromUrl.date&&shareFromUrl.date!=='today'?shareFromUrl.date:null,search:'',commentary:readPreference(commentaryPreference)||'all',fallbackCommentary:true,type:'all',availability:'all',showScores:true,region:null,liveLanguage:null,expanded:new Set()};
 let shareToday=shareFromUrl.date!=='all'&&(!shareFromUrl.date||shareFromUrl.date==='today');
 const timeZone=Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC';
 let content={teams:[],sources:[],matches:[],videos:[],broadcasts:[],checks:[],regions:[],meta:{}},status='loading',loading=false;
@@ -35,11 +38,12 @@ function logo(team,featured=false){
 }
 function teamBlock(id,featured=false){const team=teamMap.get(id);const element=node('div',featured?'featured-team':'match-team');const names=node('div','team-names');names.append(node('span','team-code',team?.code||t('tbd')));if(team?.name&&team.name!==team.code)names.append(node('span','team-full-name',team.name));element.append(logo(team,featured),names);return element}
 function scoreText(match){return state.showScores&&Array.isArray(match.scores)&&match.scores.length===2&&match.scores.every(Number.isFinite)?match.scores.join(' : '):t('versus')}
-function liveLink(source){const element=external(liveAddress(source),'','live-link');element.append(node('span','',audioName(commentaryKey(source.language,source))),node('span','platform',source.platform),svg('arrow-icon'));element.title=source.name;return element}
+function liveLink(source,matchId=''){const element=external(liveAddress(source),'','live-link');element.append(node('span','',audioName(commentaryKey(source.language,source))),node('span','platform',source.platform),svg('arrow-icon'));element.title=source.name;Object.assign(element.dataset,{watch:'',matchId,videoId:source.id,platform:source.platform,commentaryLanguage:commentaryKey(source.language,source),videoType:'live',entryPosition:'watch-live'});return element}
 function videoLink(video){
   const label=video.isSegment?([video.gameNumber?t('gameNumber',{number:video.gameNumber}):'',t('locateGame')].filter(Boolean).join(' · ')):video.type==='singleGame'?t('gameNumber',{number:video.gameNumber||''}):t(video.type);
   const wrapper=node('div','video-entry'),element=external(video.url,'','video-link');
   element.append(svg('play-icon'),node('span','',label),node('span','platform',sourceMap.get(video.sourceId)?.platform||''),svg('arrow-icon'));
+  Object.assign(element.dataset,{watch:'',matchId:video.matchId||'',videoId:video.id,platform:video.platform,commentaryLanguage:commentaryKey(video.language,sourceMap.get(video.sourceId)),videoType:video.type,entryPosition:video.type==='dayReplay'?'day-replay':'watch-list'});
   wrapper.append(element);
   return wrapper;
 }
@@ -49,7 +53,7 @@ function populateFilters(){
   const scoped=filterMatches(content.matches,{...state,commentary:'all',availability:'all'},context());
   const entries=[['all',t('allLanguages')],...audio.map(key=>{
     const videos=new Set(),channels=new Set();
-    for(const match of scoped){const resources=matchResources(match,{...state,commentary:key},context());resources.videos.forEach(video=>videos.add(video.id));resources.liveEntries.forEach(source=>channels.add(source.id))}
+    for(const match of scoped){const resources=matchResources(match,{...state,commentary:key,fallbackCommentary:false},context());resources.videos.forEach(video=>videos.add(video.id));resources.liveEntries.forEach(source=>channels.add(source.id))}
     return [key,audioName(key)+' · '+t('languageCounts',{videos:videos.size,channels:channels.size})];
   })];
   fillSelect('#commentary',entries,state.commentary);
@@ -69,7 +73,7 @@ function scrollSelectedDate(){requestAnimationFrame(()=>{const track=$('#date-tr
 function featuredMatch(){const items=stageMatches().filter(match=>state.date==='all'||displayDate(match,timeZone)===state.date);return items.find(match=>match.status==='live')||items.find(match=>match.status==='scheduled')||items.at(-1)||null}
 function renderFeatured(){
   const match=featuredMatch(),container=$('#featured-match'),channels=$('#hero-channels');container.replaceChildren();channels.replaceChildren();
-  const preferred=state.liveLanguage||({'zh-Hans':'zh-CN','zh-Hant':'zh-TW'}[state.lang]||state.lang);
+  const preferred=state.liveLanguage||((readPreference(commentaryPreference)&&readPreference(commentaryPreference)!=='all')?readPreference(commentaryPreference):null)||({'zh-Hans':'zh-CN','zh-Hant':'zh-TW'}[state.lang]||state.lang);
   const entries=match?matchResources(match,{...state,commentary:'all'},context()).liveEntries:[];
   const languages=[...new Set([preferred,...entries.map(source=>commentaryKey(source.language,source))])];
   fillSelect('#live-language',languages.map(key=>[key,audioName(key)]),preferred);
@@ -78,7 +82,7 @@ function renderFeatured(){
   const duel=node('div','featured-duel');const center=node('div','featured-center',scoreText(match));if(match.bestOf)center.append(node('span','match-format',t('bestOf',{count:match.bestOf})));duel.append(teamBlock(match.teamIds[0],true),center,teamBlock(match.teamIds[1],true));container.append(duel);
   const meta=node('div','featured-meta');meta.append(statusBadge(match.status),node('span','',t(match.stage)),node('span','',match.startAt?formatTimestamp(match.startAt):formatDate(match.scheduledDate)+' · '+t('dateOnly',{zone:match.dateTimezone})));const round=roundLabel(match);if(round)meta.append(node('span','',round));container.append(meta);
   const selected=entries.filter(source=>commentaryKey(source.language,source)===preferred);
-  for(const source of selected)channels.append(liveLink(source));
+  for(const source of selected)channels.append(liveLink(source,match.id));
   if(!selected.length)channels.append(node('span','hero-empty',it('noSource')));
 }
 function baseMatches(){return filterMatches(content.matches,{...state,availability:'all'},context())}
@@ -108,8 +112,8 @@ function createMatch(match,index){
   const resources=node('div','match-resources');const resourceText=resource.kind==='replay'?t('replayCount',{count:resource.videos.length}):resource.kind==='live'?t('liveOnly'):t('pendingOnly');resources.append(node('span','resource-state '+resource.kind,resourceText),node('span','match-resource-caption',[roundLabel(match),match.bestOf?t('bestOf',{count:match.bestOf}):t(match.stage)].filter(Boolean).join(' · ')));
   const chevron=svg('chevron-icon');chevron.classList.add('expand-chevron');summary.append(info,duel,resources,chevron);card.append(summary);
   const detail=node('div','match-detail');detail.id='match-detail-'+index;detail.hidden=!expanded;
-  if(resource.videos.length)detail.append(videoDetail(resource.videos));else detail.append(node('p','detail-pending',(state.commentary==='all'?'':audioName(state.commentary)+' · ')+t('pendingDescription')));
-  if(resource.liveEntries.length){const live=node('section','detail-live');live.append(node('h4','detail-heading',t('liveEntries')));const links=node('div','video-links');resource.liveEntries.forEach(source=>links.append(liveLink(source)));live.append(links);detail.append(live)}
+  if(resource.videos.length){if(state.fallbackCommentary&&state.commentary!=='all'&&!resource.videos.some(v=>commentaryKey(v.language,sourceMap.get(v.sourceId))===state.commentary))detail.append(node('p','preferred-missing',growthText(state.lang,'missing')));detail.append(videoDetail(resource.videos));}else detail.append(node('p','detail-pending',(state.commentary==='all'?'':audioName(state.commentary)+' · ')+t('pendingDescription')));
+  if(resource.liveEntries.length){const live=node('section','detail-live');live.append(node('h4','detail-heading',t('liveEntries')));const links=node('div','video-links');resource.liveEntries.forEach(source=>links.append(liveLink(source,match.id)));live.append(links);detail.append(live)}
   const detailLink=node('a','match-data-link',it('details')+' ↗');detailLink.href='#match/'+encodeURIComponent(match.id)+'?view=analysis';card.append(detailLink);
   const source=node('div','detail-source');source.append(external(match.sourceUrl,t('matchSource')+' ↗'),node('span','',t('updated',{date:formatTimestamp(match.verifiedAt)})));if(match.datePrecision==='day')source.append(node('span','',t('dateOnly',{zone:match.dateTimezone})));card.append(detail);
   summary.addEventListener('click',()=>{const next=!state.expanded.has(match.id);if(next)state.expanded.add(match.id);else state.expanded.delete(match.id);summary.setAttribute('aria-expanded',String(next));summary.title=t(next?'collapseMatch':'expandMatch');detail.hidden=!next});return card;
@@ -144,7 +148,7 @@ async function loadContent(){if(loading)return;loading=true;status='loading';ren
 $('#ui-language').replaceChildren(...languageMeta.map(([code,name])=>option(code,name)));$('#ui-language').addEventListener('change',event=>{state.lang=event.target.value;try{localStorage.setItem(preferenceKey,state.lang)}catch{}renderAll();scrollSelectedDate()});
 $('#live-language').addEventListener('change',event=>{state.liveLanguage=event.target.value;renderFeatured()});
 $('#search').addEventListener('input',event=>{state.search=event.target.value;populateFilters();renderResourceTabs();renderMatches()});
-for(const [id,key]of [['commentary','commentary'],['video-type','type']])$('#'+id).addEventListener('change',event=>{state[key]=event.target.value;state.availability='all';renderAll()});
+for(const [id,key]of [['commentary','commentary'],['video-type','type']])$('#'+id).addEventListener('change',event=>{state[key]=event.target.value;if(key==='commentary')state.fallbackCommentary=false;state.availability='all';renderAll()});
 $('#filters').addEventListener('submit',event=>event.preventDefault());$('#reset').addEventListener('click',resetFilters);$('#reset-empty').addEventListener('click',resetFilters);$('#retry').addEventListener('click',loadContent);
 $('#scores-toggle').addEventListener('click',()=>{state.showScores=!state.showScores;renderAll()});$('#recent-date').addEventListener('click',()=>{shareToday=true;state.date=nearestDate(availableDates());state.availability='all';renderAll();scrollSelectedDate()});
 let shareTimer;$('#share-link').addEventListener('click',async()=>{const url=buildShareUrl(sharePageUrl(),{lang:state.lang,stage:state.stage,date:state.date,today:shareToday});let copied=false;try{await navigator.clipboard.writeText(url);copied=true}catch{try{const field=document.createElement('textarea');field.value=url;field.setAttribute('readonly','');field.style.position='fixed';field.style.left='-9999px';document.body.append(field);field.select();copied=document.execCommand('copy');field.remove()}catch{copied=false}}const button=$('#share-link');button.textContent=t(copied?'shareCopied':'shareLink');if(!copied)button.title=url;clearTimeout(shareTimer);shareTimer=setTimeout(()=>{button.textContent=t('shareLink')},2000)});
@@ -152,5 +156,7 @@ for(const [id,direction]of [['date-previous',-1],['date-next',1]])$('#'+id).addE
 let resizeTimer;window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(scrollSelectedDate,100)});
 
 installInsights(()=>({...context(),lang:state.lang,translate:t,demo:Boolean(window.__HUB_DEMO__),setRegion:value=>{state.region=value;renderAll()}}));
+if(!window.__HUB_DEMO__)installSearchCompatibility(()=>state.lang,()=>openedScheduleShare);
 setInterval(()=>{if(status==='ready')renderAll()},60000);
 renderAll();loadContent();
+if(!window.__HUB_DEMO__)startGrowth(()=>legacyAnalyticsPage(state.lang));
