@@ -951,9 +951,13 @@
     "scheduledDate": "2026-11-03",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "scheduled",
+    "status": "live",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-11-01T02:12:26.249Z"
+    "verifiedAt": "2026-11-03T23:18:56.297Z",
+    "scores": [
+      0,
+      1
+    ]
   },
   {
     "id": "official:115660540726095115",
