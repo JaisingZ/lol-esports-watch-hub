@@ -1064,16 +1064,20 @@
     "round": "Semifinals",
     "bestOf": 5,
     "teamIds": [
-      "98767991853197861",
-      "99566404853854212"
+      "99566404853854212",
+      "98767991853197861"
     ],
     "startAt": "2026-11-08T22:00:00Z",
     "scheduledDate": "2026-11-08",
     "dateTimezone": "America/Chicago",
     "datePrecision": "time",
-    "status": "scheduled",
+    "status": "live",
     "sourceUrl": "https://lolesports.com/en-US/tournament/115660540725177488/stage/115660540725570706",
-    "verifiedAt": "2026-11-07T07:06:02.970Z"
+    "verifiedAt": "2026-11-09T00:51:39.639Z",
+    "scores": [
+      2,
+      1
+    ]
   },
   {
     "id": "official:115660540726095133",
