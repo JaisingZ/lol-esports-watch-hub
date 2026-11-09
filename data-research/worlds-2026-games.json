@@ -22705,5 +22705,1832 @@
         "109"
       ]
     }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83718/page-game/",
+    "title": "BLG vs T1 game 1 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-08",
+    "number": 1,
+    "patch": "16.20.1",
+    "duration": "30:25",
+    "blue": {
+      "name": "Bilibili Gaming",
+      "winner": true,
+      "bans": [
+        "Lulu",
+        "Cassiopeia",
+        "Olaf",
+        "Alistar",
+        "Seraphine"
+      ],
+      "picks": [
+        "Nautilus",
+        "Orianna",
+        "KSante",
+        "Naafiri",
+        "Corki"
+      ],
+      "scores": {
+        "Kills": "18",
+        "Towers": "10",
+        "Dragons": "3",
+        "Nashor": "1",
+        "Team Gold": "62k"
+      }
+    },
+    "red": {
+      "name": "T1",
+      "winner": false,
+      "bans": [
+        "Renata Glasc",
+        "Ezreal",
+        "Jax",
+        "Lee Sin",
+        "Jarvan IV"
+      ],
+      "picks": [
+        "Nocturne",
+        "Locke",
+        "Rumble",
+        "Xayah",
+        "Rakan"
+      ],
+      "scores": {
+        "Kills": "6",
+        "Towers": "3",
+        "Dragons": "1",
+        "Nashor": "0",
+        "Team Gold": "54.2k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:2606",
+        "name": "Bin",
+        "champion": "KSante",
+        "side": "blue",
+        "kda": "1/1/12",
+        "cs": 226,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3330",
+        "name": "XUN",
+        "champion": "Naafiri",
+        "side": "blue",
+        "kda": "3/1/11",
+        "cs": 239,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1270",
+        "name": "Knight",
+        "champion": "Orianna",
+        "side": "blue",
+        "kda": "8/0/9",
+        "cs": 272,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1228",
+        "name": "Viper",
+        "champion": "Corki",
+        "side": "blue",
+        "kda": "6/2/7",
+        "cs": 251,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3353",
+        "name": "ON",
+        "champion": "Nautilus",
+        "side": "blue",
+        "kda": "0/2/13",
+        "cs": 43,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1242",
+        "name": "Doran",
+        "champion": "Rumble",
+        "side": "red",
+        "kda": "0/5/3",
+        "cs": 207,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3741",
+        "name": "Oner",
+        "champion": "Nocturne",
+        "side": "red",
+        "kda": "0/4/4",
+        "cs": 202,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:48",
+        "name": "Faker",
+        "champion": "Locke",
+        "side": "red",
+        "kda": "4/2/2",
+        "cs": 265,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4247",
+        "name": "Peyz",
+        "champion": "Xayah",
+        "side": "red",
+        "kda": "1/4/4",
+        "cs": 300,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1258",
+        "name": "Keria",
+        "champion": "Rakan",
+        "side": "red",
+        "kda": "1/3/4",
+        "cs": 39,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83718/page-fullstats/",
+    "stats": {
+      "Player": [
+        "Bin",
+        "XUN",
+        "Knight",
+        "Viper",
+        "ON",
+        "Doran",
+        "Oner",
+        "Faker",
+        "Peyz",
+        "Keria"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "1",
+        "3",
+        "8",
+        "6",
+        "0",
+        "0",
+        "0",
+        "4",
+        "1",
+        "1"
+      ],
+      "Deaths": [
+        "1",
+        "1",
+        "0",
+        "2",
+        "2",
+        "5",
+        "4",
+        "2",
+        "4",
+        "3"
+      ],
+      "Assists": [
+        "12",
+        "11",
+        "9",
+        "7",
+        "13",
+        "3",
+        "4",
+        "2",
+        "4",
+        "4"
+      ],
+      "CS": [
+        "226",
+        "239",
+        "272",
+        "251",
+        "43",
+        "207",
+        "202",
+        "265",
+        "300",
+        "39"
+      ],
+      "Golds": [
+        "10859",
+        "12989",
+        "14815",
+        "14931",
+        "8393",
+        "9160",
+        "9881",
+        "13788",
+        "13757",
+        "7617"
+      ],
+      "Total damage to Champion": [
+        "10843",
+        "15160",
+        "21547",
+        "23894",
+        "3550",
+        "15297",
+        "6600",
+        "16769",
+        "16894",
+        "2483"
+      ],
+      "Vision Score": [
+        "41",
+        "56",
+        "44",
+        "43",
+        "120",
+        "16",
+        "46",
+        "37",
+        "34",
+        "144"
+      ]
+    }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83719/page-game/",
+    "title": "BLG vs T1 game 2 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-08",
+    "number": 2,
+    "patch": "16.20.1",
+    "duration": "32:15",
+    "blue": {
+      "name": "T1",
+      "winner": true,
+      "bans": [
+        "Renata Glasc",
+        "Ezreal",
+        "Jax",
+        "Galio",
+        "Shen"
+      ],
+      "picks": [
+        "Olaf",
+        "Lee Sin",
+        "Jhin",
+        "Poppy",
+        "Syndra"
+      ],
+      "scores": {
+        "Kills": "22",
+        "Towers": "10",
+        "Dragons": "5",
+        "Nashor": "2",
+        "Team Gold": "70k"
+      }
+    },
+    "red": {
+      "name": "Bilibili Gaming",
+      "winner": false,
+      "bans": [
+        "Lulu",
+        "Cassiopeia",
+        "Vi",
+        "Taliyah",
+        "Annie"
+      ],
+      "picks": [
+        "Qiyana",
+        "Camille",
+        "Kaisa",
+        "Alistar",
+        "LeBlanc"
+      ],
+      "scores": {
+        "Kills": "10",
+        "Towers": "2",
+        "Dragons": "0",
+        "Nashor": "0",
+        "Team Gold": "60.2k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:1242",
+        "name": "Doran",
+        "champion": "Olaf",
+        "side": "blue",
+        "kda": "7/5/9",
+        "cs": 253,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3741",
+        "name": "Oner",
+        "champion": "Lee Sin",
+        "side": "blue",
+        "kda": "6/3/8",
+        "cs": 240,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:48",
+        "name": "Faker",
+        "champion": "Syndra",
+        "side": "blue",
+        "kda": "4/0/13",
+        "cs": 269,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4247",
+        "name": "Peyz",
+        "champion": "Jhin",
+        "side": "blue",
+        "kda": "5/1/8",
+        "cs": 327,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1258",
+        "name": "Keria",
+        "champion": "Poppy",
+        "side": "blue",
+        "kda": "0/1/16",
+        "cs": 42,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:2606",
+        "name": "Bin",
+        "champion": "Camille",
+        "side": "red",
+        "kda": "2/5/2",
+        "cs": 293,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3330",
+        "name": "XUN",
+        "champion": "Qiyana",
+        "side": "red",
+        "kda": "1/4/5",
+        "cs": 250,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1270",
+        "name": "Knight",
+        "champion": "LeBlanc",
+        "side": "red",
+        "kda": "2/3/4",
+        "cs": 267,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1228",
+        "name": "Viper",
+        "champion": "Kaisa",
+        "side": "red",
+        "kda": "5/5/1",
+        "cs": 310,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3353",
+        "name": "ON",
+        "champion": "Alistar",
+        "side": "red",
+        "kda": "0/5/4",
+        "cs": 31,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83719/page-fullstats/",
+    "stats": {
+      "Player": [
+        "Doran",
+        "Oner",
+        "Faker",
+        "Peyz",
+        "Keria",
+        "Bin",
+        "XUN",
+        "Knight",
+        "Viper",
+        "ON"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "7",
+        "6",
+        "4",
+        "5",
+        "0",
+        "2",
+        "1",
+        "2",
+        "5",
+        "0"
+      ],
+      "Deaths": [
+        "5",
+        "3",
+        "0",
+        "1",
+        "1",
+        "5",
+        "4",
+        "3",
+        "5",
+        "5"
+      ],
+      "Assists": [
+        "9",
+        "8",
+        "13",
+        "8",
+        "16",
+        "2",
+        "5",
+        "4",
+        "1",
+        "4"
+      ],
+      "CS": [
+        "253",
+        "240",
+        "269",
+        "327",
+        "42",
+        "293",
+        "250",
+        "267",
+        "310",
+        "31"
+      ],
+      "Golds": [
+        "14124",
+        "14571",
+        "14157",
+        "17353",
+        "9830",
+        "11694",
+        "12729",
+        "12338",
+        "16407",
+        "7046"
+      ],
+      "Total damage to Champion": [
+        "25557",
+        "12019",
+        "20418",
+        "18110",
+        "6344",
+        "14301",
+        "10006",
+        "18746",
+        "23578",
+        "2819"
+      ],
+      "Vision Score": [
+        "41",
+        "88",
+        "50",
+        "33",
+        "152",
+        "49",
+        "54",
+        "51",
+        "43",
+        "121"
+      ]
+    }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83720/page-game/",
+    "title": "BLG vs T1 game 3 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-08",
+    "number": 3,
+    "patch": "16.20.1",
+    "duration": "36:58",
+    "blue": {
+      "name": "Bilibili Gaming",
+      "winner": true,
+      "bans": [
+        "Renata Glasc",
+        "Lulu",
+        "Jayce",
+        "Caitlyn",
+        "Viktor"
+      ],
+      "picks": [
+        "Ezreal",
+        "Pantheon",
+        "Gnar",
+        "Nami",
+        "Taliyah"
+      ],
+      "scores": {
+        "Kills": "19",
+        "Towers": "11",
+        "Dragons": "4",
+        "Nashor": "2",
+        "Team Gold": "77.6k"
+      }
+    },
+    "red": {
+      "name": "T1",
+      "winner": false,
+      "bans": [
+        "Cassiopeia",
+        "Vi",
+        "Seraphine",
+        "Leona",
+        "Bard"
+      ],
+      "picks": [
+        "Karma",
+        "Jarvan IV",
+        "Ambessa",
+        "Sivir",
+        "Ahri"
+      ],
+      "scores": {
+        "Kills": "10",
+        "Towers": "4",
+        "Dragons": "2",
+        "Nashor": "0",
+        "Team Gold": "68.3k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:2606",
+        "name": "Bin",
+        "champion": "Gnar",
+        "side": "blue",
+        "kda": "3/2/5",
+        "cs": 343,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3330",
+        "name": "XUN",
+        "champion": "Pantheon",
+        "side": "blue",
+        "kda": "3/2/11",
+        "cs": 262,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1270",
+        "name": "Knight",
+        "champion": "Taliyah",
+        "side": "blue",
+        "kda": "4/2/9",
+        "cs": 288,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1228",
+        "name": "Viper",
+        "champion": "Ezreal",
+        "side": "blue",
+        "kda": "7/1/8",
+        "cs": 373,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3353",
+        "name": "ON",
+        "champion": "Nami",
+        "side": "blue",
+        "kda": "2/3/11",
+        "cs": 39,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1242",
+        "name": "Doran",
+        "champion": "Ambessa",
+        "side": "red",
+        "kda": "1/7/4",
+        "cs": 290,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3741",
+        "name": "Oner",
+        "champion": "Jarvan IV",
+        "side": "red",
+        "kda": "2/3/8",
+        "cs": 273,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:48",
+        "name": "Faker",
+        "champion": "Ahri",
+        "side": "red",
+        "kda": "3/2/2",
+        "cs": 333,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4247",
+        "name": "Peyz",
+        "champion": "Sivir",
+        "side": "red",
+        "kda": "3/4/7",
+        "cs": 408,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1258",
+        "name": "Keria",
+        "champion": "Karma",
+        "side": "red",
+        "kda": "1/3/8",
+        "cs": 50,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83720/page-fullstats/",
+    "stats": {
+      "Player": [
+        "Bin",
+        "XUN",
+        "Knight",
+        "Viper",
+        "ON",
+        "Doran",
+        "Oner",
+        "Faker",
+        "Peyz",
+        "Keria"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "3",
+        "3",
+        "4",
+        "7",
+        "2",
+        "1",
+        "2",
+        "3",
+        "3",
+        "1"
+      ],
+      "Deaths": [
+        "2",
+        "2",
+        "2",
+        "1",
+        "3",
+        "7",
+        "3",
+        "2",
+        "4",
+        "3"
+      ],
+      "Assists": [
+        "5",
+        "11",
+        "9",
+        "8",
+        "11",
+        "4",
+        "8",
+        "2",
+        "7",
+        "8"
+      ],
+      "CS": [
+        "343",
+        "262",
+        "288",
+        "373",
+        "39",
+        "290",
+        "273",
+        "333",
+        "408",
+        "50"
+      ],
+      "Golds": [
+        "16378",
+        "14916",
+        "14973",
+        "20835",
+        "10517",
+        "12121",
+        "13570",
+        "13410",
+        "19788",
+        "9366"
+      ],
+      "Total damage to Champion": [
+        "17193",
+        "12759",
+        "23274",
+        "42773",
+        "7971",
+        "16150",
+        "9610",
+        "19821",
+        "32203",
+        "8097"
+      ],
+      "Vision Score": [
+        "61",
+        "56",
+        "62",
+        "49",
+        "173",
+        "52",
+        "76",
+        "41",
+        "37",
+        "188"
+      ]
+    }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83721/page-game/",
+    "title": "BLG vs T1 game 4 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-08",
+    "number": 4,
+    "patch": "16.20.1",
+    "duration": "37:47",
+    "blue": {
+      "name": "T1",
+      "winner": false,
+      "bans": [
+        "Cassiopeia",
+        "Vi",
+        "Jayce",
+        "Kindred",
+        "Xin Zhao"
+      ],
+      "picks": [
+        "Lucian",
+        "Milio",
+        "Akali",
+        "Wukong",
+        "Vayne"
+      ],
+      "scores": {
+        "Kills": "9",
+        "Towers": "4",
+        "Dragons": "2",
+        "Nashor": "1",
+        "Team Gold": "68.8k"
+      }
+    },
+    "red": {
+      "name": "Bilibili Gaming",
+      "winner": true,
+      "bans": [
+        "Renata Glasc",
+        "Lulu",
+        "Anivia",
+        "Trundle",
+        "Gragas"
+      ],
+      "picks": [
+        "Viktor",
+        "Ashe",
+        "Seraphine",
+        "Skarner",
+        "Renekton"
+      ],
+      "scores": {
+        "Kills": "21",
+        "Towers": "9",
+        "Dragons": "4",
+        "Nashor": "1",
+        "Team Gold": "77.7k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:1242",
+        "name": "Doran",
+        "champion": "Vayne",
+        "side": "blue",
+        "kda": "2/5/3",
+        "cs": 285,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1242/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3741",
+        "name": "Oner",
+        "champion": "Wukong",
+        "side": "blue",
+        "kda": "1/6/4",
+        "cs": 242,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3741/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:48",
+        "name": "Faker",
+        "champion": "Akali",
+        "side": "blue",
+        "kda": "3/1/4",
+        "cs": 368,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/48/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4247",
+        "name": "Peyz",
+        "champion": "Lucian",
+        "side": "blue",
+        "kda": "2/5/4",
+        "cs": 405,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4247/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1258",
+        "name": "Keria",
+        "champion": "Milio",
+        "side": "blue",
+        "kda": "1/4/8",
+        "cs": 28,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1258/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:2606",
+        "name": "Bin",
+        "champion": "Renekton",
+        "side": "red",
+        "kda": "7/1/7",
+        "cs": 305,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/2606/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3330",
+        "name": "XUN",
+        "champion": "Skarner",
+        "side": "red",
+        "kda": "2/1/16",
+        "cs": 244,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3330/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1270",
+        "name": "Knight",
+        "champion": "Viktor",
+        "side": "red",
+        "kda": "4/2/8",
+        "cs": 334,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1270/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1228",
+        "name": "Viper",
+        "champion": "Ashe",
+        "side": "red",
+        "kda": "5/3/11",
+        "cs": 385,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1228/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:3353",
+        "name": "ON",
+        "champion": "Seraphine",
+        "side": "red",
+        "kda": "3/2/16",
+        "cs": 32,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/3353/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83721/page-fullstats/",
+    "stats": {
+      "Player": [
+        "Doran",
+        "Oner",
+        "Faker",
+        "Peyz",
+        "Keria",
+        "Bin",
+        "XUN",
+        "Knight",
+        "Viper",
+        "ON"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "2",
+        "1",
+        "3",
+        "2",
+        "1",
+        "7",
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "Deaths": [
+        "5",
+        "6",
+        "1",
+        "5",
+        "4",
+        "1",
+        "1",
+        "2",
+        "3",
+        "2"
+      ],
+      "Assists": [
+        "3",
+        "4",
+        "4",
+        "4",
+        "8",
+        "7",
+        "16",
+        "8",
+        "11",
+        "16"
+      ],
+      "CS": [
+        "285",
+        "242",
+        "368",
+        "405",
+        "28",
+        "305",
+        "244",
+        "334",
+        "385",
+        "32"
+      ],
+      "Golds": [
+        "13783",
+        "12600",
+        "15859",
+        "17123",
+        "9426",
+        "15540",
+        "14390",
+        "16694",
+        "19948",
+        "11141"
+      ],
+      "Total damage to Champion": [
+        "17358",
+        "6521",
+        "20262",
+        "30151",
+        "5387",
+        "16788",
+        "12743",
+        "35563",
+        "30289",
+        "8605"
+      ],
+      "Vision Score": [
+        "57",
+        "73",
+        "56",
+        "67",
+        "164",
+        "49",
+        "68",
+        "69",
+        "76",
+        "148"
+      ]
+    }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83713/page-game/",
+    "title": "IG vs Gen.G game 1 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-07",
+    "number": 1,
+    "patch": "16.20.1",
+    "duration": "33:38",
+    "blue": {
+      "name": "Gen.G",
+      "winner": true,
+      "bans": [
+        "Lulu",
+        "Nocturne",
+        "KSante",
+        "Kaisa",
+        "Zeri"
+      ],
+      "picks": [
+        "Olaf",
+        "Qiyana",
+        "Cassiopeia",
+        "Jhin",
+        "Leona"
+      ],
+      "scores": {
+        "Kills": "29",
+        "Towers": "9",
+        "Dragons": "4",
+        "Nashor": "1",
+        "Team Gold": "73.3k"
+      }
+    },
+    "red": {
+      "name": "Invictus Gaming",
+      "winner": false,
+      "bans": [
+        "Locke",
+        "Ezreal",
+        "Renata Glasc",
+        "Nautilus",
+        "Seraphine"
+      ],
+      "picks": [
+        "Vi",
+        "Kled",
+        "Syndra",
+        "Xayah",
+        "Rakan"
+      ],
+      "scores": {
+        "Kills": "9",
+        "Towers": "3",
+        "Dragons": "1",
+        "Nashor": "0",
+        "Team Gold": "58.6k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:1115",
+        "name": "Kiin",
+        "champion": "Olaf",
+        "side": "blue",
+        "kda": "4/2/13",
+        "cs": 254,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1909",
+        "name": "Canyon",
+        "champion": "Qiyana",
+        "side": "blue",
+        "kda": "7/1/12",
+        "cs": 320,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1629",
+        "name": "Chovy",
+        "champion": "Cassiopeia",
+        "side": "blue",
+        "kda": "4/2/12",
+        "cs": 242,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:685",
+        "name": "Ruler",
+        "champion": "Jhin",
+        "side": "blue",
+        "kda": "9/2/11",
+        "cs": 314,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4259",
+        "name": "Duro",
+        "champion": "Leona",
+        "side": "blue",
+        "kda": "5/2/17",
+        "cs": 34,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1075",
+        "name": "TheShy",
+        "champion": "Kled",
+        "side": "red",
+        "kda": "0/6/5",
+        "cs": 221,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:388",
+        "name": "Wei",
+        "champion": "Vi",
+        "side": "red",
+        "kda": "5/8/0",
+        "cs": 188,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:109",
+        "name": "RooKie",
+        "champion": "Syndra",
+        "side": "red",
+        "kda": "2/6/3",
+        "cs": 236,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:5939",
+        "name": "JiaQi",
+        "champion": "Xayah",
+        "side": "red",
+        "kda": "2/5/2",
+        "cs": 356,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:386",
+        "name": "meiko",
+        "champion": "Rakan",
+        "side": "red",
+        "kda": "0/4/4",
+        "cs": 37,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83713/page-fullstats/",
+    "stats": {
+      "Player": [
+        "Kiin",
+        "Canyon",
+        "Chovy",
+        "Ruler",
+        "Duro",
+        "TheShy",
+        "Wei",
+        "RooKie",
+        "JiaQi",
+        "meiko"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "4",
+        "7",
+        "4",
+        "9",
+        "5",
+        "0",
+        "5",
+        "2",
+        "2",
+        "0"
+      ],
+      "Deaths": [
+        "2",
+        "1",
+        "2",
+        "2",
+        "2",
+        "6",
+        "8",
+        "6",
+        "5",
+        "4"
+      ],
+      "Assists": [
+        "13",
+        "12",
+        "12",
+        "11",
+        "17",
+        "5",
+        "0",
+        "3",
+        "2",
+        "4"
+      ],
+      "CS": [
+        "254",
+        "320",
+        "242",
+        "314",
+        "34",
+        "221",
+        "188",
+        "236",
+        "356",
+        "37"
+      ],
+      "Golds": [
+        "14139",
+        "18525",
+        "12879",
+        "17255",
+        "10491",
+        "9856",
+        "13588",
+        "11606",
+        "15641",
+        "7951"
+      ],
+      "Total damage to Champion": [
+        "25179",
+        "32202",
+        "15347",
+        "32904",
+        "6097",
+        "16935",
+        "8338",
+        "19995",
+        "24691",
+        "4030"
+      ],
+      "Vision Score": [
+        "59",
+        "83",
+        "59",
+        "70",
+        "162",
+        "30",
+        "54",
+        "37",
+        "37",
+        "151"
+      ]
+    }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83714/page-game/",
+    "title": "IG vs Gen.G game 2 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-07",
+    "number": 2,
+    "patch": "16.20.1",
+    "duration": "29:16",
+    "blue": {
+      "name": "Gen.G",
+      "winner": true,
+      "bans": [
+        "Lulu",
+        "Orianna",
+        "Zeri",
+        "Lissandra",
+        "Annie"
+      ],
+      "picks": [
+        "Seraphine",
+        "Ashe",
+        "Lee Sin",
+        "Ahri",
+        "Gwen"
+      ],
+      "scores": {
+        "Kills": "26",
+        "Towers": "9",
+        "Dragons": "4",
+        "Nashor": "1",
+        "Team Gold": "63.8k"
+      }
+    },
+    "red": {
+      "name": "Invictus Gaming",
+      "winner": false,
+      "bans": [
+        "Pantheon",
+        "Galio",
+        "Renata Glasc",
+        "Locke",
+        "Akali"
+      ],
+      "picks": [
+        "Nocturne",
+        "Lucian",
+        "Milio",
+        "Sylas",
+        "Rumble"
+      ],
+      "scores": {
+        "Kills": "9",
+        "Towers": "1",
+        "Dragons": "1",
+        "Nashor": "0",
+        "Team Gold": "49.3k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:1115",
+        "name": "Kiin",
+        "champion": "Gwen",
+        "side": "blue",
+        "kda": "6/2/6",
+        "cs": 267,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1909",
+        "name": "Canyon",
+        "champion": "Lee Sin",
+        "side": "blue",
+        "kda": "5/0/15",
+        "cs": 242,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1629",
+        "name": "Chovy",
+        "champion": "Ahri",
+        "side": "blue",
+        "kda": "6/1/10",
+        "cs": 243,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:685",
+        "name": "Ruler",
+        "champion": "Ashe",
+        "side": "blue",
+        "kda": "7/3/15",
+        "cs": 257,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4259",
+        "name": "Duro",
+        "champion": "Seraphine",
+        "side": "blue",
+        "kda": "2/3/17",
+        "cs": 36,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1075",
+        "name": "TheShy",
+        "champion": "Rumble",
+        "side": "red",
+        "kda": "3/4/2",
+        "cs": 231,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:388",
+        "name": "Wei",
+        "champion": "Nocturne",
+        "side": "red",
+        "kda": "2/5/4",
+        "cs": 180,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:109",
+        "name": "RooKie",
+        "champion": "Sylas",
+        "side": "red",
+        "kda": "2/5/5",
+        "cs": 214,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:5939",
+        "name": "JiaQi",
+        "champion": "Lucian",
+        "side": "red",
+        "kda": "2/5/5",
+        "cs": 278,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:386",
+        "name": "meiko",
+        "champion": "Milio",
+        "side": "red",
+        "kda": "0/8/7",
+        "cs": 31,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83714/page-fullstats/",
+    "stats": {
+      "Player": [
+        "Kiin",
+        "Canyon",
+        "Chovy",
+        "Ruler",
+        "Duro",
+        "TheShy",
+        "Wei",
+        "RooKie",
+        "JiaQi",
+        "meiko"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "6",
+        "5",
+        "6",
+        "7",
+        "2",
+        "3",
+        "2",
+        "2",
+        "2",
+        "0"
+      ],
+      "Deaths": [
+        "2",
+        "0",
+        "1",
+        "3",
+        "3",
+        "4",
+        "5",
+        "5",
+        "5",
+        "8"
+      ],
+      "Assists": [
+        "6",
+        "15",
+        "10",
+        "15",
+        "17",
+        "2",
+        "4",
+        "5",
+        "5",
+        "7"
+      ],
+      "CS": [
+        "267",
+        "242",
+        "243",
+        "257",
+        "36",
+        "231",
+        "180",
+        "214",
+        "278",
+        "31"
+      ],
+      "Golds": [
+        "13831",
+        "14079",
+        "11419",
+        "16042",
+        "8477",
+        "10624",
+        "9882",
+        "9978",
+        "11916",
+        "6907"
+      ],
+      "Total damage to Champion": [
+        "22434",
+        "15844",
+        "22557",
+        "23675",
+        "6634",
+        "22337",
+        "9382",
+        "13226",
+        "19998",
+        "2936"
+      ],
+      "Vision Score": [
+        "49",
+        "45",
+        "40",
+        "50",
+        "120",
+        "25",
+        "53",
+        "37",
+        "50",
+        "105"
+      ]
+    }
+  },
+  {
+    "sourceUrl": "https://gol.gg/game/stats/83715/page-game/",
+    "title": "IG vs Gen.G game 3 - Worlds 2026 Main Event SEMIFINALS - Games of Legends",
+    "date": "2026-11-07",
+    "number": 3,
+    "patch": "16.20.1",
+    "duration": "40:08",
+    "blue": {
+      "name": "Invictus Gaming",
+      "winner": false,
+      "bans": [
+        "Jayce",
+        "Pantheon",
+        "Jarvan IV",
+        "Kaisa",
+        "Corki"
+      ],
+      "picks": [
+        "Alistar",
+        "Naafiri",
+        "Locke",
+        "Ezreal",
+        "Gnar"
+      ],
+      "scores": {
+        "Kills": "18",
+        "Towers": "5",
+        "Dragons": "4",
+        "Nashor": "0",
+        "Team Gold": "71.7k"
+      }
+    },
+    "red": {
+      "name": "Gen.G",
+      "winner": true,
+      "bans": [
+        "Renata Glasc",
+        "Orianna",
+        "Lulu",
+        "Sivir",
+        "Renekton"
+      ],
+      "picks": [
+        "Nautilus",
+        "Wukong",
+        "Taliyah",
+        "Camille",
+        "Yunara"
+      ],
+      "scores": {
+        "Kills": "16",
+        "Towers": "9",
+        "Dragons": "2",
+        "Nashor": "1",
+        "Team Gold": "78.2k"
+      }
+    },
+    "rows": [
+      {
+        "id": "gol:1075",
+        "name": "TheShy",
+        "champion": "Gnar",
+        "side": "blue",
+        "kda": "3/4/8",
+        "cs": 322,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1075/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:388",
+        "name": "Wei",
+        "champion": "Naafiri",
+        "side": "blue",
+        "kda": "1/2/13",
+        "cs": 274,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/388/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:109",
+        "name": "RooKie",
+        "champion": "Locke",
+        "side": "blue",
+        "kda": "11/2/5",
+        "cs": 276,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/109/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:5939",
+        "name": "JiaQi",
+        "champion": "Ezreal",
+        "side": "blue",
+        "kda": "3/3/5",
+        "cs": 380,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/5939/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:386",
+        "name": "meiko",
+        "champion": "Alistar",
+        "side": "blue",
+        "kda": "0/5/12",
+        "cs": 35,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/386/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1115",
+        "name": "Kiin",
+        "champion": "Camille",
+        "side": "red",
+        "kda": "4/3/4",
+        "cs": 287,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1115/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1909",
+        "name": "Canyon",
+        "champion": "Wukong",
+        "side": "red",
+        "kda": "2/3/10",
+        "cs": 241,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1909/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:1629",
+        "name": "Chovy",
+        "champion": "Taliyah",
+        "side": "red",
+        "kda": "3/3/11",
+        "cs": 303,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/1629/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:685",
+        "name": "Ruler",
+        "champion": "Yunara",
+        "side": "red",
+        "kda": "7/3/7",
+        "cs": 437,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/685/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      },
+      {
+        "id": "gol:4259",
+        "name": "Duro",
+        "champion": "Nautilus",
+        "side": "red",
+        "kda": "0/6/11",
+        "cs": 30,
+        "sourcePlayerUrl": "https://gol.gg/players/player-stats/4259/season-ALL/split-ALL/tournament-Worlds%202026%20Main%20Event/champion-ALL/"
+      }
+    ],
+    "statsUrl": "https://gol.gg/game/stats/83715/page-fullstats/",
+    "stats": {
+      "Player": [
+        "TheShy",
+        "Wei",
+        "RooKie",
+        "JiaQi",
+        "meiko",
+        "Kiin",
+        "Canyon",
+        "Chovy",
+        "Ruler",
+        "Duro"
+      ],
+      "Role": [
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT",
+        "TOP",
+        "JUNGLE",
+        "MID",
+        "ADC",
+        "SUPPORT"
+      ],
+      "Kills": [
+        "3",
+        "1",
+        "11",
+        "3",
+        "0",
+        "4",
+        "2",
+        "3",
+        "7",
+        "0"
+      ],
+      "Deaths": [
+        "4",
+        "2",
+        "2",
+        "3",
+        "5",
+        "3",
+        "3",
+        "3",
+        "3",
+        "6"
+      ],
+      "Assists": [
+        "8",
+        "13",
+        "5",
+        "5",
+        "12",
+        "4",
+        "10",
+        "11",
+        "7",
+        "11"
+      ],
+      "CS": [
+        "322",
+        "274",
+        "276",
+        "380",
+        "35",
+        "287",
+        "241",
+        "303",
+        "437",
+        "30"
+      ],
+      "Golds": [
+        "15284",
+        "14603",
+        "15970",
+        "16830",
+        "9003",
+        "15092",
+        "13908",
+        "15658",
+        "23883",
+        "9638"
+      ],
+      "Total damage to Champion": [
+        "23072",
+        "19566",
+        "21936",
+        "27350",
+        "5106",
+        "18585",
+        "9717",
+        "33470",
+        "45923",
+        "6065"
+      ],
+      "Vision Score": [
+        "82",
+        "86",
+        "49",
+        "54",
+        "166",
+        "62",
+        "86",
+        "57",
+        "68",
+        "166"
+      ]
+    }
   }
 ]

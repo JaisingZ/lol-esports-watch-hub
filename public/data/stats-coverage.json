@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T07:06:34.264Z",
+  "updatedAt": "2026-11-09T07:56:26.541Z",
   "season": 2026,
-  "completedSeries": 43,
-  "coveredSeries": 43,
-  "games": 87,
+  "completedSeries": 45,
+  "coveredSeries": 45,
+  "games": 94,
   "players": 96,
-  "playerGameRows": 870,
+  "playerGameRows": 940,
   "historicalPlayerGameRows": 2883,
   "historyYears": [
     2015,
