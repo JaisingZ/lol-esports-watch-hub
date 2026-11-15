@@ -3728,6 +3728,22 @@
     "officialVodId": "117492579285283417"
   },
   {
+    "id": "vod-595271eacc297091",
+    "matchId": "official:115660540726095133",
+    "broadcastId": "worlds-2026-knockout-2026-11-14",
+    "sourceId": "youtube-vi",
+    "language": "vi",
+    "platform": "YouTube",
+    "type": "singleGame",
+    "gameNumber": 4,
+    "url": "https://www.youtube.com/watch?v=qdBJARhANws",
+    "verifiedAt": "2026-11-15T17:05:19.317Z",
+    "pageStatus": "unverified",
+    "playbackStatus": "unverified",
+    "evidenceUrl": "https://lolesports.com/en-US/",
+    "officialVodId": "117620596891433079"
+  },
+  {
     "id": "vod-59678dc62fcf5d50",
     "matchId": "official:115660540726095133",
     "broadcastId": "worlds-2026-knockout-2026-11-14",
